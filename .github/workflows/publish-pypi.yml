@@ -1,0 +1,89 @@
+# Intended repository path: .github/workflows/publish-pypi.yml
+# PyPI Trusted Publisher: owner232 / retatrutide-ly3437943-molarity-calculator
+# Workflow filename: publish-pypi.yml; environment: pypi
+# Uploads the original verified 0.1.0 files; never checks out or rebuilds source.
+name: Publish verified PyPI 0.1.0
+
+"on":
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: publish-pypi-retatrutide-stoichiometry-0.1.0
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: >-
+      github.event_name == 'workflow_dispatch' &&
+      github.repository == 'owner232/retatrutide-ly3437943-molarity-calculator' &&
+      github.ref == 'refs/heads/main'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    environment:
+      name: pypi
+      url: https://pypi.org/project/retatrutide-stoichiometry/0.1.0/
+    permissions:
+      id-token: write
+    steps:
+      - name: Download and verify the original release files
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import hashlib
+          import hmac
+          from pathlib import Path
+          from urllib.parse import urlsplit
+          from urllib.request import Request, urlopen
+
+          base_url = (
+              "https://github.com/owner232/"
+              "retatrutide-ly3437943-molarity-calculator/"
+              "releases/download/v0.1.0/"
+          )
+          artifacts = {
+              "retatrutide_stoichiometry-0.1.0-py3-none-any.whl": (
+                  9417,
+                  "19a7fcae179b88f300ad19aa1a8f3425d43a1fbf1268e0fd09eb5296e0e6b70c",
+              ),
+              "retatrutide_stoichiometry-0.1.0.tar.gz": (
+                  9882,
+                  "b6ba273365b322ef6910547e0cd65a9d447f5799ca41c0bda56ce264fd03418e",
+              ),
+          }
+          dist = Path("dist")
+          dist.mkdir(exist_ok=False)
+          for filename, (expected_size, expected_sha256) in artifacts.items():
+              request = Request(
+                  base_url + filename,
+                  headers={"User-Agent": "retatrutide-stoichiometry-release/0.1.0"},
+              )
+              with urlopen(request, timeout=60) as response:
+                  if urlsplit(response.geturl()).scheme != "https":
+                      raise SystemExit(f"Refusing a non-HTTPS download: {filename}")
+                  data = response.read(expected_size + 1)
+              actual_sha256 = hashlib.sha256(data).hexdigest()
+              if len(data) != expected_size or not hmac.compare_digest(
+                  actual_sha256, expected_sha256
+              ):
+                  raise SystemExit(
+                      f"Artifact verification failed: {filename}; "
+                      f"bytes={len(data)}, sha256={actual_sha256}"
+                  )
+              (dist / filename).write_bytes(data)
+              print(f"Verified {filename}: {len(data)} bytes; SHA256 {actual_sha256}")
+          if sorted(path.name for path in dist.iterdir()) != sorted(artifacts):
+              raise SystemExit("Unexpected files in the publishing directory")
+          PY
+
+      - name: Publish the verified files to PyPI with OIDC
+        # Official v1.14.2 release commit, verified on 2026-10-18.
+        uses: pypa/gh-action-pypi-publish@dc37677b2e1c63e2034f94d8a5b11f265b73ba33
+        with:
+          packages-dir: dist/
+          verify-metadata: "true"
+          skip-existing: "false"
+          print-hash: "true"
+          attestations: "true"
