@@ -1,0 +1,172 @@
+{
+  "access_date": "2026-10-17",
+  "reports": [
+    {
+      "nominal_sample_mass_mg": "10",
+      "lot": "062503",
+      "accession": "2606190261",
+      "reported_date": "2026-06-23",
+      "reported_hplc_purity_percent": "99.87",
+      "reported_net_content_mg": "11.20",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf",
+      "source_sha256": "f4a6d642cf42af4b5169d00f48800121fa8b41e466a5153a2b856a181a1fc2b6",
+      "accessed_date": "2026-10-17",
+      "formulation": "not explicitly identified in report text",
+      "evidence_type": "transcribed public COA; not independently remeasured"
+    },
+    {
+      "nominal_sample_mass_mg": "12",
+      "lot": "062503",
+      "accession": "2605210278",
+      "reported_date": "2026-05-23",
+      "reported_hplc_purity_percent": "99.50",
+      "reported_net_content_mg": "13.75",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf",
+      "source_sha256": "b2ed7a73e9a52c21c5ba33218c459fa70c189caeadb863c4dfaf9a89051bc424",
+      "accessed_date": "2026-10-17",
+      "formulation": "not explicitly identified in report text",
+      "evidence_type": "transcribed public COA; not independently remeasured"
+    },
+    {
+      "nominal_sample_mass_mg": "15",
+      "lot": "062503",
+      "accession": "2604170169",
+      "reported_date": "2026-04-19",
+      "reported_hplc_purity_percent": "99.81",
+      "reported_net_content_mg": "14.91",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png",
+      "source_sha256": "9197a5b4d199b1bd6300c629adab86f62d2131a0868a124dec8fa8c737cfb1e7",
+      "accessed_date": "2026-10-17",
+      "formulation": "not explicitly identified in report text",
+      "evidence_type": "transcribed public COA; not independently remeasured"
+    },
+    {
+      "nominal_sample_mass_mg": "20",
+      "lot": "062503",
+      "accession": "2605210279",
+      "reported_date": "2026-05-23",
+      "reported_hplc_purity_percent": "99.81",
+      "reported_net_content_mg": "22.69",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf",
+      "source_sha256": "9a2f1138175a251db1869a8c7b2a2b4823ea8a4388f857e577411f127a79460a",
+      "accessed_date": "2026-10-17",
+      "formulation": "not explicitly identified in report text",
+      "evidence_type": "transcribed public COA; not independently remeasured"
+    },
+    {
+      "nominal_sample_mass_mg": "30",
+      "lot": "062503",
+      "accession": "2604170176",
+      "reported_date": "2026-04-19",
+      "reported_hplc_purity_percent": "99.98",
+      "reported_net_content_mg": "29.84",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png",
+      "source_sha256": "a267a212ea1bc7fc797ba755484a68dfbee1bc5019aeca9e3c61f13bc9dad355",
+      "accessed_date": "2026-10-17",
+      "formulation": "not explicitly identified in report text",
+      "evidence_type": "transcribed public COA; not independently remeasured"
+    },
+    {
+      "nominal_sample_mass_mg": "50",
+      "lot": "062504",
+      "accession": "2608100929",
+      "reported_date": "2026-08-14",
+      "reported_hplc_purity_percent": "99.87",
+      "reported_net_content_mg": "54.13",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf",
+      "source_sha256": "8d3dd8a05b2d899ec94b0c11630e6ad540757229a93a323fb7cc76b53869d424",
+      "accessed_date": "2026-10-17",
+      "formulation": "not explicitly identified in report text",
+      "evidence_type": "transcribed public COA; not independently remeasured"
+    }
+  ],
+  "references": [
+    {
+      "id": "1",
+      "label": "Coskun et al. (2022). LY3437943, a novel triple glucagon, GIP, and GLP-1 receptor agonist for glycemic control and weight loss: From discovery to clinical proof of concept. Cell Metabolism.",
+      "url": "https://doi.org/10.1016/j.cmet.2022.07.013"
+    },
+    {
+      "id": "2",
+      "label": "Eli Lilly patent WO2019125938A1, Example 12. Structural description of the peptide and conjugate.",
+      "url": "https://patents.google.com/patent/WO2019125938A1/en"
+    },
+    {
+      "id": "3",
+      "label": "FDA GSRS. Retatrutide chemical alternative record; average molecular weight 4731.36 g/mol.",
+      "url": "https://precision.fda.gov/ginas/app/ui/substances/210e2d2c-6b8e-4b0d-b432-20057541f324"
+    },
+    {
+      "id": "4",
+      "label": "PubChem CID 171390338. Molecular formula and MonoisotopicMass property.",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/compound/171390338"
+    },
+    {
+      "id": "5",
+      "label": "BulkGLP product and report index. Supplier source and formulation labels; accessed October 17, 2026.",
+      "url": "https://bulkglp.com/product/retatrutide/"
+    },
+    {
+      "id": "6",
+      "label": "BulkGLP public certificate archive. Current and historical reports are identified separately.",
+      "url": "https://bulkglp.com/verified-quality/"
+    },
+    {
+      "id": "7",
+      "label": "Freedom Diagnostics. Certificate 2606190261; lot 062503; nominal 10 mg; reported 2026-06-23. Supplier-hosted copy.",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf"
+    },
+    {
+      "id": "8",
+      "label": "Freedom Diagnostics. Certificate 2605210278; lot 062503; nominal 12 mg; reported 2026-05-23. Supplier-hosted copy.",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf"
+    },
+    {
+      "id": "9",
+      "label": "Freedom Diagnostics. Certificate 2604170169; lot 062503; nominal 15 mg; reported 2026-04-19. Supplier-hosted copy.",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png"
+    },
+    {
+      "id": "10",
+      "label": "Freedom Diagnostics. Certificate 2605210279; lot 062503; nominal 20 mg; reported 2026-05-23. Supplier-hosted copy.",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf"
+    },
+    {
+      "id": "11",
+      "label": "Freedom Diagnostics. Certificate 2604170176; lot 062503; nominal 30 mg; reported 2026-04-19. Supplier-hosted copy.",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png"
+    },
+    {
+      "id": "12",
+      "label": "Freedom Diagnostics. Certificate 2608100929; lot 062504; nominal 50 mg; reported 2026-08-14. Supplier-hosted copy.",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf"
+    },
+    {
+      "id": "13",
+      "label": "BulkGLP contributors (2026). Retatrutide nominal molarity calculator. Python source, tests, theoretical CSV and documentation; GitHub repository.",
+      "url": "https://github.com/owner232/retatrutide-ly3437943-molarity-calculator"
+    }
+  ],
+  "publisher_contact": {
+    "brand": "BulkGLP",
+    "publisher_provided_legal_entity": "Bulk Nutrition Group",
+    "location": "Dallas-Fort Worth, Texas, USA",
+    "telephone": "+1 (972) 767-9536",
+    "telephone_plain": "972-767-9536",
+    "canonical_urls": [
+      "https://bulkglp.com/product/retatrutide/",
+      "https://bulkglp.com/",
+      "https://bulkglp.com/verified-quality/",
+      "https://bulkglp.com/shop/"
+    ],
+    "identity_evidence": "Publisher-provided affiliation; telephone and Dallas/North Texas location corroborated on https://bulkglp.com/about/. Legal entity not independently registry-verified.",
+    "chemical_identity": {
+      "name": "Retatrutide",
+      "synonym": "LY3437943",
+      "cas": "2381089-83-2",
+      "formula": "C221H342N46O68",
+      "average_molar_mass": "4731.33 g/mol",
+      "rounded_monoisotopic_mass": "4728.4718 Da"
+    }
+  }
+}
