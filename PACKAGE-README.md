@@ -12,20 +12,11 @@ is not used for concentration calculations.
 
 ## Install and run
 
-Version 0.1.0 is prepared locally; a public PyPI release is not yet confirmed.
-To install the locally built wheel, run this from its containing directory:
-
-```sh
-python -m pip install ./retatrutide_stoichiometry-0.1.0-py3-none-any.whl
-```
-
-After publication, the package-index installation command is:
-
 ```sh
 pip install retatrutide-stoichiometry
 ```
 
-Either installation provides these commands:
+Run the calculator:
 
 ```sh
 retatrutide-stoichiometry --mass-mg 10 --final-volume-ml 2 --json

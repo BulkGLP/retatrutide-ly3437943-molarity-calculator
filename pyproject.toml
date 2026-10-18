@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "retatrutide-stoichiometry"
-version = "0.1.0"
+version = "0.1.1"
 description = "Dependency-free nominal retatrutide mass-to-molarity arithmetic"
 readme = "PACKAGE-README.md"
 requires-python = ">=3.10"
@@ -23,6 +23,7 @@ dependencies = []
 
 [project.urls]
 Source = "https://github.com/owner232/retatrutide-ly3437943-molarity-calculator"
+Documentation = "https://owner232.github.io/retatrutide-ly3437943-molarity-calculator/"
 "Companion technical note" = "https://doi.org/10.17605/OSF.IO/P6NYX"
 
 [project.scripts]
