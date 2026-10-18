@@ -1,0 +1,6 @@
+include PACKAGE-README.md
+exclude README.md
+include LICENSE
+include CC-BY-NOTICE.md
+include nominal_molarity_matrix.csv
+include test_retatrutide_stoichiometry.py

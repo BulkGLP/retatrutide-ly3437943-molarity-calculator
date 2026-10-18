@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=77.0.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retatrutide-stoichiometry"
+version = "0.1.0"
+description = "Dependency-free nominal retatrutide mass-to-molarity arithmetic"
+readme = "PACKAGE-README.md"
+requires-python = ">=3.10"
+license = "MIT AND CC-BY-4.0"
+license-files = ["LICENSE", "CC-BY-NOTICE.md"]
+authors = [{name = "BulkGLP contributors"}]
+keywords = ["retatrutide", "LY3437943", "molarity", "stoichiometry"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Scientific/Engineering :: Chemistry",
+]
+dependencies = []
+
+[project.urls]
+Source = "https://github.com/owner232/retatrutide-ly3437943-molarity-calculator"
+"Companion technical note" = "https://doi.org/10.17605/OSF.IO/P6NYX"
+
+[project.scripts]
+retatrutide-stoichiometry = "retatrutide_stoichiometry:main"
+
+[tool.setuptools]
+py-modules = ["retatrutide_stoichiometry"]
+
+[tool.setuptools.data-files]
+"share/retatrutide-stoichiometry" = ["nominal_molarity_matrix.csv"]
