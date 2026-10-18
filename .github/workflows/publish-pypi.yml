@@ -1,8 +1,8 @@
 # Intended repository path: .github/workflows/publish-pypi.yml
-# PyPI Trusted Publisher: owner232 / retatrutide-ly3437943-molarity-calculator
+# PyPI Trusted Publisher: BulkGLP / retatrutide-ly3437943-molarity-calculator
 # Workflow filename: publish-pypi.yml; environment: pypi
-# Uploads the original verified 0.1.1 files; never checks out or rebuilds source.
-name: Publish verified PyPI 0.1.1
+# Uploads the original verified 0.1.2 files; never checks out or rebuilds source.
+name: Publish verified PyPI 0.1.2
 
 "on":
   workflow_dispatch:
@@ -10,20 +10,20 @@ name: Publish verified PyPI 0.1.1
 permissions: {}
 
 concurrency:
-  group: publish-pypi-retatrutide-stoichiometry-0.1.1
+  group: publish-pypi-retatrutide-stoichiometry-0.1.2
   cancel-in-progress: false
 
 jobs:
   publish:
     if: >-
       github.event_name == 'workflow_dispatch' &&
-      github.repository == 'owner232/retatrutide-ly3437943-molarity-calculator' &&
+      github.repository == 'BulkGLP/retatrutide-ly3437943-molarity-calculator' &&
       github.ref == 'refs/heads/main'
     runs-on: ubuntu-24.04
     timeout-minutes: 10
     environment:
       name: pypi
-      url: https://pypi.org/project/retatrutide-stoichiometry/0.1.1/
+      url: https://pypi.org/project/retatrutide-stoichiometry/0.1.2/
     permissions:
       id-token: write
     steps:
@@ -39,18 +39,18 @@ jobs:
           from urllib.request import Request, urlopen
 
           base_url = (
-              "https://github.com/owner232/"
+              "https://github.com/BulkGLP/"
               "retatrutide-ly3437943-molarity-calculator/"
-              "releases/download/v0.1.1/"
+              "releases/download/v0.1.2/"
           )
           artifacts = {
-              "retatrutide_stoichiometry-0.1.1-py3-none-any.whl": (
-                  9298,
-                  "20bf9560c7f77ff8d5f6282f51a7b6969671ecec23a1a519f5d47e2ccb5ae9f6",
+              "retatrutide_stoichiometry-0.1.2-py3-none-any.whl": (
+                  9304,
+                  "590e8efe60e069c2756c85a7c76b95a079b5239ab4e3d14817495648ae4628b9",
               ),
-              "retatrutide_stoichiometry-0.1.1.tar.gz": (
-                  9772,
-                  "ad3faac71e2d64e69b5609808e974f18293d4a139f392d3d11e14b6990bb50dc",
+              "retatrutide_stoichiometry-0.1.2.tar.gz": (
+                  9791,
+                  "7629dbcdb2b77fa98759da070e856010000c11a42b8b077fe3a7a16a50e5eb21",
               ),
           }
           dist = Path("dist")
@@ -58,7 +58,7 @@ jobs:
           for filename, (expected_size, expected_sha256) in artifacts.items():
               request = Request(
                   base_url + filename,
-                  headers={"User-Agent": "retatrutide-stoichiometry-release/0.1.1"},
+                  headers={"User-Agent": "retatrutide-stoichiometry-release/0.1.2"},
               )
               with urlopen(request, timeout=60) as response:
                   if urlsplit(response.geturl()).scheme != "https":
