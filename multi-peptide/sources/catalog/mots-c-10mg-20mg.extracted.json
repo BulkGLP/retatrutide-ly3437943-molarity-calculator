@@ -1,0 +1,551 @@
+{
+  "slug": "mots-c-10mg-20mg",
+  "canonical": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "Tesamorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Sermorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "CJC-1295 with DAC 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "mots-c-10mg-20mg",
+    "title": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg",
+    "description": "MOTS-c is offered as a lyophilized research peptide in 10 mg, 20 mg and 40 mg vial options, with mannitol listed as a stabilizer. Select the size and review the documentation for the corresponding material and lot. For in-vitro or ex-vivo laboratory research only; not for human or veterinary use.",
+    "categories": [
+      {
+        "slug": "all-products",
+        "name": "All Products"
+      },
+      {
+        "slug": "bioactive-research-peptides",
+        "name": "Bioactive Research Peptides"
+      },
+      {
+        "slug": "mitochondrial-metabolic-peptides",
+        "name": "Mitochondrial & Metabolic Research"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/495476b462ad97cbfb94.avif",
+      "alt": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$30:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTV5PBZZSJ16ZEDZHG6NK",
+        "label": "40MG",
+        "formulation": "",
+        "priceMinor": 20000,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTV5P6JYA6HJ8777Q9NWM",
+        "label": "20MG",
+        "formulation": "",
+        "priceMinor": 12900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTV5QJ5R6TWVB6Q09V530",
+        "label": "10MG",
+        "formulation": "",
+        "priceMinor": 7000,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BXSW5TSWY7RRNQ1VZ1Q0W1",
+        "label": "20MG - 10 Pack",
+        "formulation": "",
+        "priceMinor": 103200,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/495476b462ad97cbfb94.avif",
+          "alt": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg — 20MG - 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTV5P6JYA6HJ8777Q9NWM"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5T1RY8174K2X0ZDT34",
+        "label": "40MG - 10 Pack",
+        "formulation": "",
+        "priceMinor": 160000,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/495476b462ad97cbfb94.avif",
+          "alt": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg — 40MG - 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTV5PBZZSJ16ZEDZHG6NK"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5T83XZ6F3ERKDWNQKV",
+        "label": "10MG - 10 Pack",
+        "formulation": "",
+        "priceMinor": 56000,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/495476b462ad97cbfb94.avif",
+          "alt": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg — 10MG - 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTV5QJ5R6TWVB6Q09V530"
+        }
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg",
+      "description": "MOTS-c is offered as a lyophilized research peptide in 10 mg, 20 mg and 40 mg vial options, with mannitol listed as a stabilizer. Select the size and review the documentation for the corresponding material and lot. For in-vitro or ex-vivo laboratory research only; not for human or veterinary use.",
+      "url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/495476b462ad97cbfb94.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "40MG",
+          "sku": "variant_01M4BBTV5PBZZSJ16ZEDZHG6NK",
+          "url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+          "price": "200.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "20MG",
+          "sku": "variant_01M4BBTV5P6JYA6HJ8777Q9NWM",
+          "url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+          "price": "129.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "10MG",
+          "sku": "variant_01M4BBTV5QJ5R6TWVB6Q09V530",
+          "url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+          "price": "70.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "12.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "20MG - 10 Pack",
+          "sku": "variant_01M4BXSW5TSWY7RRNQ1VZ1Q0W1",
+          "url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+          "price": "1032.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "40MG - 10 Pack",
+          "sku": "variant_01M4BXSW5T1RY8174K2X0ZDT34",
+          "url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+          "price": "1600.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "10MG - 10 Pack",
+          "sku": "variant_01M4BXSW5T83XZ6F3ERKDWNQKV",
+          "url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+          "price": "560.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg",
+          "item": "https://bulkglp.com/product/mots-c-10mg-20mg/"
+        }
+      ]
+    }
+  ],
+  "coa_links": [
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210281.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS20mg · Lot 5105 · Report 2605210281↗ (opens in a new tab)"
+    }
+  ],
+  "visible_text": "MOTS-c Research Peptide | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg All Products All Products MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg MOTS-c is offered as a lyophilized research peptide in 10 mg, 20 mg and 40 mg vial options, with mannitol listed as a stabilizer. Select the size and review the documentation for the corresponding material and lot. For in-vitro or ex-vivo laboratory research only; not for human or veterinary use. ↗ View batch documentation Vial size 10 mg 20 mg 40 mg Pack size Single vial 1 vial 10-pack 10 vials Save 20% 40 mg per vial · 1 vial YOUR SELECTION 40MG $200 USD In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. CERTIFICATE OF ANALYSIS 20mg · Lot 5105 · Report 2605210281 ↗ (opens in a new tab) Explore all lab reports → CONTINUE EXPLORING Related research products. View the catalog ↗ In stock Bioactive Research Peptides Tesamorelin 10mg Single 10 Pack View product details From $119 ↗ Choose format → In stock Bioactive Research Peptides Sermorelin 10mg Single 10 Pack View product details From $80 ↗ Choose format → In stock Bioactive Research Peptides CJC-1295 with DAC 10mg Single 10 Pack View product details From $55 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides GHK-Cu Peptide (GHKCu) — 100mg Research Vial Single 10 Pack View product details From $52 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}

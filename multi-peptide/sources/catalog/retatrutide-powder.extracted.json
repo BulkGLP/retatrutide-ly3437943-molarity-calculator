@@ -1,0 +1,279 @@
+{
+  "slug": "retatrutide-powder",
+  "canonical": "https://bulkglp.com/product/retatrutide-powder/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Retatrutide Powder (LY3437943) — 500mg & 1g"
+    },
+    {
+      "tag": "h2",
+      "text": "Retatrutide reference specifications"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "Tesamorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Sermorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "CJC-1295 with DAC 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "retatrutide-powder",
+    "title": "Retatrutide Powder (LY3437943) — 500mg & 1g",
+    "description": "Retatrutide, identified by research code LY3437943, is offered as lyophilized research powder in 500 mg and 1 g options. Select one of the available sizes and review its batch documentation against laboratory requirements. For laboratory research only; not for human or veterinary use.",
+    "categories": [
+      {
+        "slug": "raw-research-powders",
+        "name": "Bulk Raw Research Powders"
+      },
+      {
+        "slug": "all-products",
+        "name": "All Products"
+      },
+      {
+        "slug": "retatrutide",
+        "name": "Retatrutide Research Peptides"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/5e7e382bece6fba8117c.avif",
+      "alt": "Retatrutide Powder (LY3437943) — 500mg & 1g",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$2f:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTVK4VAGDW4AQVC9G57E6",
+        "label": "1g",
+        "formulation": "",
+        "priceMinor": 348300,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVK4CR4RT27W7WA0RHA7",
+        "label": "500mg",
+        "formulation": "",
+        "priceMinor": 178000,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "Retatrutide Powder (LY3437943) — 500mg & 1g",
+      "description": "Retatrutide, identified by research code LY3437943, is offered as lyophilized research powder in 500 mg and 1 g options. Select one of the available sizes and review its batch documentation against laboratory requirements. For laboratory research only; not for human or veterinary use.",
+      "url": "https://bulkglp.com/product/retatrutide-powder/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/5e7e382bece6fba8117c.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "1g",
+          "sku": "variant_01M4BBTVK4VAGDW4AQVC9G57E6",
+          "url": "https://bulkglp.com/product/retatrutide-powder/",
+          "price": "3483.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "500mg",
+          "sku": "variant_01M4BBTVK4CR4RT27W7WA0RHA7",
+          "url": "https://bulkglp.com/product/retatrutide-powder/",
+          "price": "1780.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Retatrutide Powder (LY3437943) — 500mg & 1g",
+          "item": "https://bulkglp.com/product/retatrutide-powder/"
+        }
+      ]
+    }
+  ],
+  "coa_links": [
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180.png",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSISN/A · Lot 062503 · Report 2604170180↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-1.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSISN/A · Lot 062503 · Report 2604170180-1↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-2.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSISN/A · Lot 062503 · Report 2604170180-2↗ (opens in a new tab)"
+    }
+  ],
+  "visible_text": "Retatrutide Research Powder, 500 mg and 1 g | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / Retatrutide Powder (LY3437943) — 500mg & 1g Bulk Raw Research Powders Bulk Raw Research Powders Retatrutide Powder (LY3437943) — 500mg & 1g Retatrutide, identified by research code LY3437943, is offered as lyophilized research powder in 500 mg and 1 g options. Select one of the available sizes and review its batch documentation against laboratory requirements. For laboratory research only; not for human or veterinary use. ↗ View batch documentation Size 500 mg 1 g 1 g per unit · 1 unit YOUR SELECTION 1g $3,483 USD In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. Retatrutide reference specifications These identifiers describe the parent peptide molecule. Counterions and formulation additives are excluded from the molecular formula and molecular weight. Compound Retatrutide (LY3437943) CAS registry number 2381089-83-2 Molecular formula C 221 H 342 N 46 O 68 Molecular weight Approximately 4,731 g/mol (calculated from the molecular formula) References: WHO Proposed INN List 128 (page 1051) (opens in a new tab) · NCATS substance record (opens in a new tab) THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. CERTIFICATE OF ANALYSIS N/A · Lot 062503 · Report 2604170180 ↗ (opens in a new tab) CERTIFICATE OF ANALYSIS N/A · Lot 062503 · Report 2604170180-1 ↗ (opens in a new tab) CERTIFICATE OF ANALYSIS N/A · Lot 062503 · Report 2604170180-2 ↗ (opens in a new tab) Explore all lab reports → CONTINUE EXPLORING Related research products. View the catalog ↗ In stock Bioactive Research Peptides Tesamorelin 10mg Single 10 Pack View product details From $119 ↗ Choose format → In stock Bioactive Research Peptides Sermorelin 10mg Single 10 Pack View product details From $80 ↗ Choose format → In stock Bioactive Research Peptides CJC-1295 with DAC 10mg Single 10 Pack View product details From $55 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides GHK-Cu Peptide (GHKCu) — 100mg Research Vial Single 10 Pack View product details From $52 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}

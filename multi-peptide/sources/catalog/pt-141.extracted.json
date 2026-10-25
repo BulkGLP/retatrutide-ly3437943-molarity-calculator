@@ -1,0 +1,259 @@
+{
+  "slug": "pt-141",
+  "canonical": "https://bulkglp.com/product/pt-141/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "PT-141 Peptide — 10mg Research Vial"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "Tesamorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Sermorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "CJC-1295 with DAC 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Thymalin 10mg"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "pt-141",
+    "title": "PT-141 Peptide — 10mg Research Vial",
+    "description": "PT-141, also known as bremelanotide, is a synthetic cyclic heptapeptide supplied as a nominal 10 mg lyophilized research vial. Match the received lot to its report when reviewing identity, content and other recorded results. For in-vitro laboratory research and development only; not for human or veterinary use.",
+    "categories": [
+      {
+        "slug": "bioactive-research-peptides",
+        "name": "Bioactive Research Peptides"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/3faf89a21f02b5fc02c0.avif",
+      "alt": "PT-141 Peptide — 10mg Research Vial",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$30:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTQV9FZPFPZQMTZ7RQ3J8",
+        "label": "Single unit",
+        "formulation": "",
+        "priceMinor": 6800,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BXSW5JYCT97F534C8CMSEJ",
+        "label": "10 Pack",
+        "formulation": "",
+        "priceMinor": 54400,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/3faf89a21f02b5fc02c0.avif",
+          "alt": "PT-141 Peptide — 10mg Research Vial — 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTQV9FZPFPZQMTZ7RQ3J8"
+        }
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "PT-141 Peptide — 10mg Research Vial",
+      "description": "PT-141, also known as bremelanotide, is a synthetic cyclic heptapeptide supplied as a nominal 10 mg lyophilized research vial. Match the received lot to its report when reviewing identity, content and other recorded results. For in-vitro laboratory research and development only; not for human or veterinary use.",
+      "url": "https://bulkglp.com/product/pt-141/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/3faf89a21f02b5fc02c0.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Single unit",
+          "sku": "variant_01M4BBTQV9FZPFPZQMTZ7RQ3J8",
+          "url": "https://bulkglp.com/product/pt-141/",
+          "price": "68.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "12.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "10 Pack",
+          "sku": "variant_01M4BXSW5JYCT97F534C8CMSEJ",
+          "url": "https://bulkglp.com/product/pt-141/",
+          "price": "544.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "PT-141 Peptide — 10mg Research Vial",
+          "item": "https://bulkglp.com/product/pt-141/"
+        }
+      ]
+    }
+  ],
+  "coa_links": [
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100932.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS10mg · Lot 1419 · Report 2608100932↗ (opens in a new tab)"
+    }
+  ],
+  "visible_text": "PT-141 Research Peptide | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / PT-141 Peptide — 10mg Research Vial Bioactive Research Peptides Bioactive Research Peptides PT-141 Peptide — 10mg Research Vial PT-141, also known as bremelanotide, is a synthetic cyclic heptapeptide supplied as a nominal 10 mg lyophilized research vial. Match the received lot to its report when reviewing identity, content and other recorded results. For in-vitro laboratory research and development only; not for human or veterinary use. ↗ View batch documentation Pack size Single vial 1 vial 10-pack 10 vials Save 20% 10 mg per vial · 1 vial YOUR SELECTION Single $68 USD In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. CERTIFICATE OF ANALYSIS 10mg · Lot 1419 · Report 2608100932 ↗ (opens in a new tab) Explore all lab reports → CONTINUE EXPLORING Related research products. View the catalog ↗ In stock Bioactive Research Peptides Tesamorelin 10mg Single 10 Pack View product details From $119 ↗ Choose format → In stock Bioactive Research Peptides Sermorelin 10mg Single 10 Pack View product details From $80 ↗ Choose format → In stock Bioactive Research Peptides CJC-1295 with DAC 10mg Single 10 Pack View product details From $55 ↗ Choose format → In stock Bioactive Research Peptides Thymalin 10mg Single 10 Pack ✓ Current COA available From $68 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}

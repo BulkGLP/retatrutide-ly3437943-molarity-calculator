@@ -1,0 +1,664 @@
+{
+  "coverage": {
+    "snapshot_products": 44,
+    "live_homepage_catalog_cards": 44,
+    "live_homepage_unique_product_paths": 44,
+    "live_sitemap_product_urls": 44,
+    "live_pdp_http_200": 44,
+    "canonical_matches": 44,
+    "missing_from_homepage": [],
+    "missing_from_sitemap": [],
+    "additional_sitemap_products": [],
+    "build_ids_from_homepage": [
+      "9FydFle1XOxqZLdFcPuTR"
+    ],
+    "live_verified_quality_coa_urls": 49,
+    "verified_quality_urls_equal_inventory_coa_urls": true
+  },
+  "summary": {
+    "products": 44,
+    "category_counts": {
+      "Single-Species Lyophilized Peptide": 23,
+      "Bulk Lyophilized Powder": 10,
+      "Multi-Peptide Blend": 4,
+      "Lipotropic": 2,
+      "Support Compound": 4,
+      "Bacteriostatic": 1,
+      "Accessory": 0
+    },
+    "live_variants": 106,
+    "products_without_established_nominal_size": [
+      "lipotropic-c",
+      "shb",
+      "vitamin-b12",
+      "bpc-157-tb-500-blend"
+    ],
+    "products_with_partially_unknown_formulation_size": [
+      "lipotropic-b"
+    ],
+    "coa_references_including_historical": 49,
+    "unique_currently_linked_coa_urls": 35
+  },
+  "notes": [
+    "All HTTP requests were read-only GET requests against public homepage, sitemap, and product pages.",
+    "Live RSC and JSON-LD were parsed without execution.",
+    "Local products snapshot contains historical imported WooCommerce metadata; its capturedAt is not a production deployment timestamp.",
+    "Current Medusa variant identifiers replace old WooCommerce identifiers. Simple products now have actual single/pack variants.",
+    "Thymalin category is provisional; identity resolution must precede a single molecular-weight assignment."
+  ],
+  "local_vs_live_mismatches": [
+    {
+      "slug": "tesamorelin",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "sermorelin",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "cjc-1295-with-dac-10mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ghk-cu",
+      "differences": {
+        "description": {
+          "snapshot": "GHK-Cu, also called copper tripeptide-1 or GHKCu, is supplied as one 100 mg research vial. Quantity refers to individual vials. Use the product and lot information to identify the material and review available analytical documentation. For laboratory research and development only; not for human or veterinary use.",
+          "live": "GHK-Cu, also called copper tripeptide-1 or GHKCu, is supplied in 100 mg research vials, available individually or in 10-packs. Quantity refers to the selected format. Use the product and lot information to identify the material and review available analytical documentation. For laboratory research and development only; not for human or veterinary use."
+        },
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "thymalin-10mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "foxo4-10mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "pt-141",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "epitalon-50mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "aicar",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "adamax",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ara-290",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ss-31-1000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ta-1-10mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ghk-cu-10000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "thymosin-ta-1-1000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ahk-cu-10000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "selank-1000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "semax-1000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "vip-1000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "glp1s-1000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "glp2t-1000mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "lipotropic-c",
+      "differences": {
+        "title": {
+          "snapshot": "Lipotropic C — Research Compound for Sale",
+          "live": "Lipotropic C"
+        },
+        "variant_labels": {
+          "snapshot": [
+            "Cyanocobalamin B12 (Original)",
+            "Methylcobalamin B12 + NADH (New)"
+          ],
+          "live": [
+            "Cyanocobalamin B12 (Original)",
+            "Methylcobalamin B12 + NADH (New)",
+            "Cyanocobalamin B12 (Original) - 10 Pack",
+            "Methylcobalamin B12 + NADH (New) - 10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "ll-37",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "melanotan-2",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "vip",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "tirzepatide",
+      "differences": {
+        "description": {
+          "snapshot": "Tirzepatide is supplied as one 40 mg lyophilized research vial. Review the linked lot-specific COA alongside the lot number on the received material. Quantity refers to individual vials, and availability is shown for this product. For laboratory research only; not for human or veterinary use.",
+          "live": "Tirzepatide is supplied in 40 mg lyophilized research vials, available individually or in 10-packs. Review the linked lot-specific COA alongside the lot number on the received material. Quantity refers to the selected format, and availability is shown for this product. For laboratory research only; not for human or veterinary use."
+        },
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "semaglutide",
+      "differences": {
+        "description": {
+          "snapshot": "Semaglutide is supplied as one 20 mg lyophilized research vial. Review the linked lot-specific COA alongside the lot number on the received material. Quantity refers to individual vials, and availability is shown for this product. For laboratory research only; not for human or veterinary use.",
+          "live": "Semaglutide is supplied in 20 mg lyophilized research vials, available individually or in 10-packs. Review the linked lot-specific COA alongside the lot number on the received material. Quantity refers to the selected format, and availability is shown for this product. For laboratory research only; not for human or veterinary use."
+        },
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "melanotan-1-mt-1",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "shb",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "lipotropic-b",
+      "differences": {
+        "title": {
+          "snapshot": "Lipotropic B — Research Compound for Sale",
+          "live": "Lipotropic B"
+        },
+        "description": {
+          "snapshot": "Lipotropic B is a liquid research blend available as Cyanocobalamin B12 (Original) or Methylcobalamin B12 (New). Select the formulation explicitly. The published cyanocobalamin sample report lists identity and other tests but no numeric purity percentage. Review documentation for the formulation and lot selected for laboratory research.",
+          "live": "Lipotropic B is a liquid research blend with two formulations: Cyanocobalamin B12 (Original) and Methylcobalamin B12 (New). The Original formulation contains eight listed components, with the following nominal amounts per milliliter of solution: L-carnitine 20 mg, L-arginine 20 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, vitamin B6 (pyridoxine) 25 mg, vitamin B5 (dexpanthenol) 25 mg and vitamin B12 (cyanocobalamin) 1 mg. The Original formulation is labeled as a 10 mL unit. Its single-unit offer contains one unit, and its 10-pack contains ten units of that same formulation, totaling a nominal 100 mL. These concentrations and volume apply to the Original formulation; they are not assigned to the New Methylcobalamin formulation. The published cyanocobalamin sample report lists identity and other tests but no numeric purity percentage. Both formulations have single-unit offers and matching 10-unit packs."
+        },
+        "variant_labels": {
+          "snapshot": [
+            "Methylcobalamin B12 (New)",
+            "Cyanocobalamin B12 (Original)"
+          ],
+          "live": [
+            "Methylcobalamin B12 (New)",
+            "Cyanocobalamin B12 (Original)",
+            "Methylcobalamin B12 (New) - 10 Pack",
+            "Cyanocobalamin B12 (Original) - 10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "vitamin-b12",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [
+            "Methylcobalamin (Methyl)",
+            "Cyanocobalamin (Cyano)"
+          ],
+          "live": [
+            "Methylcobalamin (Methyl)",
+            "Cyanocobalamin (Cyano)",
+            "Methylcobalamin (Methyl) - 10 Pack",
+            "Cyanocobalamin (Cyano) - 10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "kpv",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "tb-500",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "glow-blend",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "bpc-157-tb-500-blend",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "selank",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "semax",
+      "differences": {
+        "description": {
+          "snapshot": "Semax is supplied as one nominal 10 mg lyophilized research vial. The source identifies a synthetic heptapeptide associated with an ACTH fragment. Quantity 1 means one vial. Review the report matching the received lot. For in-vitro laboratory research and development only; not for human or veterinary use.",
+          "live": "Semax is supplied in nominal 10 mg lyophilized research vials, available individually or in 10-packs. The source identifies a synthetic heptapeptide associated with an ACTH fragment. Quantity 1 means one selected single vial or one 10-pack. Review the report matching the received lot. For in-vitro laboratory research and development only; not for human or veterinary use."
+        },
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "mots-c-10mg-20mg",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [
+            "20MG",
+            "40MG",
+            "10MG"
+          ],
+          "live": [
+            "40MG",
+            "20MG",
+            "10MG",
+            "20MG - 10 Pack",
+            "40MG - 10 Pack",
+            "10MG - 10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "nad-plus",
+      "differences": {
+        "title": {
+          "snapshot": "NAD+ — Research Coenzyme for Sale",
+          "live": "NAD+"
+        },
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "500 mg",
+            "500 mg - 10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "bpc-157-peptide-research-vials",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "reconstitution-solution",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "retatrutide-powder",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [
+            "500mg",
+            "1g"
+          ],
+          "live": [
+            "1g",
+            "500mg"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "klow-peptide",
+      "differences": {
+        "variant_labels": {
+          "snapshot": [],
+          "live": [
+            "Single unit",
+            "10 Pack"
+          ]
+        }
+      }
+    },
+    {
+      "slug": "retatrutide",
+      "differences": {
+        "description": {
+          "snapshot": "Retatrutide, also called Reta or GLP-3 and identified by LY3437943, is supplied as lyophilized research material in single vials and 10-vial packs. Choose the size and Standard or Mannitol Free formulation. Match the received lot and formulation to its documentation. For laboratory research only; not for human or veterinary use.",
+          "live": "Retatrutide, also called Reta or GLP-3 and identified by LY3437943, is a triple agonist: a GLP-1, GIP, and glucagon receptor agonist. It is supplied as lyophilized research material in single vials and 10-vial packs. Choose the size and Standard or Mannitol Free formulation. Match the received lot and formulation to its documentation. For laboratory research only; not for human or veterinary use."
+        },
+        "variant_labels": {
+          "snapshot": [
+            "10mg · Standard (Default)",
+            "12mg · Standard (Default)",
+            "15mg · Standard (Default)",
+            "20mg · Standard (Default)",
+            "30mg · Standard (Default)",
+            "50mg · Standard (Default)",
+            "10mg - 10 Pack · Standard (Default)",
+            "15mg - 10 Pack · Standard (Default)",
+            "20mg - 10 Pack · Standard (Default)",
+            "30mg - 10 Pack · Standard (Default)",
+            "10mg · Mannitol Free",
+            "15mg · Mannitol Free",
+            "20mg · Mannitol Free",
+            "30mg · Mannitol Free"
+          ],
+          "live": [
+            "20mg · Standard (Default)",
+            "15mg · Mannitol Free",
+            "10mg · Standard (Default)",
+            "12mg · Standard (Default)",
+            "15mg · Standard (Default)",
+            "15mg - 10 Pack · Standard (Default)",
+            "30mg · Standard (Default)",
+            "50mg · Standard (Default)",
+            "10mg · Mannitol Free",
+            "20mg · Mannitol Free",
+            "30mg · Mannitol Free",
+            "12mg - 10 Pack · Standard (Default)",
+            "50mg - 10 Pack · Standard (Default)",
+            "10mg - 10 Pack · Mannitol Free",
+            "15mg - 10 Pack · Mannitol Free",
+            "20mg - 10 Pack · Mannitol Free",
+            "30mg - 10 Pack · Mannitol Free",
+            "10mg - 10 Pack · Standard (Default)",
+            "20mg - 10 Pack · Standard (Default)",
+            "30mg - 10 Pack · Standard (Default)"
+          ]
+        }
+      }
+    }
+  ]
+}

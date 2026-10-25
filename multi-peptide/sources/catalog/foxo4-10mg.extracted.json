@@ -1,0 +1,250 @@
+{
+  "slug": "foxo4-10mg",
+  "canonical": "https://bulkglp.com/product/foxo4-10mg/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "FOXO4 10mg"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial"
+    },
+    {
+      "tag": "h3",
+      "text": "KPV Peptide – 10 mg Research Vial"
+    },
+    {
+      "tag": "h3",
+      "text": "TB-500"
+    },
+    {
+      "tag": "h3",
+      "text": "Glow Blend"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "foxo4-10mg",
+    "title": "FOXO4 10mg",
+    "description": "FOXO4 is listed as a 10 mg research peptide for laboratory work involving FOXO4-associated signaling and protein-interaction methods. Check the supplied material and available lot documentation against the requirements of the assay. For controlled laboratory research only; not for human or animal use.",
+    "categories": [
+      {
+        "slug": "structural-binding-peptides",
+        "name": "Matrix & Tissue Signaling Peptides"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/d18c7a422b7efd25443e.avif",
+      "alt": "FOXO4 10mg",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$2f:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTQPWDV8D38VJA4NJDF9N",
+        "label": "Single unit",
+        "formulation": "",
+        "priceMinor": 17700,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BXSW5J79FAFKCTAZ3TWMY7",
+        "label": "10 Pack",
+        "formulation": "",
+        "priceMinor": 141600,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/d18c7a422b7efd25443e.avif",
+          "alt": "FOXO4 10mg — 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTQPWDV8D38VJA4NJDF9N"
+        }
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "FOXO4 10mg",
+      "description": "FOXO4 is listed as a 10 mg research peptide for laboratory work involving FOXO4-associated signaling and protein-interaction methods. Check the supplied material and available lot documentation against the requirements of the assay. For controlled laboratory research only; not for human or animal use.",
+      "url": "https://bulkglp.com/product/foxo4-10mg/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/d18c7a422b7efd25443e.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Single unit",
+          "sku": "variant_01M4BBTQPWDV8D38VJA4NJDF9N",
+          "url": "https://bulkglp.com/product/foxo4-10mg/",
+          "price": "177.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "10 Pack",
+          "sku": "variant_01M4BXSW5J79FAFKCTAZ3TWMY7",
+          "url": "https://bulkglp.com/product/foxo4-10mg/",
+          "price": "1416.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "FOXO4 10mg",
+          "item": "https://bulkglp.com/product/foxo4-10mg/"
+        }
+      ]
+    }
+  ],
+  "coa_links": [],
+  "visible_text": "FOXO4 Research Peptide | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / FOXO4 10mg Matrix & Tissue Signaling Peptides Matrix & Tissue Signaling Peptides FOXO4 10mg FOXO4 is listed as a 10 mg research peptide for laboratory work involving FOXO4-associated signaling and protein-interaction methods. Check the supplied material and available lot documentation against the requirements of the assay. For controlled laboratory research only; not for human or animal use. ↗ View batch documentation Pack size Single unit 1 unit 10-pack 10 units Save 20% 10 mg per unit · 1 unit YOUR SELECTION Single $177 USD In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. Explore our lab reports → CONTINUE EXPLORING Related research products. View the catalog ↗ In stock Matrix & Tissue Signaling Peptides GHK-Cu Peptide (GHKCu) — 100mg Research Vial Single 10 Pack View product details From $52 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides KPV Peptide – 10 mg Research Vial Single 10 Pack ✓ Current COA available From $70 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides TB-500 Single 10 Pack ✓ Current COA available From $84 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides Glow Blend Single 10 Pack ✓ Current COA available From $129 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}
