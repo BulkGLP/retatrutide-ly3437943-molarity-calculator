@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170163.png
+SHA256: 1ce9321b6016dfb32465b9b709b468ba4df92aa1b57bdf43286960ebf0a41d1a
+Verification: visual review of original source raster
+Accession #: 2604170163
+Product: KPV 10mg
+Lot: 2719
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.18%
+Net Content: 12.18 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

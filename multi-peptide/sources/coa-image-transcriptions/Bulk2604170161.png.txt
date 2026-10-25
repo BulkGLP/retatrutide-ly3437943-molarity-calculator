@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170161.png
+SHA256: 5b405b2d980a4b3a9f1e0f10419eba5e85063bf6a6138964472334cf5c4e4459
+Verification: visual review of original source raster
+Accession #: 2604170161
+Product: BPC-157 10mg
+Lot: 96494
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 98.07%
+Net Content: 10.99 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

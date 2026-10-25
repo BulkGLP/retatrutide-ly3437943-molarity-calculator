@@ -1,0 +1,21 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AHK-Cu/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:53Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 168431292,
+          "Synonym": [
+            "682809-81-0",
+            "AHK-Cu",
+            "[L-Alanyl-N-L-histidyl-N,N3-L-lysinato(2-)]copper Monohydrochloride",
+            "AHK-Cu?",
+            "orb1910722",
+            "EX-A7713A"
+          ]
+        }
+      ]
+    }
+  }
+}

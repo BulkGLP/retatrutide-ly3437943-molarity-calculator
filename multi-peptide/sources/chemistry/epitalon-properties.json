@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Epitalon/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:50Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 219042,
+          "MolecularFormula": "C14H22N4O9",
+          "MolecularWeight": "390.35",
+          "ExactMass": "390.13867829",
+          "MonoisotopicMass": "390.13867829",
+          "Title": "Epitalon"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170175.jpg
+SHA256: a3248934b8dbd79a9700c85c542b945fd5159160f7221891fca94a5780ff7d39
+Verification: visual review of original source raster
+Accession #: 2604170175
+Product: Semax 10mg
+Lot: 04625
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.83%
+Net Content: 12.42 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

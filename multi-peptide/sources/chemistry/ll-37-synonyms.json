@@ -1,0 +1,53 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/LL-37/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:55Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 16198951,
+          "Synonym": [
+            "LL-37",
+            "ropocamptide",
+            "Cap-18",
+            "cathelicidin LL-37",
+            "CAP18",
+            "Antibacterial peptide LL-37",
+            "antimicrobial peptide LL-37",
+            "LL-37 antibacterial peptide",
+            "FA-LL-37",
+            "RefChem:153838",
+            "LL-37 antiviral peptide",
+            "ROPOCAMPTIDE [INN]",
+            "UNII-3DD771JO2H",
+            "CAS001",
+            "Antimicrobial Peptide, Human LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES",
+            "PROTEIN CAP 18 (RABBIT CATIONIC ANTIMICROBIAL 37-AMINO ACID FRAGMENT)",
+            "LEU-LEU-GLY-ASP-PHE-PHE-ARG-LYS-SER-LYS-GLU-LYS-ILE-GLY-LYS-GLU-PHE-LYS-ARG-ILE-VAL-GLN-ARG-ILE-LYS-ASP-PHE-LEU-ARG-ASN-LEU-VAL-PRO-ARG-THR-GLU-SER",
+            "antibacterial protein LL-37",
+            "L-SERINE, L-LEUCYL-L-LEUCYLGLYCYL-L-.ALPHA.-ASPARTYL-L-PHENYLALANYL-L-PHENYLALANYL-L-ARGINYL-L-LYSYL-L-SERYL-L-LYSYL-L-.ALPHA.-GLUTAMYL-L-LYSYL-L-ISOLEUCYLGLYCYL-L-LYSYL-L-.ALPHA.-GLUTAMYL-L-PHENYLALANYL-L-LYSYL-L-ARGINYL-L-ISOLEUCYL-L-VALYL-L-GLUTAMINYL-L-ARGINYL-L-ISOLEUCYL-L-LYSYL-L-.ALPHA.-ASPARTYL-L-PHENYLALANYL-L-LEUCYL-L-ARGINYL-L-ASPARAGINYL-L-LEUCYL-L-VALYL-L-PROLYL-L-ARGINYL-L-THREONYL-L-.ALPHA.-GLUTAMYL-",
+            "L-SERINE, L-LEUCYL-L-LEUCYLGLYCYL-L-ALPHA-ASPARTYL-L-PHENYLALANYL-L-PHENYLALANYL-L-ARGINYL-L-LYSYL-L-SERYL-L-LYSYL-L-ALPHA-GLUTAMYL-L-LYSYL-L-ISOLEUCYLGLYCYL-L-LYSYL-L-ALPHA-GLUTAMYL-L-PHENYLALANYL-L-LYSYL-L-ARGINYL-L-ISOLEUCYL-L-VALYL-L-GLUTAMINYL-L-ARGINYL-L-ISOLEUCYL-L-LYSYL-L-ALPHA-ASPARTYL-L-PHENYLALANYL-L-LEUCYL-L-ARGINYL-L-ASPARAGINYL-L-LEUCYL-L-VALYL-L-PROLYL-L-ARGINYL-L-THREONYL-L-ALPHA-GLUTAMYL-",
+            "Cathelicidin",
+            "154947-66-7",
+            "LL 37",
+            "Cathelicidin LL 37",
+            "hCAP 18",
+            "LL-37(human)",
+            "LL-37 (Human)",
+            "LL-37/hCAP18",
+            "CHEMBL530345",
+            "SCHEMBL29350781",
+            "EX-A7429A",
+            "AKOS024458536",
+            "RS-2000",
+            "DA-54959",
+            "FL110043",
+            "G13558",
+            "LL-37 (LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES-acid)",
+            "NH2-Leu-Leu-Gly-Asp-Phe-Phe-Arg-Lys-Ser-Lys-Glu-Lys-Ile-Gly-Lys-Glu-Phe-Lys-Arg-Ile-Val-Gln-Arg-Ile-Lys-Asp-Phe-Leu-Arg-Asn-Leu-Val-Pro-Arg-Thr-Glu-Ser-COOH"
+          ]
+        }
+      ]
+    }
+  }
+}

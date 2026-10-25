@@ -1,0 +1,37 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tesamorelin/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:48Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 16137828,
+          "Synonym": [
+            "Tesamorelin",
+            "218949-48-5",
+            "TH9507",
+            "MQG94M5EEO",
+            "DTXSID00583207",
+            "TH 9507",
+            "tesamorelina",
+            "tesamoreline",
+            "tesamorelinum",
+            "TH-9507",
+            "CHEBI:63626",
+            "GHRH(1-44)",
+            "RefChem:57140",
+            "N-((3E)-1-oxo-3-hexenyl)Somatoliberin (human pancreatic islet)",
+            "DTXCID30533972",
+            "H01AC06",
+            "Egrifta",
+            "804475-66-9",
+            "UNII-MQG94M5EEO",
+            "Tesamorelin [USAN:INN]",
+            "(3E)-hex-3-enoylsomatoliberin",
+            "GTPL6959"
+          ]
+        }
+      ]
+    }
+  }
+}

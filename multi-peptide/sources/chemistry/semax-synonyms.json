@@ -1,0 +1,47 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Semax/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:54Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 9811102,
+          "Synonym": [
+            "Semax",
+            "80714-61-0",
+            "ACTH (4-7), Pro-Gly-Pro-",
+            "I5FAL2585H",
+            "ACTH (4-7), prolyl-glycyl-proline-",
+            "Pro-gly-pro-acth (4-7)",
+            "RefChem:56007",
+            "MEHFPGP",
+            "Met-Glu-His-Phe-Pro-Gly-Pro",
+            "L-Methionyl-L-glutamyl-L-histidyl-L-phenylalanyl-L-prolylglycyl-L-proline",
+            "(2S)-1-[2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-amino-4-methylsulfanylbutanoyl]amino]-4-carboxybutanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]amino]-3-phenylpropanoyl]pyrrolidine-2-carbonyl]amino]acetyl]pyrrolidine-2-carboxylic acid",
+            "Semax?",
+            "H-Met-Glu-His-Phe-Pro-Gly-Pro-OH",
+            "L-methionyl-L-alpha-glutamyl-L-histidyl-L-phenylalanyl-L-prolylglycyl-L-proline",
+            "UNII-I5FAL2585H",
+            "orb1705158",
+            "SCHEMBL7200319",
+            "C37H51N9O10S",
+            "GLXC-25922",
+            "HY-P1146",
+            "EX-A13573",
+            "MFCD01631262",
+            "AKOS040744795",
+            "AT42448",
+            "DA-77788",
+            "Met-Glu-His-Phe-Pro-Gly-Pro [WHO-DD]",
+            "CS-0028296",
+            "T21268",
+            "methionyl-glutamyl-histidyl-phenylalanyl-prolyl-glycyl-proline",
+            "L-PROLINE, L-METHIONYL-L-.ALPHA.-GLUTAMYL-L-HISTIDYL-L-PHENYLALANYL-L-PROLYLGLYCYL-",
+            "(2S)-1-[2-[[(2S)-1-[(2S)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-amino-4-methylsulfanyl-butanoyl]amino]-4-carboxy-butanoyl]amino]-3-(1H-imidazol-5-yl)propanoyl]amino]-3-phenyl-propanoyl]pyrrolidine-2-carbonyl]amino]acetyl]pyrrolidine-2-carboxylic acid",
+            "L-Proline, 1-(N-(1-(N-(N-(N-L-methionyl-L-alpha-glutamyl)-L-histidyl)-L-phenylalanyl)-L-prolyl)glycyl)-"
+          ]
+        }
+      ]
+    }
+  }
+}

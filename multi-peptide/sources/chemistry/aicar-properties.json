@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AICAR/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:50Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 65110,
+          "MolecularFormula": "C9H15N4O8P",
+          "MolecularWeight": "338.21",
+          "ExactMass": "338.06275045",
+          "MonoisotopicMass": "338.06275045",
+          "Title": "AICA Ribotide"
+        }
+      ]
+    }
+  }
+}

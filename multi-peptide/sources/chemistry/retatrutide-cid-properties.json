@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171390338/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:42:50Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 171390338,
+          "MolecularFormula": "C221H342N46O68",
+          "MolecularWeight": "4731",
+          "ExactMass": "4730.4784689",
+          "MonoisotopicMass": "4728.4717592",
+          "Title": "Triple G"
+        }
+      ]
+    }
+  }
+}

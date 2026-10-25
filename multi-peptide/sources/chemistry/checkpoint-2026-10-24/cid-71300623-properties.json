@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71300623/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_at_utc": "2026-10-24T20:58:35.159212+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71300623/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 71300623,
+          "MolecularFormula": "C33H54N12O15",
+          "MolecularWeight": "858.9",
+          "ExactMass": "858.38315906",
+          "MonoisotopicMass": "858.38315906",
+          "Title": "Thymulin"
+        }
+      ]
+    }
+  }
+}

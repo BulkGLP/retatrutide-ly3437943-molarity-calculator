@@ -1,0 +1,58 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:49Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 139035031,
+          "MolecularFormula": "C14H21CuN6O4-",
+          "MolecularWeight": "400.90",
+          "ExactMass": "400.092025",
+          "MonoisotopicMass": "400.092025",
+          "Title": "Copper tripeptide"
+        },
+        {
+          "CID": 9831891,
+          "MolecularFormula": "C28H46CuN12O8",
+          "MolecularWeight": "742.3",
+          "ExactMass": "741.285754",
+          "MonoisotopicMass": "741.285754",
+          "Title": "Bisprezatide copper"
+        },
+        {
+          "CID": 73587,
+          "MolecularFormula": "C14H24N6O4",
+          "MolecularWeight": "340.38",
+          "ExactMass": "340.18590327",
+          "MonoisotopicMass": "340.18590327",
+          "Title": "glycyl-L-histidyl-L-lysine"
+        },
+        {
+          "CID": 71587328,
+          "MolecularFormula": "C14H23CuN6O4+",
+          "MolecularWeight": "402.92",
+          "ExactMass": "402.107675",
+          "MonoisotopicMass": "402.107675",
+          "Title": "Prezatide copper"
+        },
+        {
+          "CID": 133697840,
+          "MolecularFormula": "C28H48CuN12O8",
+          "MolecularWeight": "744.3",
+          "ExactMass": "743.301404",
+          "MonoisotopicMass": "743.301404",
+          "Title": "GHK-Cu"
+        },
+        {
+          "CID": 165429100,
+          "MolecularFormula": "C14H22CuN6O4",
+          "MolecularWeight": "401.91",
+          "ExactMass": "401.099850",
+          "MonoisotopicMass": "401.099850",
+          "Title": "N2-(N-glycyl-L-histidyl)-L-Lysine, copper complex"
+        }
+      ]
+    }
+  }
+}

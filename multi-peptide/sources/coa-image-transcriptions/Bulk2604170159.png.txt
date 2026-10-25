@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170159.png
+SHA256: 34467acdd5b06f939139e800b12e5a959a822f6917927eb8dddd82b4bfe7057f
+Verification: visual review of original source raster
+Accession #: 2604170159
+Product: MOTS-C 50mg
+Lot: 5105
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.68%
+Net Content: 48.17 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

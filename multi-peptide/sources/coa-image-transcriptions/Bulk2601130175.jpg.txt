@@ -1,0 +1,11 @@
+Source: sources/coa/Bulk2601130175.jpg
+SHA256: bf40a823262b1b659e92d9f5fadab78aa7516d3ca95d70b0f88c33265078e166
+Verification: visual review of original source raster
+Accession Number: 2601130175
+Product: Retatrutide 30mg
+Lot: 062502
+Received Date: 1/13/2026
+Reported Date: 1/15/2026
+Purity: 99.641%
+Net Peptide Content: 34.77 mg
+Purity method: All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry

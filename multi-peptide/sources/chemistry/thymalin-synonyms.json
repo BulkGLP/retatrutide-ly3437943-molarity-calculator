@@ -1,0 +1,49 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymalin/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:49Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 3085284,
+          "Synonym": [
+            "Nonathymulin",
+            "63958-90-7",
+            "Nonathymulin [INN]",
+            "(2S)-4-amino-2-[[(2S)-2-[[2-[[2-[[(2S)-5-amino-2-[[(2S)-2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-5-oxopyrrolidine-2-carbonyl]amino]propanoyl]amino]hexanoyl]amino]-3-hydroxypropanoyl]amino]-5-oxopentanoyl]amino]acetyl]amino]acetyl]amino]-3-hydroxypropanoyl]amino]-4-oxobutanoic acid",
+            "Thymic factor",
+            "9H198D04WL",
+            "((S)-5-Oxopyrrolidine-2-carbonyl)-L-alanyl-L-lysyl-L-seryl-L-glutaminylglycylglycyl-L-seryl-L-asparagine",
+            "Thymalin",
+            "N(sup 2)-(N-(N-(N-(N(sup 2)-(N-(N(sup 2)-(N-(-5-Oxo-L-prolyl)-L-alanyl)-L-lysyl)-L-seryl)-L-glutaminyl)glycyl)glycyl)-L-seryl)-L-asparagine",
+            "nonathymuline",
+            "nonatimulina",
+            "Thymulin (pig peptide moiety)",
+            "UNII-9H198D04WL",
+            "Thymulin Acetate?",
+            "Thymulin, lyophilized powder",
+            "MLS000028679",
+            "orb1217776",
+            "SCHEMBL2109423",
+            "CHEMBL2106455",
+            "DTXSID10213801",
+            "GLXC-25916",
+            "EX-A9091",
+            "HY-P3206",
+            "BP-46540",
+            "SMR000058784",
+            "pGlu-Ala-Lys-Ser-Gln-Gly-Gly-Ser-Asn-OH",
+            "CS-0169099",
+            "NS00123149",
+            "pyroGlu-Ala-Lys-Ser-Gln-Gly-Gly-Ser-AsnOH",
+            "G64150",
+            "Q2007601",
+            "5-Oxo-L-prolyl-L-alanyl-L-lysyl-L-seryl-L-glutaminylglycylglycyl-L-seryl-L-asparagine",
+            "(sup 2)N-(N-(N-(N-(sup 2)N-(N-(sup 2)N-(N-(-5-Oxo-L-prolyl)-L-alanyl)-L-seryl)-L-glutaminyl)glycyl)glycyl)-L-seryl)-L-asparagine.",
+            "L-ASPARAGINE, 5-OXO-L-PROLYL-L-ALANYL-L-LYSYL-L-SERYL-L-GLUTAMINYLGLYCYLGLYCYL-L-SERYL-"
+          ]
+        }
+      ]
+    }
+  }
+}

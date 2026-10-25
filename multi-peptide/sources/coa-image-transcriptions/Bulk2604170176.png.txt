@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170176.png
+SHA256: a267a212ea1bc7fc797ba755484a68dfbee1bc5019aeca9e3c61f13bc9dad355
+Verification: visual review of original source raster
+Accession #: 2604170176
+Product: Retatrutide 30mg
+Lot: 062503
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.98%
+Net Content: 29.84 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

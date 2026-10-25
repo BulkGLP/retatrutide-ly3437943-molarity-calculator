@@ -1,0 +1,191 @@
+{
+  "capturedAt": "2026-10-06T23:36:47.004831-05:00",
+  "title": "Retatrutide Peptide Vials (LY3437943)",
+  "sourceUrl": "https://bulkglp.com/product/retatrutide/",
+  "image": {
+    "url": "https://bulkglp.com/wp-content/uploads/2025/07/retatrutide-10mg-bglp-1.avif",
+    "alt": "Retatrutide – BulkGLP research product",
+    "width": 1024,
+    "height": 1024
+  },
+  "variants": [
+    {
+      "id": 3602,
+      "sizeLabel": "10mg",
+      "vialMg": 10,
+      "vialCount": 1,
+      "formulation": "Standard (Default)",
+      "priceMinor": 12000,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 11016,
+      "sizeLabel": "12mg",
+      "vialMg": 12,
+      "vialCount": 1,
+      "formulation": "Standard (Default)",
+      "priceMinor": 13300,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 3603,
+      "sizeLabel": "15mg",
+      "vialMg": 15,
+      "vialCount": 1,
+      "formulation": "Standard (Default)",
+      "priceMinor": 14900,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 3604,
+      "sizeLabel": "20mg",
+      "vialMg": 20,
+      "vialCount": 1,
+      "formulation": "Standard (Default)",
+      "priceMinor": 18900,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 3605,
+      "sizeLabel": "30mg",
+      "vialMg": 30,
+      "vialCount": 1,
+      "formulation": "Standard (Default)",
+      "priceMinor": 22800,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 7354,
+      "sizeLabel": "50mg",
+      "vialMg": 50,
+      "vialCount": 1,
+      "formulation": "Standard (Default)",
+      "priceMinor": 34600,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 3622,
+      "sizeLabel": "10mg - 10 Pack",
+      "vialMg": 10,
+      "vialCount": 10,
+      "formulation": "Standard (Default)",
+      "priceMinor": 94900,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 3623,
+      "sizeLabel": "15mg - 10 Pack",
+      "vialMg": 15,
+      "vialCount": 10,
+      "formulation": "Standard (Default)",
+      "priceMinor": 119300,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 3624,
+      "sizeLabel": "20mg - 10 Pack",
+      "vialMg": 20,
+      "vialCount": 10,
+      "formulation": "Standard (Default)",
+      "priceMinor": 136900,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 3625,
+      "sizeLabel": "30mg - 10 Pack",
+      "vialMg": 30,
+      "vialCount": 10,
+      "formulation": "Standard (Default)",
+      "priceMinor": 179900,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 11283,
+      "sizeLabel": "10mg",
+      "vialMg": 10,
+      "vialCount": 1,
+      "formulation": "Mannitol Free",
+      "priceMinor": 15300,
+      "currency": "USD",
+      "inStock": true
+    },
+    {
+      "id": 11282,
+      "sizeLabel": "15mg",
+      "vialMg": 15,
+      "vialCount": 1,
+      "formulation": "Mannitol Free",
+      "priceMinor": 19300,
+      "currency": "USD",
+      "inStock": false
+    },
+    {
+      "id": 11281,
+      "sizeLabel": "20mg",
+      "vialMg": 20,
+      "vialCount": 1,
+      "formulation": "Mannitol Free",
+      "priceMinor": 23200,
+      "currency": "USD",
+      "inStock": false
+    },
+    {
+      "id": 11280,
+      "sizeLabel": "30mg",
+      "vialMg": 30,
+      "vialCount": 1,
+      "formulation": "Mannitol Free",
+      "priceMinor": 28100,
+      "currency": "USD",
+      "inStock": false
+    }
+  ],
+  "coaReports": [
+    {
+      "reportId": "2606190261",
+      "sizeLabel": "10mg",
+      "lot": "062503",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf"
+    },
+    {
+      "reportId": "2605210278",
+      "sizeLabel": "12mg",
+      "lot": "062503",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf"
+    },
+    {
+      "reportId": "2604170169",
+      "sizeLabel": "15mg",
+      "lot": "062503",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png"
+    },
+    {
+      "reportId": "2605210279",
+      "sizeLabel": "20mg",
+      "lot": "062503",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf"
+    },
+    {
+      "reportId": "2604170176",
+      "sizeLabel": "30mg",
+      "lot": "062503",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png"
+    },
+    {
+      "reportId": "2608100929",
+      "sizeLabel": "50mg",
+      "lot": "062504",
+      "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf"
+    }
+  ]
+}

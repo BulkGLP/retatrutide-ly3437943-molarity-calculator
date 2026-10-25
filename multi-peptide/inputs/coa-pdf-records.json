@@ -1,0 +1,3012 @@
+{
+  "schema_version": "1.0.0",
+  "record_count": 24,
+  "records": [
+    {
+      "product_slug": "adamax",
+      "report_id": "2606190267",
+      "archive_report_id": "2606190267",
+      "lot": "010125",
+      "nominal_mass_mg": 10.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Adamax 10mg",
+      "reported_hplc_purity_percent": 99.1,
+      "reported_content": [
+        {
+          "name": "Confirmed",
+          "value": 10.9,
+          "unit": "mg",
+          "source_literal": "10.90 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-06-19",
+      "reported_date": "2026-06-23",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Confirmed",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190267.pdf",
+      "source_file": "sources/coa/Bulk2606190267.pdf",
+      "source_sha256": "6f2ecaf5e2916c22e73d297cc19166f5e07b501d96c94b165c4ea119d2192d1e",
+      "extracted_text_file": "sources/coa/Bulk2606190267.pdf.txt",
+      "archive_nominal_label": "10mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2606190267",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 010125",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Adamax 10mg",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.10%",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "10.90 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "06/19/2026",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "06/23/2026",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "Confirmed",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Adamax 10mg",
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2606190267.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190267.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-06-23",
+        "labeled_dose": "10mg",
+        "purity": "99.10%",
+        "net_content": "10.90 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "epitalon-50mg",
+      "report_id": "2608100935",
+      "archive_report_id": "2608100935",
+      "lot": "2965",
+      "nominal_mass_mg": 50.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Epitalon 50mg",
+      "reported_hplc_purity_percent": 99.61,
+      "reported_content": [
+        {
+          "name": "Epitalon",
+          "value": 55.54,
+          "unit": "mg",
+          "source_literal": "55.54 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-08-10",
+      "reported_date": "2026-08-14",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Epitalon",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100935.pdf",
+      "source_file": "sources/coa/Bulk2608100935.pdf",
+      "source_sha256": "7e3feead694b7b6de0bb5764a7e065bfd07c7f6bc42ab0fdbc12d96284f62cfe",
+      "extracted_text_file": "sources/coa/Bulk2608100935.pdf.txt",
+      "archive_nominal_label": "50mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2608100935",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 2965",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Epitalon 50mg",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.61%",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "55.54 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "8/10/2026",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "8/14/2026",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "Epitalon",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Epitalon 50mg",
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100935.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100935.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-08-14",
+        "labeled_dose": "50mg",
+        "purity": "99.61%",
+        "net_content": "55.54 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "glow-blend",
+      "report_id": "2608100934",
+      "archive_report_id": "2608100934",
+      "lot": "64163",
+      "nominal_mass_mg": 50.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "GLOW 50mg",
+      "reported_hplc_purity_percent": 99.09,
+      "reported_content": [
+        {
+          "name": "GHK-Cu",
+          "value": 49.13,
+          "unit": "mg",
+          "source_literal": "GHK-Cu – 49.13 mg"
+        },
+        {
+          "name": "BPC-157",
+          "value": 7.38,
+          "unit": "mg",
+          "source_literal": "BPC-157 – 7.38 mg"
+        },
+        {
+          "name": "Thymosin Beta-4",
+          "value": 10.91,
+          "unit": "mg",
+          "source_literal": "Thymosin Beta-4 – 10.91 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-08-10",
+      "reported_date": "2026-08-14",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GHK-Cu/Thymosin Beta-4/BPC-157",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100934.pdf",
+      "source_file": "sources/coa/Bulk2608100934.pdf",
+      "source_sha256": "4d5348f4e90b54f0f5c9f79a2839446ca25e9d1f2cbcf4b7c02cd15205c46944",
+      "extracted_text_file": "sources/coa/Bulk2608100934.pdf.txt",
+      "archive_nominal_label": "70mg total",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "Verified visually: Product and photographed vial read GLOW 50mg; current catalog/archive label is 70mg total. Retain report nominal50mg and catalog nominal70mg separately. Report component name Thymosin Beta-4 also conflicts with catalog Ac-LKKTETQ identity.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2608100934",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "lot": {
+          "literal": "Lot: 64163",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "GLOW 50mg",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.09%",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "reported_content": {
+          "literal": [
+            "GHK-Cu – 49.13 mg",
+            "BPC-157 – 7.38 mg",
+            "Thymosin Beta-4 – 10.91 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "received_date": {
+          "literal": "8/10/2026",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "reported_date": {
+          "literal": "8/14/2026",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "identity": {
+          "literal": "GHK-Cu/Thymosin Beta-4/BPC-157",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": "GLOW 50mg",
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100934.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100934.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100934.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-08-14",
+        "labeled_dose": "50mg",
+        "purity": "99.09%",
+        "net_content": "GHK-Cu-49.13 mg, BPC-157-7.38 mg, Thymosin Beta-4 - 10.91 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "klow-peptide",
+      "report_id": "2604170178",
+      "archive_report_id": "2604170178",
+      "lot": "03210",
+      "nominal_mass_mg": 80,
+      "nominal_volume_ml": null,
+      "nominal_label": "KLOW 80mg",
+      "reported_hplc_purity_percent": 99.8,
+      "reported_content": [
+        {
+          "name": "GHK-Cu",
+          "value": 51.35,
+          "unit": "mg",
+          "source_literal": "GHK-Cu - 51.35 mg"
+        },
+        {
+          "name": "KPV",
+          "value": 11.88,
+          "unit": "mg",
+          "source_literal": "KPV - 11.88 mg"
+        },
+        {
+          "name": "BPC-157",
+          "value": 11.15,
+          "unit": "mg",
+          "source_literal": "BPC-157 - 11.15 mg"
+        },
+        {
+          "name": "Thymosin Beta-4",
+          "value": 9.95,
+          "unit": "mg",
+          "source_literal": "Thymosin Beta-4 - 9.95 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-04-17",
+      "reported_date": "2026-04-19",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GHK-Cu/KPV/BPC-157/Thymosin Beta-4",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170178.pdf",
+      "source_file": "sources/coa/Bulk2604170178.pdf",
+      "source_sha256": "e13787f711c440f4a56ed1eaaaf4effca576cce5699aae91a85e6ce0346f9a83",
+      "extracted_text_file": "sources/coa/Bulk2604170178.pdf.txt",
+      "archive_nominal_label": "80mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "The report names Thymosin Beta-4 for a component; the current KLOW description names Ac-LKKTETQ. These statements do not establish the same molecular species; identity remains unresolved.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "2604170178",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "lot": {
+          "literal": "BulkGLP2604170178Bulk260417017804/17/202604/19/202603210",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "KLOW 80mg",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "99.80%",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "reported_content": {
+          "literal": [
+            "GHK-Cu - 51.35 mg",
+            "KPV - 11.88 mg",
+            "BPC-157 - 11.15 mg",
+            "Thymosin Beta-4 - 9.95 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "received_date": {
+          "literal": "04/17/2026",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "reported_date": {
+          "literal": "04/19/2026",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "identity": {
+          "literal": "GHK-Cu/KPV/BPC-157/Thymosin Beta-4",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": "KLOW 80mg",
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170178.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170178.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170178.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-04-19",
+        "labeled_dose": "80mg",
+        "purity": "99.80%",
+        "net_content": "GHK - 51.35 mg, KPV - 11.88 mg, BPC - 11.15 mg, TB500 - 9.95 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "lipotropic-b",
+      "report_id": "2605280331",
+      "archive_report_id": "2605280331",
+      "lot": "08253",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": 10.0,
+      "nominal_label": "Lipo-c + B12 10ml",
+      "reported_hplc_purity_percent": null,
+      "reported_content": [],
+      "purity_method": null,
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": "Cyanocobalamin B12 (Original)",
+      "identity_as_reported": "Choline/Carnitine/Arginine/Methionine/Dexpanthenol (B5)/Pyridoxine (B6)/Cyanocobalamin (B12)",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280331.pdf",
+      "source_file": "sources/coa/Bulk2605280331.pdf",
+      "source_sha256": "b75de581b6426c9f79929fe7f59cc92d145bcc79c15eec8037e43ee4baf1b35f",
+      "extracted_text_file": "sources/coa/Bulk2605280331.pdf.txt",
+      "archive_nominal_label": "10ml",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "Mapped by the live archive to Lipotropic B; direct report Product is Lipo-c + B12 10ml. Identity list omits inositol although live Original Lipotropic B composition includes it. This is an identity report without numeric HPLC purity or quantitative component content.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280331",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "lot": {
+          "literal": "Lot: 08253",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "Lipo-c + B12 10ml",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "not_reported",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "reported_content": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "not_reported",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Method: Mass Spectrometry (LC-MS).",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "identity_method_only_no_purity_result",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "identity": {
+          "literal": "Choline/Carnitine/Arginine/Methionine/Dexpanthenol (B5)/Pyridoxine (B6)/Cyanocobalamin (B12)",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": "Lipo-c + B12 10ml",
+          "evidence_file": "sources/coa/Bulk2605280331.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280331.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280331.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "10ml",
+        "purity": "N/A",
+        "net_content": "10ml",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "lipotropic-c",
+      "report_id": "2605280340",
+      "archive_report_id": "2605280340",
+      "lot": "08335",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": 10.0,
+      "nominal_label": "Lipo-c (FB) 10ml",
+      "reported_hplc_purity_percent": null,
+      "reported_content": [],
+      "purity_method": null,
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": "Cyanocobalamin B12 (Original)",
+      "identity_as_reported": "Choline/Carnitine/Pyridoxine (B6)/Inositol/Cyanocobalamin (B12)",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280340.pdf",
+      "source_file": "sources/coa/Bulk2605280340.pdf",
+      "source_sha256": "cd55ebf862575cae344ffa669d505acb6383ac90fa62707c5ee6d4532704b60d",
+      "extracted_text_file": "sources/coa/Bulk2605280340.pdf.txt",
+      "archive_nominal_label": "N/A",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "Mapped by the archive to Lipotropic C; direct report Product is Lipo-c (FB) 10ml with cyanocobalamin identity. It does not verify Methylcobalamin B12 + NADH. No numeric HPLC purity or quantitative component content is provided.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280340",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "lot": {
+          "literal": "Lot: 08335",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "Lipo-c (FB) 10ml",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "not_reported",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "reported_content": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "not_reported",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Method: Mass Spectrometry (LC-MS).",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "identity_method_only_no_purity_result",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "identity": {
+          "literal": "Choline/Carnitine/Pyridoxine (B6)/Inositol/Cyanocobalamin (B12)",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": "Lipo-c (FB) 10ml",
+          "evidence_file": "sources/coa/Bulk2605280340.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280340.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280340.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "N/A",
+        "purity": "N/A",
+        "net_content": "10ml",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "mots-c-10mg-20mg",
+      "report_id": "2605210281",
+      "archive_report_id": "2605210281",
+      "lot": "5105",
+      "nominal_mass_mg": 20.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "MOTS-C 20mg",
+      "reported_hplc_purity_percent": 99.41,
+      "reported_content": [
+        {
+          "name": "Confirmed",
+          "value": 21.48,
+          "unit": "mg",
+          "source_literal": "21.48 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-21",
+      "reported_date": "2026-05-23",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Confirmed",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210281.pdf",
+      "source_file": "sources/coa/Bulk2605210281.pdf",
+      "source_sha256": "f7b9df1f2771331722e2bd965b28c55d9330975bf355e3be18cfd2f794ebbe31",
+      "extracted_text_file": "sources/coa/Bulk2605210281.pdf.txt",
+      "archive_nominal_label": "20mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605210281",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 5105",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "MOTS-C 20mg",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.41%",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "21.48 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/21/2026",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/23/2026",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "Confirmed",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "MOTS-C 20mg",
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210281.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210281.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "",
+        "labeled_dose": "20mg",
+        "purity": "99.41%",
+        "net_content": "21.48 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "pt-141",
+      "report_id": "2608100932",
+      "archive_report_id": "2608100932",
+      "lot": "1419",
+      "nominal_mass_mg": 10.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "PT-141 10mg",
+      "reported_hplc_purity_percent": 99.71,
+      "reported_content": [
+        {
+          "name": "PT-141",
+          "value": 9.97,
+          "unit": "mg",
+          "source_literal": "9.97 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-08-10",
+      "reported_date": "2026-08-14",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "PT-141",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100932.pdf",
+      "source_file": "sources/coa/Bulk2608100932.pdf",
+      "source_sha256": "4b15475a8c9652d696436244340d91025a92c614faad19432c92ec3ce2aaea54",
+      "extracted_text_file": "sources/coa/Bulk2608100932.pdf.txt",
+      "archive_nominal_label": "10mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2608100932",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 1419",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "PT-141 10mg",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.71%",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "9.97 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "8/10/2026",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "8/14/2026",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "PT-141",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "PT-141 10mg",
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100932.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100932.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-08-14",
+        "labeled_dose": "10mg",
+        "purity": "99.71%",
+        "net_content": "9.97 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "reconstitution-solution",
+      "report_id": "2606190258",
+      "archive_report_id": "2606190258",
+      "lot": "10972",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": 10.0,
+      "nominal_label": "Reconstitution Solution 10ml",
+      "reported_hplc_purity_percent": 99.25,
+      "reported_content": [
+        {
+          "name": "Confirmed",
+          "value": 0.929,
+          "unit": "%",
+          "source_literal": "0.929%"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-06-19",
+      "reported_date": "2026-06-23",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Confirmed",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190258.pdf",
+      "source_file": "sources/coa/Bulk2606190258.pdf",
+      "source_sha256": "ba06f2a9ee983ebc60a89314cee9476490ceab2869744d8096ef5f3f770829d9",
+      "extracted_text_file": "sources/coa/Bulk2606190258.pdf.txt",
+      "archive_nominal_label": "Reconstitution Solution 10ml, 0.929%",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "Net Content is 0.929%, not mg or mL. The nominal sample volume is 10mL. The catalog's nominal benzyl alcohol label is 0.9%; retain measured/report labels separately.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2606190258",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "lot": {
+          "literal": "Lot: 10972",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "nominal_label": {
+          "literal": "Reconstitution Solution 10ml",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.25%",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "reported_content": {
+          "literal": [
+            "0.929%"
+          ],
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "received_date": {
+          "literal": "06/19/2026",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "reported_date": {
+          "literal": "06/23/2026",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "identity": {
+          "literal": "Confirmed",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        },
+        "nominal_volume_ml": {
+          "literal": "Reconstitution Solution 10ml",
+          "evidence_file": "sources/coa/Bulk2606190258.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190258.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/Bulk2606190258.pdf.render.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-06-23",
+        "labeled_dose": "Reconstitution Solution 10ml, 0.929%",
+        "purity": "99.25%",
+        "net_content": "0.929%",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide",
+      "report_id": "2509300035",
+      "archive_report_id": "2509300035",
+      "lot": "Blue Cap",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": null,
+      "nominal_label": "Unknown",
+      "reported_hplc_purity_percent": 99.951,
+      "reported_content": [
+        {
+          "name": "Retatrutide",
+          "value": 10.18,
+          "unit": "mg",
+          "source_literal": "10.18 mg"
+        }
+      ],
+      "purity_method": "HPLC with UV Detection Coupled with Mass Spectrometry",
+      "received_date": "2025-09-30",
+      "reported_date": "2025-10-02",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Retatrutide",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2509300035.pdf",
+      "source_file": "sources/coa/Bulk2509300035.pdf",
+      "source_sha256": "778eb70e9db5c79a62c45b9a889221853741575ee9940b335d76ba1548e78b62",
+      "extracted_text_file": "sources/coa/Bulk2509300035.pdf.txt",
+      "archive_nominal_label": "10 mg",
+      "archive_status": "historical",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "The report's Product field says Unknown, while Identity says Retatrutide. The archive's nominal 10mg label is not stated in this direct report; nominal_mass_mg remains null.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "2509300035",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "lot": {
+          "literal": "Unknown Blue Cap",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "Unknown Blue Cap",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "10.18 mg 99.951%",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "reported_content": {
+          "literal": "10.18 mg 99.951%",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "purity_method": {
+          "literal": "All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "received_date": {
+          "literal": "9/30/2025",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "reported_date": {
+          "literal": "10/2/2025",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "identity": {
+          "literal": "Retatrutide",
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2509300035.pdf.txt",
+          "source_file": "sources/coa/Bulk2509300035.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2509300035.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "",
+        "labeled_dose": "10 mg",
+        "purity": "99.951%",
+        "net_content": "10.18 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide",
+      "report_id": "2605210278",
+      "archive_report_id": "2605210278",
+      "lot": "062503",
+      "nominal_mass_mg": 12.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Retatrutide 12mg",
+      "reported_hplc_purity_percent": 99.5,
+      "reported_content": [
+        {
+          "name": "GLP RT",
+          "value": 13.75,
+          "unit": "mg",
+          "source_literal": "13.75 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-21",
+      "reported_date": "2026-05-23",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GLP RT",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf",
+      "source_file": "sources/coa/Bulk2605210278.pdf",
+      "source_sha256": "b2ed7a73e9a52c21c5ba33218c459fa70c189caeadb863c4dfaf9a89051bc424",
+      "extracted_text_file": "sources/coa/Bulk2605210278.pdf.txt",
+      "archive_nominal_label": "12mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605210278",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 062503",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Retatrutide 12mg",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.50%",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "13.75 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/21/2026",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/23/2026",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "GLP RT",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Retatrutide 12mg",
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210278.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210278.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "",
+        "labeled_dose": "12mg",
+        "purity": "99.50%",
+        "net_content": "13.75 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide",
+      "report_id": "2605210279",
+      "archive_report_id": "2605210279",
+      "lot": "062503",
+      "nominal_mass_mg": 20.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Retatrutide 20mg",
+      "reported_hplc_purity_percent": 99.81,
+      "reported_content": [
+        {
+          "name": "Confirmed",
+          "value": 22.69,
+          "unit": "mg",
+          "source_literal": "22.69 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-21",
+      "reported_date": "2026-05-23",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Confirmed",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf",
+      "source_file": "sources/coa/Bulk2605210279.pdf",
+      "source_sha256": "9a2f1138175a251db1869a8c7b2a2b4823ea8a4388f857e577411f127a79460a",
+      "extracted_text_file": "sources/coa/Bulk2605210279.pdf.txt",
+      "archive_nominal_label": "20mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605210279",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 062503",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Retatrutide 20mg",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.81%",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "22.69 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/21/2026",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/23/2026",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "Confirmed",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Retatrutide 20mg",
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210279.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210279.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "",
+        "labeled_dose": "20mg",
+        "purity": "99.81%",
+        "net_content": "22.69 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide",
+      "report_id": "2605280328",
+      "archive_report_id": "2605280328",
+      "lot": "062503",
+      "nominal_mass_mg": 10.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Retatrutide 10mg",
+      "reported_hplc_purity_percent": 99.76,
+      "reported_content": [
+        {
+          "name": "GLP RT",
+          "value": 12.05,
+          "unit": "mg",
+          "source_literal": "12.05 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GLP RT",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280328.pdf",
+      "source_file": "sources/coa/Bulk2605280328.pdf",
+      "source_sha256": "a3c85a8019f027641dbbd8ee1ca7c5905525b242b6754756284823903aa3f22e",
+      "extracted_text_file": "sources/coa/Bulk2605280328.pdf.txt",
+      "archive_nominal_label": "10mg",
+      "archive_status": "historical",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280328",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 062503",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Retatrutide 10mg",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.76%",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "12.05 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "GLP RT",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Retatrutide 10mg",
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280328.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280328.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "10mg",
+        "purity": "99.76%",
+        "net_content": "12.05 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide",
+      "report_id": "2606190261",
+      "archive_report_id": "2606190261",
+      "lot": "062503",
+      "nominal_mass_mg": 10.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Retatrutide 10mg",
+      "reported_hplc_purity_percent": 99.87,
+      "reported_content": [
+        {
+          "name": "Confirmed",
+          "value": 11.2,
+          "unit": "mg",
+          "source_literal": "11.20 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-06-19",
+      "reported_date": "2026-06-23",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Confirmed",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf",
+      "source_file": "sources/coa/Bulk2606190261.pdf",
+      "source_sha256": "f4a6d642cf42af4b5169d00f48800121fa8b41e466a5153a2b856a181a1fc2b6",
+      "extracted_text_file": "sources/coa/Bulk2606190261.pdf.txt",
+      "archive_nominal_label": "10mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2606190261",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 062503",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Retatrutide 10mg",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.87%",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "11.20 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "06/19/2026",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "06/23/2026",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "Confirmed",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Retatrutide 10mg",
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2606190261.pdf.txt",
+          "source_file": "sources/coa/Bulk2606190261.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-06-23",
+        "labeled_dose": "10mg",
+        "purity": "99.87%",
+        "net_content": "11.20 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide",
+      "report_id": "2608100929",
+      "archive_report_id": "2608100929",
+      "lot": "062504",
+      "nominal_mass_mg": 50.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "RETATRUTIDE 50mg",
+      "reported_hplc_purity_percent": 99.87,
+      "reported_content": [
+        {
+          "name": "GLP RT",
+          "value": 54.13,
+          "unit": "mg",
+          "source_literal": "54.13 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-08-10",
+      "reported_date": "2026-08-14",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GLP RT",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf",
+      "source_file": "sources/coa/Bulk2608100929.pdf",
+      "source_sha256": "8d3dd8a05b2d899ec94b0c11630e6ad540757229a93a323fb7cc76b53869d424",
+      "extracted_text_file": "sources/coa/Bulk2608100929.pdf.txt",
+      "archive_nominal_label": "50mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2608100929",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 062504",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "RETATRUTIDE 50mg",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.87%",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "54.13 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "8/10/2026",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "8/14/2026",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "GLP RT",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "RETATRUTIDE 50mg",
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100929.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100929.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-08-14",
+        "labeled_dose": "50mg",
+        "purity": "99.87%",
+        "net_content": "54.13 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide-powder",
+      "report_id": "2604170180",
+      "archive_report_id": "2604170180-1",
+      "lot": "062503",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": null,
+      "nominal_label": "Raw Retatrutide",
+      "reported_hplc_purity_percent": 99.96,
+      "reported_content": [
+        {
+          "name": "Raw Retatrutide",
+          "value": 7.46,
+          "unit": "mg",
+          "source_literal": "7.46 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-04-17",
+      "reported_date": "2026-04-19",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GLP RT",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-1.pdf",
+      "source_file": "sources/coa/Bulk2604170180-1.pdf",
+      "source_sha256": "36ca1ad7bae15933703b8f06c0e88857d9088fefb4e7dcc530974d92d06f65c5",
+      "extracted_text_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+      "archive_nominal_label": "N/A",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "The filename/archive ID has -1, but the direct accession is 2604170180. This file and -2 are byte-identical duplicate representations of the same report. The 7.46mg content is an analyzed sample, not the 500mg/1g retail nominal size.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "2604170180",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "lot": {
+          "literal": "BulkGLP2604170180Bulk260417018004/17/202604/19/2026062503",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "Raw Retatrutide",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "99.96%",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "reported_content": {
+          "literal": [
+            "7.46 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "received_date": {
+          "literal": "04/17/2026",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "reported_date": {
+          "literal": "04/19/2026",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "identity": {
+          "literal": "GLP RT",
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-1.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "",
+        "labeled_dose": "N/A",
+        "purity": "99.96%",
+        "net_content": "7.46 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "retatrutide-powder",
+      "report_id": "2604170180",
+      "archive_report_id": "2604170180-2",
+      "lot": "062503",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": null,
+      "nominal_label": "Raw Retatrutide",
+      "reported_hplc_purity_percent": 99.96,
+      "reported_content": [
+        {
+          "name": "Raw Retatrutide",
+          "value": 7.46,
+          "unit": "mg",
+          "source_literal": "7.46 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-04-17",
+      "reported_date": "2026-04-19",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GLP RT",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-2.pdf",
+      "source_file": "sources/coa/Bulk2604170180-2.pdf",
+      "source_sha256": "36ca1ad7bae15933703b8f06c0e88857d9088fefb4e7dcc530974d92d06f65c5",
+      "extracted_text_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+      "archive_nominal_label": "N/A",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "The filename/archive ID has -2, but the direct accession is 2604170180. This file and -1 are byte-identical duplicate representations of the same report. The 7.46mg content is an analyzed sample, not the 500mg/1g retail nominal size.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "2604170180",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "lot": {
+          "literal": "BulkGLP2604170180Bulk260417018004/17/202604/19/2026062503",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "Raw Retatrutide",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "99.96%",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "reported_content": {
+          "literal": [
+            "7.46 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "received_date": {
+          "literal": "04/17/2026",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "reported_date": {
+          "literal": "04/19/2026",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "identity": {
+          "literal": "GLP RT",
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+          "source_file": "sources/coa/Bulk2604170180-2.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2604170180-1.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "",
+        "labeled_dose": "N/A",
+        "purity": "99.96%",
+        "net_content": "7.46 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "semaglutide",
+      "report_id": "2605280343",
+      "archive_report_id": "2605280343",
+      "lot": "062502",
+      "nominal_mass_mg": 20.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Semaglutide 20mg",
+      "reported_hplc_purity_percent": 99.87,
+      "reported_content": [
+        {
+          "name": "GLP SM",
+          "value": 23.6,
+          "unit": "mg",
+          "source_literal": "23.60 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "GLP SM",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280343.pdf",
+      "source_file": "sources/coa/Bulk2605280343.pdf",
+      "source_sha256": "bbb834d36af146633efaa2cc7ebc425e1e6e3e5020bacadfdb1058185c09e737",
+      "extracted_text_file": "sources/coa/Bulk2605280343.pdf.txt",
+      "archive_nominal_label": "20mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280343",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 062502",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Semaglutide 20mg",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.87%",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "23.60 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "GLP SM",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Semaglutide 20mg",
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280343.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280343.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "20mg",
+        "purity": "99.87%",
+        "net_content": "23.60 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "shb",
+      "report_id": "2605280337",
+      "archive_report_id": "2605280337",
+      "lot": "08335",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": 10.0,
+      "nominal_label": "SHB 10ml",
+      "reported_hplc_purity_percent": null,
+      "reported_content": [],
+      "purity_method": null,
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Arginine/Ornithine/Citrulline/Lysine/Glutamine/Proline/Taurine/Carnitine/NAC",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280337.pdf",
+      "source_file": "sources/coa/Bulk2605280337.pdf",
+      "source_sha256": "88dcb0289f270fe5d91f2629bc89e74129ecee49ef345518351799d6ebe3e08d",
+      "extracted_text_file": "sources/coa/Bulk2605280337.pdf.txt",
+      "archive_nominal_label": "N/A",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "The report's 10ml is the sample label, not a measured net-content result. No numeric HPLC purity is provided; generic peptide-purity disclaimer is not a method/result.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280337",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "lot": {
+          "literal": "Lot: 08335",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "nominal_label": {
+          "literal": "SHB 10ml",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "not_reported",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "reported_content": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "not_reported",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "purity_method": {
+          "literal": "Method: Mass Spectrometry (LC-MS).",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "identity_method_only_no_purity_result",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "identity": {
+          "literal": "Arginine/Ornithine/Citrulline/Lysine/Glutamine/Proline/Taurine/Carnitine/NAC",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        },
+        "nominal_volume_ml": {
+          "literal": "SHB 10ml",
+          "evidence_file": "sources/coa/Bulk2605280337.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280337.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/Bulk2605280337.pdf.render.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "N/A",
+        "purity": "N/A",
+        "net_content": "10ml",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "tb-500",
+      "report_id": "2605280346",
+      "archive_report_id": "2605280346",
+      "lot": "25494",
+      "nominal_mass_mg": 10.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "TB-500 10mg",
+      "reported_hplc_purity_percent": 99.44,
+      "reported_content": [
+        {
+          "name": "Thymosin Beta-4",
+          "value": 11.05,
+          "unit": "mg",
+          "source_literal": "11.05 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Thymosin Beta-4",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280346.pdf",
+      "source_file": "sources/coa/Bulk2605280346.pdf",
+      "source_sha256": "a806e60fbb4ed8ba1e2185fc89a16167131d86bd0f53d9a0115b682a357535b1",
+      "extracted_text_file": "sources/coa/Bulk2605280346.pdf.txt",
+      "archive_nominal_label": "10mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Identity (LC-MS) reads Thymosin Beta-4; the report does not provide exact sequence/termini. Do not assume the short Ac-LKKTETQ fragment or resolve molecular weight from the TB-500 trade name.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280346",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 25494",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "TB-500 10mg",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.44%",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "11.05 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "Thymosin Beta-4",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "TB-500 10mg",
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280346.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280346.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "10mg",
+        "purity": "99.44%",
+        "net_content": "11.05 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "thymalin-10mg",
+      "report_id": "2608100933",
+      "archive_report_id": "2608100933",
+      "lot": "4063",
+      "nominal_mass_mg": 10.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Thymalin 10mg",
+      "reported_hplc_purity_percent": 99.55,
+      "reported_content": [
+        {
+          "name": "Thymulin",
+          "value": 9.53,
+          "unit": "mg",
+          "source_literal": "9.53 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-08-10",
+      "reported_date": "2026-08-14",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Thymulin",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100933.pdf",
+      "source_file": "sources/coa/Bulk2608100933.pdf",
+      "source_sha256": "099f0bdbe4eb287469646dab3b12c3490be708d57dd7529c91b10d84d369ee82",
+      "extracted_text_file": "sources/coa/Bulk2608100933.pdf.txt",
+      "archive_nominal_label": "10mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "Verified visually: Product is Thymalin 10mg, while Identity (LC-MS) is Thymulin and graph labels also say Thymulin. This substantive identity conflict prevents a defensible single-species molecular-weight assignment.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2608100933",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "lot": {
+          "literal": "Lot: 4063",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "Thymalin 10mg",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.55%",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "reported_content": {
+          "literal": [
+            "9.53 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "received_date": {
+          "literal": "8/10/2026",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "reported_date": {
+          "literal": "8/14/2026",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "identity": {
+          "literal": "Thymulin",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": "Thymalin 10mg",
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2608100933.pdf.txt",
+          "source_file": "sources/coa/Bulk2608100933.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2608100933.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-08-14",
+        "labeled_dose": "10mg",
+        "purity": "99.55%",
+        "net_content": "9.53 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "tirzepatide",
+      "report_id": "2605210276",
+      "archive_report_id": "2605210276",
+      "lot": "385106",
+      "nominal_mass_mg": 40.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "Tirzepatide 40mg",
+      "reported_hplc_purity_percent": 99.84,
+      "reported_content": [
+        {
+          "name": "Confirmed",
+          "value": 43.6,
+          "unit": "mg",
+          "source_literal": "43.60 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-21",
+      "reported_date": "2026-05-23",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "Confirmed",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210276.pdf",
+      "source_file": "sources/coa/Bulk2605210276.pdf",
+      "source_sha256": "c0d1c1c67a3e18999d74903feeb9b8c04471c4325f75ce90f7680e8b8bcabc02",
+      "extracted_text_file": "sources/coa/Bulk2605210276.pdf.txt",
+      "archive_nominal_label": "40mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605210276",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 385106",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "Tirzepatide 40mg",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.84%",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "43.60 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/21/2026",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/23/2026",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "Confirmed",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "Tirzepatide 40mg",
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605210276.pdf.txt",
+          "source_file": "sources/coa/Bulk2605210276.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "",
+        "labeled_dose": "40mg",
+        "purity": "99.84%",
+        "net_content": "43.60 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "vip",
+      "report_id": "2605280325",
+      "archive_report_id": "2605280325",
+      "lot": "2425",
+      "nominal_mass_mg": 10.0,
+      "nominal_volume_ml": null,
+      "nominal_label": "VIP 10mg",
+      "reported_hplc_purity_percent": 99.55,
+      "reported_content": [
+        {
+          "name": "VIP",
+          "value": 9.28,
+          "unit": "mg",
+          "source_literal": "9.28 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": null,
+      "identity_as_reported": "VIP",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280325.pdf",
+      "source_file": "sources/coa/Bulk2605280325.pdf",
+      "source_sha256": "1d9fcf9a49d8eaec070c52630118a77df990bb23c2a3d0123f4053ec647d14da",
+      "extracted_text_file": "sources/coa/Bulk2605280325.pdf.txt",
+      "archive_nominal_label": "10mg",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_manual_field_review",
+      "notes": [
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280325",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "lot": {
+          "literal": "Lot: 2425",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_label": {
+          "literal": "VIP 10mg",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.55%",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_content": {
+          "literal": [
+            "9.28 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates"
+        },
+        "identity": {
+          "literal": "VIP",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_pdf_text"
+        },
+        "nominal_mass_mg": {
+          "literal": "VIP 10mg",
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total"
+        },
+        "nominal_volume_ml": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280325.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280325.pdf",
+          "basis": "not_stated_in_report"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "10mg",
+        "purity": "99.55%",
+        "net_content": "9.28 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    },
+    {
+      "product_slug": "vitamin-b12",
+      "report_id": "2605280334",
+      "archive_report_id": "2605280334",
+      "lot": "Blue Cap",
+      "nominal_mass_mg": null,
+      "nominal_volume_ml": 10.0,
+      "nominal_label": "Vitamin B12 10ml",
+      "reported_hplc_purity_percent": 99.33,
+      "reported_content": [
+        {
+          "name": "Cyanocobalamin (B12)",
+          "value": 9.92,
+          "unit": "mg",
+          "source_literal": "9.92 mg"
+        }
+      ],
+      "purity_method": "HPLC-UV",
+      "received_date": "2026-05-28",
+      "reported_date": "2026-05-30",
+      "test_date": null,
+      "formulation": "Cyanocobalamin (Cyano)",
+      "identity_as_reported": "Cyanocobalamin (B12)",
+      "source_scope": "live_verified_quality_archive",
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280334.pdf",
+      "source_file": "sources/coa/Bulk2605280334.pdf",
+      "source_sha256": "ced85f94581cf99f887fb9b611c63e6cf888277ca6673d8e037c0fde71bd17aa",
+      "extracted_text_file": "sources/coa/Bulk2605280334.pdf.txt",
+      "archive_nominal_label": "N/A",
+      "archive_status": "current",
+      "review_method": "direct_pdf_text_extraction_and_visual_page_review",
+      "notes": [
+        "The direct report establishes a 10mL cyanocobalamin sample and 9.92mg measured content. It does not establish methylcobalamin volume, concentration or purity. 9.92mg is not a nominal label.",
+        "Direct method is preserved as HPLC-UV where stated; reverse-phase/RP is not explicitly stated. Purity is not equated with net peptide mass fraction."
+      ],
+      "field_evidence": {
+        "report_id": {
+          "literal": "Accession #: 2605280334",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "lot": {
+          "literal": "Lot: Blue Cap",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "nominal_label": {
+          "literal": "Vitamin B12 10ml",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "reported_hplc_purity_percent": {
+          "literal": "Purity (HPLC-UV) 99.33%",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "reported_content": {
+          "literal": [
+            "9.92 mg"
+          ],
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "purity_method": {
+          "literal": "Purity (HPLC-UV)",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "received_date": {
+          "literal": "05/28/2026",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "reported_date": {
+          "literal": "05/30/2026",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "test_date": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "no_explicit_test_date; received_and_reported_dates_are_not_test_dates",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "identity": {
+          "literal": "Cyanocobalamin (B12)",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_pdf_text",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "nominal_mass_mg": {
+          "literal": null,
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "not_stated_in_report",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        },
+        "nominal_volume_ml": {
+          "literal": "Vitamin B12 10ml",
+          "evidence_file": "sources/coa/Bulk2605280334.pdf.txt",
+          "source_file": "sources/coa/Bulk2605280334.pdf",
+          "basis": "direct_sample_label_not_retail_pack_total",
+          "visual_evidence_file": "sources/coa/pdf-renders/Bulk2605280334.pdf.png"
+        }
+      },
+      "legacy_metadata_crosscheck": {
+        "source_file": "migration-tools/staging-delta-sync/coa-native-import-payload-v2-2026-08-20.json",
+        "reported_date": "2026-05-30",
+        "labeled_dose": "N/A",
+        "purity": "99.33%",
+        "net_content": "9.92 mg",
+        "note": "Historical metadata only; direct report governs conflicts."
+      }
+    }
+  ]
+}

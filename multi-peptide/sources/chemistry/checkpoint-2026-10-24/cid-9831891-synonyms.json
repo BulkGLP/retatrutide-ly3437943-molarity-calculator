@@ -1,0 +1,32 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:08.926758+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 9831891,
+          "Synonym": [
+            "Bisprezatide copper",
+            "Bis-prezatide copper",
+            "DL1TR6W6VM",
+            "130120-56-8",
+            "RefChem:1080033",
+            "Cuprate(1-), (N2-(glycyl-L-histidyl-kappaN3)-L-lysinato)(N2-(glycyl-kappaN-L-histidyl-kappaN3)-L-lysinato(2-))-, hydrogen (1:1)",
+            "Ghk bis complex with copper",
+            "GHK-Cu",
+            "300801-03-0",
+            "N2-(N-glycyl-L-histidyl)-L-Lysine, copper complex,acetate",
+            "SCHEMBL2243005",
+            "GLXC-23041",
+            "Q27276456",
+            "CUPRATE(1-), (N2-(GLYCYL-L-HISTIDYL-.KAPPA.N3)-L-LYSINATO)(N2-(GLYCYL-.KAPPA.N-L-HISTIDYL-.KAPPA.N3)-L-LYSINATO(2-))-, HYDROGEN (1:1)"
+          ]
+        }
+      ]
+    }
+  }
+}

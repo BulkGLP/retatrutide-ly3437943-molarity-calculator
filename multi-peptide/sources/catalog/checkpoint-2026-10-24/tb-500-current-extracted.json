@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "url": "https://bulkglp.com/product/tb-500/",
+    "http_status": 200,
+    "final_url": "https://bulkglp.com/product/tb-500/",
+    "retrieved_at_utc": "2026-10-24T21:03:43.425180+00:00",
+    "sha256": "1d597ea29a9f3a86cce547bf732cff52554571dd650f1237b4b859eac88d2cfe"
+  },
+  "visible_text": "TB-500 Research Peptide | BulkGLP\nSkip to content\nIndependent Lab Testing · HPLC + LC-MS\n◆\nEndotoxin & Microbial Results · See Your Lot’s COA\n◆\nPublic COAs · Matched to Your Batch\n◆\nShipping Monday–Saturday\n◆\nU.S. Inventory · U.S. Fulfillment\n◆\nFree USPS Priority or FedEx 2Day on $99+\n◆\nIndependent Lab Testing · HPLC + LC-MS\n◆\nEndotoxin & Microbial Results · See Your Lot’s COA\n◆\nPublic COAs · Matched to Your Batch\n◆\nShipping Monday–Saturday\n◆\nU.S. Inventory · U.S. Fulfillment\n◆\nFree USPS Priority or FedEx 2Day on $99+\n◆\nShop\nCOAs\nLearn\nAbout\nAffiliates\nAccount\nCart\n0\nMenu \n☰\nShop\nCOAs\nLearn\nAbout\nAffiliates\nAccount\nContact\nHome\nAll Products\nHome\n/\nResearch products\n/\nTB-500\nMatrix & Tissue Signaling Peptides\nMatrix & Tissue Signaling Peptides\nTB-500\nTB-500 is supplied as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or veterinary use.\n↗\n View batch documentation\nPack size\nSingle unit\n1 unit\n10-pack\n10 units\nSave 20%\n1 unit\nYOUR SELECTION\nSingle\n$84\nUSD\nIn stock\nQuantity\nAdd to cart\n→\nFor laboratory research only. Not for human or veterinary use.\nTHE BULKGLP STANDARD\nQuality tested.\nConfidence delivered.\nOur quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence.\nCERTIFICATE OF ANALYSIS\n10mg · Lot 25494 · Report 2605280346\n↗\n (opens in a new tab)\nExplore all lab reports\n→\nCONTINUE EXPLORING\nRelated research products.\nView the catalog ↗\nIn stock\nBioactive Research Peptides\nTesamorelin 10mg\nSingle\n10 Pack\nView product details\nFrom \n$119\n↗\nChoose format\n→\nIn stock\nBioactive Research Peptides\nSermorelin 10mg\nSingle\n10 Pack\nView product details\nFrom \n$80\n↗\nChoose format\n→\nIn stock\nBioactive Research Peptides\nCJC-1295 with DAC 10mg\nSingle\n10 Pack\nView product details\nFrom \n$55\n↗\nChoose format\n→\nIn stock\nMatrix & Tissue Signaling Peptides\nGHK-Cu Peptide (GHKCu) — 100mg Research Vial\nSingle\n10 Pack\nView product details\nFrom \n$52\n↗\nChoose format\n→\nResearch materials.\nClear documentation. Direct access.\nResearch updates\nEmail\nSubscribe\nI agree to receive BulkGLP research updates by email and have my signup stored.\nPrivacy policy\nEXPLORE\nResearch products\nCertificates of analysis\nResearch guides\nRetatrutide sourcing guide\nBulk Retatrutide options\nAbout BulkGLP\nAffiliates\nHELP & ACCOUNT\nContact BulkGLP\nYour account\nYour cart\nTerms & conditions\nPrivacy policy\nMaterials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis.\nAll products on this site are for \nresearch and development use only\n. Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease.\nBulkGLP\n is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act.\n© \n2026\n BulkGLP\nFor laboratory research only. Not for human or veterinary use.\nBULKGLP\nYour cart \n(\n0\n)\n×\nLoading your cart…\nAll Products\nRetatrutide\nGLP-1 & GIP\nBioactive Peptides\nTissue Signaling\nMetabolic Research\nRaw Powders\nResearch Support",
+  "structured_product_data": [
+    {
+      "slug": "tb-500",
+      "title": "TB-500",
+      "description": "TB-500 is supplied as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or veterinary use.",
+      "categories": [
+        {
+          "slug": "structural-binding-peptides",
+          "name": "Matrix & Tissue Signaling Peptides"
+        },
+        {
+          "slug": "all-products",
+          "name": "All Products"
+        }
+      ],
+      "image": {
+        "src": "/api/medusa-media/origin-2/catalog/245ee1d6f7efb3b659f8.avif",
+        "alt": "TB-500",
+        "width": 1024,
+        "height": 1024
+      },
+      "images": [
+        "$30:props:product:image"
+      ],
+      "variants": [
+        {
+          "id": "variant_01M4BBTTNVGSWRMVQHVQJVTT39",
+          "label": "Single unit",
+          "formulation": "",
+          "priceMinor": 8400,
+          "currency": "USD",
+          "inStock": true,
+          "stockStatus": "verified",
+          "image": null,
+          "pack": "$undefined"
+        },
+        {
+          "id": "variant_01M4BXSW5RTDX4XRY05WVEBGD7",
+          "label": "10 Pack",
+          "formulation": "",
+          "priceMinor": 67200,
+          "currency": "USD",
+          "inStock": true,
+          "stockStatus": "verified",
+          "image": {
+            "src": "/api/medusa-media/origin-2/catalog/245ee1d6f7efb3b659f8.avif",
+            "alt": "TB-500 — 10 Pack",
+            "width": 1024,
+            "height": 1024
+          },
+          "pack": {
+            "quantity": 10,
+            "singleVariantId": "variant_01M4BBTTNVGSWRMVQHVQJVTT39"
+          }
+        }
+      ]
+    }
+  ],
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "TB-500",
+      "description": "TB-500 is supplied as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or veterinary use.",
+      "url": "https://bulkglp.com/product/tb-500/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/245ee1d6f7efb3b659f8.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Single unit",
+          "sku": "variant_01M4BBTTNVGSWRMVQHVQJVTT39",
+          "url": "https://bulkglp.com/product/tb-500/",
+          "price": "84.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "12.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "10 Pack",
+          "sku": "variant_01M4BXSW5RTDX4XRY05WVEBGD7",
+          "url": "https://bulkglp.com/product/tb-500/",
+          "price": "672.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TB-500",
+          "item": "https://bulkglp.com/product/tb-500/"
+        }
+      ]
+    }
+  ],
+  "anchors": [
+    {
+      "attributes": {
+        "class": "skip-link",
+        "href": "#main"
+      },
+      "text": "Skip to content"
+    },
+    {
+      "attributes": {
+        "class": "brand brand-authentic",
+        "href": "/",
+        "aria-label": "BulkGLP home"
+      },
+      "text": ""
+    },
+    {
+      "attributes": {
+        "href": "/#catalog"
+      },
+      "text": "Shop"
+    },
+    {
+      "attributes": {
+        "href": "/verified-quality/"
+      },
+      "text": "COAs"
+    },
+    {
+      "attributes": {
+        "href": "/learn/"
+      },
+      "text": "Learn"
+    },
+    {
+      "attributes": {
+        "href": "/about/"
+      },
+      "text": "About"
+    },
+    {
+      "attributes": {
+        "href": "/affiliate-program/"
+      },
+      "text": "Affiliates"
+    },
+    {
+      "attributes": {
+        "href": "/account/"
+      },
+      "text": "Account"
+    },
+    {
+      "attributes": {
+        "href": "/#catalog"
+      },
+      "text": "Shop"
+    },
+    {
+      "attributes": {
+        "href": "/verified-quality/"
+      },
+      "text": "COAs"
+    },
+    {
+      "attributes": {
+        "href": "/learn/"
+      },
+      "text": "Learn"
+    },
+    {
+      "attributes": {
+        "href": "/about/"
+      },
+      "text": "About"
+    },
+    {
+      "attributes": {
+        "href": "/affiliate-program/"
+      },
+      "text": "Affiliates"
+    },
+    {
+      "attributes": {
+        "href": "/account/"
+      },
+      "text": "Account"
+    },
+    {
+      "attributes": {
+        "href": "/contact/"
+      },
+      "text": "Contact"
+    },
+    {
+      "attributes": {
+        "href": "/"
+      },
+      "text": "Home"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/all-products/"
+      },
+      "text": "All Products"
+    },
+    {
+      "attributes": {
+        "href": "/"
+      },
+      "text": "Home"
+    },
+    {
+      "attributes": {
+        "href": "/#catalog"
+      },
+      "text": "Research products"
+    },
+    {
+      "attributes": {
+        "class": "documentation-link",
+        "href": "#documentation"
+      },
+      "text": "↗ View batch documentation"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280346.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS10mg · Lot 25494 · Report 2605280346↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "class": "documentation-link",
+        "href": "/verified-quality/"
+      },
+      "text": "Explore all lab reports→"
+    },
+    {
+      "attributes": {
+        "class": "text-link dark-link",
+        "href": "/#catalog"
+      },
+      "text": "View the catalog ↗"
+    },
+    {
+      "attributes": {
+        "class": "catalog-card collection-card",
+        "href": "/product/tesamorelin/"
+      },
+      "text": "In stockBioactive Research PeptidesTesamorelin 10mgSingle10 PackView product detailsFrom $119↗Choose format →"
+    },
+    {
+      "attributes": {
+        "class": "catalog-card collection-card",
+        "href": "/product/sermorelin/"
+      },
+      "text": "In stockBioactive Research PeptidesSermorelin 10mgSingle10 PackView product detailsFrom $80↗Choose format →"
+    },
+    {
+      "attributes": {
+        "class": "catalog-card collection-card",
+        "href": "/product/cjc-1295-with-dac-10mg/"
+      },
+      "text": "In stockBioactive Research PeptidesCJC-1295 with DAC 10mgSingle10 PackView product detailsFrom $55↗Choose format →"
+    },
+    {
+      "attributes": {
+        "class": "catalog-card collection-card",
+        "href": "/product/ghk-cu/"
+      },
+      "text": "In stockMatrix & Tissue Signaling PeptidesGHK-Cu Peptide (GHKCu) — 100mg Research VialSingle10 PackView product detailsFrom $52↗Choose format →"
+    },
+    {
+      "attributes": {
+        "class": "brand brand-authentic",
+        "href": "/",
+        "aria-label": "BulkGLP home"
+      },
+      "text": ""
+    },
+    {
+      "attributes": {
+        "href": "/privacy-policy/"
+      },
+      "text": "Privacy policy"
+    },
+    {
+      "attributes": {
+        "href": "/#catalog"
+      },
+      "text": "Research products"
+    },
+    {
+      "attributes": {
+        "href": "/verified-quality/"
+      },
+      "text": "Certificates of analysis"
+    },
+    {
+      "attributes": {
+        "href": "/learn/"
+      },
+      "text": "Research guides"
+    },
+    {
+      "attributes": {
+        "href": "/where-to-buy-retatrutide/"
+      },
+      "text": "Retatrutide sourcing guide"
+    },
+    {
+      "attributes": {
+        "href": "/bulk-retatrutide/"
+      },
+      "text": "Bulk Retatrutide options"
+    },
+    {
+      "attributes": {
+        "href": "/about/"
+      },
+      "text": "About BulkGLP"
+    },
+    {
+      "attributes": {
+        "href": "/affiliate-program/"
+      },
+      "text": "Affiliates"
+    },
+    {
+      "attributes": {
+        "href": "/contact/"
+      },
+      "text": "Contact BulkGLP"
+    },
+    {
+      "attributes": {
+        "href": "/account/"
+      },
+      "text": "Your account"
+    },
+    {
+      "attributes": {
+        "href": "/cart/"
+      },
+      "text": "Your cart"
+    },
+    {
+      "attributes": {
+        "href": "/terms-conditions/"
+      },
+      "text": "Terms & conditions"
+    },
+    {
+      "attributes": {
+        "href": "/privacy-policy/"
+      },
+      "text": "Privacy policy"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/all-products/"
+      },
+      "text": "All Products"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/product/retatrutide/",
+        "title": "Retatrutide Research Peptides"
+      },
+      "text": "Retatrutide"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/product-category/glp1-gip-peptides/",
+        "title": "GLP-1 & GIP Research Peptides"
+      },
+      "text": "GLP-1 & GIP"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/product-category/bioactive-research-peptides/",
+        "title": "Bioactive Research Peptides"
+      },
+      "text": "Bioactive Peptides"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/product-category/structural-binding-peptides/",
+        "title": "Matrix & Tissue Signaling Peptides"
+      },
+      "text": "Tissue Signaling"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/product-category/mitochondrial-metabolic-peptides/",
+        "title": "Mitochondrial & Metabolic Research"
+      },
+      "text": "Metabolic Research"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/product-category/raw-research-powders/",
+        "title": "Bulk Raw Research Powders"
+      },
+      "text": "Raw Powders"
+    },
+    {
+      "attributes": {
+        "class": "category-navigation-link",
+        "href": "/product-category/research-support-compounds/",
+        "title": "Research Support Compounds"
+      },
+      "text": "Research Support"
+    }
+  ],
+  "identity_token_matches": [
+    " as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or vet",
+    " as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or vet",
+    "nded to diagnose, treat, cure or prevent any disease.</p><p><strong>BulkGLP</strong> is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is n",
+    "\"$\\\",\\\"p\\\",null,{\\\"children\\\":[[\\\"$\\\",\\\"strong\\\",null,{\\\"children\\\":\\\"BulkGLP\\\"}],\\\" is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is n",
+    " as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or vet",
+    " as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or vet",
+    "t:image\\\"],\\\"variants\\\":[{\\\"id\\\":\\\"variant_01M4BBTTNVGSWRMVQHVQJVTT39\\\",\\\"label\\\":\\\"Single unit\\\",\\\"formulation\\\":\\\"\\\",\\\"priceMinor\\\":8400,\\\"currency\\\":\\\"USD\\\",\\\"inStock\\\":true,\\\"stockStatus\\\":\\\"verified\\\",\\\"image\\\":null,\\\"pack\\\":\\\"$undefined\\\"},{\\\"id\\\":\\\"variant_01M",
+    "4BXSW5RTDX4XRY05WVEBGD7\\\",\\\"label\\\":\\\"10 Pack\\\",\\\"formulation\\\":\\\"\\\",\\\"priceMinor\\\":67200,\\\"currency\\\":\\\"USD\\\",\\\"inStock\\\":true,\\\"stockStatus\\\":\\\"verified\\\",\\\"image\\\":{\\\"src\\\":\\\"/api/medusa-media/origin-2/catalog/245e"
+  ],
+  "image_tags": [
+    "<img src=\"/brand/bulkglp-logo-vector-no-shadow-20261011.svg\" alt=\"BulkGLP Research Peptides Supply\" width=\"2040\" height=\"560\" loading=\"eager\" decoding=\"async\"/>",
+    "<img alt=\"TB-500\" width=\"1024\" height=\"1024\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\" sizes=\"(max-width: 700px) calc(100vw - 36px), (max-width: 1300px) 45vw, 585px\" srcSet=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=384&amp;q=75 384w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=640&amp;q=75 640w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=750&amp;q=75 750w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=828&amp;q=75 828w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=1080&amp;q=75 1080w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=1200&amp;q=75 1200w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=1920&amp;q=75 1920w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=2048&amp;q=75 2048w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F245ee1d6f7efb3b659f8.avif&amp;w=3840&amp;q=75\"/>",
+    "<img alt=\"Tesamorelin 10mg\" loading=\"lazy\" width=\"1024\" height=\"1024\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\" sizes=\"(max-width: 700px) calc((100vw - 48px) / 2), (max-width: 1050px) calc((100vw - 90px) / 3), 290px\" srcSet=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=32&amp;q=75 32w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=48&amp;q=75 48w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=64&amp;q=75 64w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=96&amp;q=75 96w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=128&amp;q=75 128w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=256&amp;q=75 256w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=384&amp;q=75 384w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=640&amp;q=75 640w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=750&amp;q=75 750w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=828&amp;q=75 828w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=1080&amp;q=75 1080w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=1200&amp;q=75 1200w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=1920&amp;q=75 1920w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=2048&amp;q=75 2048w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F3f12fc4bc3ecdd47c95b.png&amp;w=3840&amp;q=75\"/>",
+    "<img alt=\"Sermorelin 10mg\" loading=\"lazy\" width=\"1024\" height=\"1024\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\" sizes=\"(max-width: 700px) calc((100vw - 48px) / 2), (max-width: 1050px) calc((100vw - 90px) / 3), 290px\" srcSet=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=32&amp;q=75 32w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=48&amp;q=75 48w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=64&amp;q=75 64w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=96&amp;q=75 96w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=128&amp;q=75 128w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=256&amp;q=75 256w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=384&amp;q=75 384w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=640&amp;q=75 640w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=750&amp;q=75 750w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=828&amp;q=75 828w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=1080&amp;q=75 1080w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=1200&amp;q=75 1200w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=1920&amp;q=75 1920w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=2048&amp;q=75 2048w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F5ae172ac083535fba3d6.png&amp;w=3840&amp;q=75\"/>",
+    "<img alt=\"CJC-1295 with DAC 10mg\" loading=\"lazy\" width=\"1024\" height=\"1024\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\" sizes=\"(max-width: 700px) calc((100vw - 48px) / 2), (max-width: 1050px) calc((100vw - 90px) / 3), 290px\" srcSet=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=32&amp;q=75 32w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=48&amp;q=75 48w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=64&amp;q=75 64w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=96&amp;q=75 96w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=128&amp;q=75 128w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=256&amp;q=75 256w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=384&amp;q=75 384w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=640&amp;q=75 640w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=750&amp;q=75 750w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=828&amp;q=75 828w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=1080&amp;q=75 1080w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=1200&amp;q=75 1200w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=1920&amp;q=75 1920w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=2048&amp;q=75 2048w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F1b4248a6b8438819019d.png&amp;w=3840&amp;q=75\"/>",
+    "<img alt=\"GHK-Cu Peptide (GHKCu) — 100mg Research Vial\" loading=\"lazy\" width=\"1024\" height=\"1024\" decoding=\"async\" data-nimg=\"1\" style=\"color:transparent\" sizes=\"(max-width: 700px) calc((100vw - 48px) / 2), (max-width: 1050px) calc((100vw - 90px) / 3), 290px\" srcSet=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=32&amp;q=75 32w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=48&amp;q=75 48w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=64&amp;q=75 64w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=96&amp;q=75 96w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=128&amp;q=75 128w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=256&amp;q=75 256w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=384&amp;q=75 384w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=640&amp;q=75 640w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=750&amp;q=75 750w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=828&amp;q=75 828w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=1080&amp;q=75 1080w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=1200&amp;q=75 1200w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=1920&amp;q=75 1920w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=2048&amp;q=75 2048w, /_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=3840&amp;q=75 3840w\" src=\"/_next/image/?url=%2Fapi%2Fmedusa-media%2Forigin-2%2Fcatalog%2F405cccfb701894f6d805.webp&amp;w=3840&amp;q=75\"/>",
+    "<img src=\"/brand/bulkglp-logo-vector-no-shadow-20261011.svg\" alt=\"BulkGLP Research Peptides Supply\" width=\"2040\" height=\"560\" loading=\"lazy\" decoding=\"async\"/>"
+  ]
+}

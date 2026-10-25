@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:56Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 62707662,
+          "MolecularFormula": "C38H68N10O14",
+          "MolecularWeight": "889.0",
+          "ExactMass": "888.49164688",
+          "MonoisotopicMass": "888.49164688",
+          "Title": "Unii-qhk6Z47gtg"
+        }
+      ]
+    }
+  }
+}

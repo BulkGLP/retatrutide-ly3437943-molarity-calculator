@@ -1,0 +1,35 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/MOTS-c/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:58Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 146675088,
+          "Synonym": [
+            "Mots-c",
+            "1627580-64-6",
+            "UNII-A5CV6JFB78",
+            "MOTS-c (human) (trifluoroacetate salt)",
+            "A5CV6JFB78",
+            "H-MRWQEMGYIFYPRKLR-OH",
+            "orb2279120",
+            "orb3032863",
+            "SCHEMBL29545955",
+            "Mitochondria-derived peptide mots-c",
+            "EX-A6267",
+            "HY-P2048",
+            "PP51038",
+            "DA-65618",
+            "CS-0107608",
+            "T77782",
+            "Met-Arg-Trp-Gln-Glu-Met-Gly-Tyr-Ile-Phe-Tyr-Pro-Arg-Lys-Leu-Arg",
+            "amide-Met-Arg-Trp-Gln-Glu-Met-Gly-Tyr-Ile-Phe-Tyr-Pro-Arg-Lys-Leu-Arg-acid",
+            "L-Arginine, L-methionyl-L-arginyl-L-tryptophyl-L-glutaminyl-L-alpha-glutamyl-L-methionylglycyl-L-tyrosyl-L-isoleucyl-L-phenylalanyl-L-tyrosyl-L-prolyl-L-arginyl-L-lysyl-L-leucyl-",
+            "L-Methionyl-L-arginyl-L-tryptophyl-L-glutaminyl-L-alpha-glutamyl-L-methionylglycyl-L-tyrosyl-L-isoleucyl-L-phenylalanyl-L-tyrosyl-L-prolyl-L-arginyl-L-lysyl-L-leucyl-L-arginine"
+          ]
+        }
+      ]
+    }
+  }
+}

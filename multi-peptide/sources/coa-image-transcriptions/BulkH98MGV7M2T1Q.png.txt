@@ -1,0 +1,18 @@
+Source: sources/coa/BulkH98MGV7M2T1Q.png
+SHA256: 8708fcc48cd1cb00e6d28216b5c0cb2ca18a660f599efd8b14971de3a41defdc
+Verification: visual review of original source raster
+report #: 31112
+Product: Reconstitution Solution 10mL
+Lot: None
+Sample received: 12/29/25
+produced: 01/16/26
+Analysis conducted: 01/15/26
+Purity: [not reported]
+Net Content: [not reported]
+Purity method: [not reported]
+Other method: Qualitative sterility assessment by USP <1223> BacT/ALERT
+Sterility: Pass
+Review note: Report number is 31112; H98MGV7M2T1Q is explicitly the access code.
+Review note: No HPLC purity, net content, or lot reported.
+Review note: Reported date normalized from literal produced date; explicit Analysis conducted date retained as test_date.
+Review note: The report_id follows the actual document; archive_report_id preserves the archive identifier for joins.

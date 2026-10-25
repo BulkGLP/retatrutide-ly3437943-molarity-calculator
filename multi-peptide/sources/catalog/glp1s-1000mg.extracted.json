@@ -1,0 +1,179 @@
+{
+  "slug": "glp1s-1000mg",
+  "canonical": "https://bulkglp.com/product/glp1s-1000mg/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Semaglutide Research Powder — 1000mg (1g)"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "Tesamorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Sermorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "CJC-1295 with DAC 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "glp1s-1000mg",
+    "title": "Semaglutide Research Powder — 1000mg (1g)",
+    "description": "Semaglutide raw research powder is listed in a nominal 1000 mg (1 g) quantity. The source identifies it as a modified GLP-1 analogue. Review product identity, packaging and available lot documentation against laboratory requirements before ordering. For controlled laboratory research only; not for human or veterinary use.",
+    "categories": [
+      {
+        "slug": "raw-research-powders",
+        "name": "Bulk Raw Research Powders"
+      },
+      {
+        "slug": "all-products",
+        "name": "All Products"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/1b3e9182c009ad68c27a.avif",
+      "alt": "Semaglutide Research Powder — 1000mg (1g)",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$b:props:children:3:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTS9RM0R43KDQ2QMXDSRH",
+        "label": "Single unit",
+        "formulation": "",
+        "priceMinor": 169900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "Semaglutide Research Powder — 1000mg (1g)",
+      "description": "Semaglutide raw research powder is listed in a nominal 1000 mg (1 g) quantity. The source identifies it as a modified GLP-1 analogue. Review product identity, packaging and available lot documentation against laboratory requirements before ordering. For controlled laboratory research only; not for human or veterinary use.",
+      "url": "https://bulkglp.com/product/glp1s-1000mg/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/1b3e9182c009ad68c27a.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Single unit",
+          "sku": "variant_01M4BBTS9RM0R43KDQ2QMXDSRH",
+          "url": "https://bulkglp.com/product/glp1s-1000mg/",
+          "price": "1699.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Semaglutide Research Powder — 1000mg (1g)",
+          "item": "https://bulkglp.com/product/glp1s-1000mg/"
+        }
+      ]
+    }
+  ],
+  "coa_links": [],
+  "visible_text": "Semaglutide Research Powder, 1 g | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / Semaglutide Research Powder — 1000mg (1g) Bulk Raw Research Powders Bulk Raw Research Powders Semaglutide Research Powder — 1000mg (1g) Semaglutide raw research powder is listed in a nominal 1000 mg (1 g) quantity. The source identifies it as a modified GLP-1 analogue. Review product identity, packaging and available lot documentation against laboratory requirements before ordering. For controlled laboratory research only; not for human or veterinary use. ↗ View batch documentation 1 unit YOUR SELECTION Single $1,699 USD In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. Explore our lab reports → CONTINUE EXPLORING Related research products. View the catalog ↗ In stock Bioactive Research Peptides Tesamorelin 10mg Single 10 Pack View product details From $119 ↗ Choose format → In stock Bioactive Research Peptides Sermorelin 10mg Single 10 Pack View product details From $80 ↗ Choose format → In stock Bioactive Research Peptides CJC-1295 with DAC 10mg Single 10 Pack View product details From $55 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides GHK-Cu Peptide (GHKCu) — 100mg Research Vial Single 10 Pack View product details From $52 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}

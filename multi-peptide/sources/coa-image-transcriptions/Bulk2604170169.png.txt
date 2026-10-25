@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170169.png
+SHA256: 9197a5b4d199b1bd6300c629adab86f62d2131a0868a124dec8fa8c737cfb1e7
+Verification: visual review of original source raster
+Accession #: 2604170169
+Product: RETATRUTIDE 15mg
+Lot: 062503
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.81%
+Net Content: 14.91 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5892/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:43:02Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 5892,
+          "MolecularFormula": "C21H27N7O14P2",
+          "MolecularWeight": "663.4",
+          "ExactMass": "663.10912256",
+          "MonoisotopicMass": "663.10912256",
+          "Title": "Nadide"
+        }
+      ]
+    }
+  }
+}

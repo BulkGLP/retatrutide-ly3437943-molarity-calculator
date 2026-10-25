@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:52Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 168431292,
+          "MolecularFormula": "C15H24ClCuN6O4-",
+          "MolecularWeight": "451.39",
+          "ExactMass": "450.084353",
+          "MonoisotopicMass": "450.084353",
+          "Title": "copper;(2S)-6-amino-2-[[(2S)-2-[(2S)-2-azanidylpropanoyl]azanidyl-3-(1H-imidazol-4-yl)propanoyl]amino]hexanoate;hydrochloride"
+        }
+      ]
+    }
+  }
+}

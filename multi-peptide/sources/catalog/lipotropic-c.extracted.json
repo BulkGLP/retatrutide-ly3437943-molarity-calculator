@@ -1,0 +1,405 @@
+{
+  "slug": "lipotropic-c",
+  "canonical": "https://bulkglp.com/product/lipotropic-c/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Lipotropic C"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "Tesamorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Sermorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "CJC-1295 with DAC 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "lipotropic-c",
+    "title": "Lipotropic C",
+    "description": "Lipotropic C is a liquid research blend with two options: Cyanocobalamin B12 (Original) and Methylcobalamin B12 + NADH (New). Select the formulation explicitly. The published cyanocobalamin report provides no numeric purity percentage and does not verify the newer formulation. Review formulation-specific documentation before selecting material for laboratory research.",
+    "categories": [
+      {
+        "slug": "research-support-compounds",
+        "name": "Research Support Compounds"
+      },
+      {
+        "slug": "all-products",
+        "name": "All Products"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/13b762e55c53d7706e93.png",
+      "alt": "Lipotropic C",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$30:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTSGAKJGGWZXN2KR5AZ62",
+        "label": "Cyanocobalamin B12 (Original)",
+        "formulation": "Cyanocobalamin B12 (Original)",
+        "priceMinor": 9200,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTSGAHV7BBM7C5P9A508R",
+        "label": "Methylcobalamin B12 + NADH (New)",
+        "formulation": "Methylcobalamin B12 + NADH (New)",
+        "priceMinor": 9200,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BXSW5M82B1W5HBG6S88H45",
+        "label": "Cyanocobalamin B12 (Original) - 10 Pack",
+        "formulation": "Cyanocobalamin B12 (Original)",
+        "priceMinor": 73600,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/13b762e55c53d7706e93.png",
+          "alt": "Lipotropic C — Cyanocobalamin B12 (Original) - 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTSGAKJGGWZXN2KR5AZ62"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5MZ008KMGF9JQWAY86",
+        "label": "Methylcobalamin B12 + NADH (New) - 10 Pack",
+        "formulation": "Methylcobalamin B12 + NADH (New)",
+        "priceMinor": 73600,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/13b762e55c53d7706e93.png",
+          "alt": "Lipotropic C — Methylcobalamin B12 + NADH (New) - 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTSGAHV7BBM7C5P9A508R"
+        }
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "Lipotropic C",
+      "description": "Lipotropic C is a liquid research blend with two options: Cyanocobalamin B12 (Original) and Methylcobalamin B12 + NADH (New). Select the formulation explicitly. The published cyanocobalamin report provides no numeric purity percentage and does not verify the newer formulation. Review formulation-specific documentation before selecting material for laboratory research.",
+      "url": "https://bulkglp.com/product/lipotropic-c/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/13b762e55c53d7706e93.png"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Cyanocobalamin B12 (Original)",
+          "sku": "variant_01M4BBTSGAKJGGWZXN2KR5AZ62",
+          "url": "https://bulkglp.com/product/lipotropic-c/",
+          "price": "92.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "12.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Methylcobalamin B12 + NADH (New)",
+          "sku": "variant_01M4BBTSGAHV7BBM7C5P9A508R",
+          "url": "https://bulkglp.com/product/lipotropic-c/",
+          "price": "92.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "12.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Cyanocobalamin B12 (Original) - 10 Pack",
+          "sku": "variant_01M4BXSW5M82B1W5HBG6S88H45",
+          "url": "https://bulkglp.com/product/lipotropic-c/",
+          "price": "736.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "Methylcobalamin B12 + NADH (New) - 10 Pack",
+          "sku": "variant_01M4BXSW5MZ008KMGF9JQWAY86",
+          "url": "https://bulkglp.com/product/lipotropic-c/",
+          "price": "736.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/OutOfStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Lipotropic C",
+          "item": "https://bulkglp.com/product/lipotropic-c/"
+        }
+      ]
+    }
+  ],
+  "coa_links": [
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280340.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSISN/A · Lot 08335 · Report 2605280340↗ (opens in a new tab)"
+    }
+  ],
+  "visible_text": "Lipotropic C Research Blend | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / Lipotropic C Research Support Compounds Research Support Compounds Lipotropic C Lipotropic C is a liquid research blend with two options: Cyanocobalamin B12 (Original) and Methylcobalamin B12 + NADH (New). Select the formulation explicitly. The published cyanocobalamin report provides no numeric purity percentage and does not verify the newer formulation. Review formulation-specific documentation before selecting material for laboratory research. ↗ View batch documentation Formulation Cyanocobalamin B12 (Original) Methylcobalamin B12 + NADH (New) Sold out Pack size Single unit 1 unit 10-pack 10 units Save 20% Cyanocobalamin B12 (Original) · 1 unit YOUR SELECTION Cyanocobalamin B12 (Original) $92 USD Cyanocobalamin B12 (Original) In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. CERTIFICATE OF ANALYSIS N/A · Lot 08335 · Report 2605280340 ↗ (opens in a new tab) Explore all lab reports → CONTINUE EXPLORING Related research products. View the catalog ↗ In stock Bioactive Research Peptides Tesamorelin 10mg Single 10 Pack View product details From $119 ↗ Choose format → In stock Bioactive Research Peptides Sermorelin 10mg Single 10 Pack View product details From $80 ↗ Choose format → In stock Bioactive Research Peptides CJC-1295 with DAC 10mg Single 10 Pack View product details From $55 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides GHK-Cu Peptide (GHKCu) — 100mg Research Vial Single 10 Pack View product details From $52 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}

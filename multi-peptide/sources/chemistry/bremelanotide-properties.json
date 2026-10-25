@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Bremelanotide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:50Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 9941379,
+          "MolecularFormula": "C50H68N14O10",
+          "MolecularWeight": "1025.2",
+          "ExactMass": "1024.52428442",
+          "MonoisotopicMass": "1024.52428442",
+          "Title": "Bremelanotide"
+        }
+      ]
+    }
+  }
+}

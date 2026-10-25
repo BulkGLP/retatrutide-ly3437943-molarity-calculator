@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/LL-37/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:55Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 16198951,
+          "MolecularFormula": "C205H340N60O53",
+          "MolecularWeight": "4493",
+          "ExactMass": "4492.5821356",
+          "MonoisotopicMass": "4490.5754259",
+          "Title": "LL-37"
+        }
+      ]
+    }
+  }
+}

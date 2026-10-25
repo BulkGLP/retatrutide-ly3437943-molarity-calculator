@@ -1,0 +1,33 @@
+{
+  "url": "https://bulkglp.com/product/epitalon-50mg/",
+  "final_url": "https://bulkglp.com/product/epitalon-50mg/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-10-22T05:42:32.723838+00:00",
+  "sha256": "f96c45ee70daa61ce166f988e826b111e76353224691db97196877b9e349e6bc",
+  "bytes": 66775,
+  "file": "sources/catalog/epitalon-50mg.html",
+  "headers": {
+    "Date": "Thu, 22 Oct 2026 05:42:32 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a4e62de329034792-DFW",
+    "CF-Cache-Status": "REVALIDATED",
+    "Cache-Control": "s-maxage=30, stale-while-revalidate=31535970",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "content-security-policy": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; script-src 'self' 'unsafe-inline' https://js.basistheory.com https://www.googletagmanager.com https://www.googleadservices.com https://www.google.com https://www.clarity.ms https://*.clarity.ms; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://*.clarity.ms https://c.bing.com; font-src 'self' data:; connect-src 'self' https://js.basistheory.com https://api.basistheory.com https://api.us.basistheory.com https://api.eu.basistheory.com https://api.test.basistheory.com https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://ad.doubleclick.net https://www.clarity.ms https://*.clarity.ms https://c.bing.com; frame-src 'self' https://js.basistheory.com https://3ds.basistheory.com https://www.googletagmanager.com; worker-src 'self' blob:; form-action 'self'",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "no-referrer",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-nextjs-cache": "STALE",
+    "x-nextjs-prerender": "1",
+    "x-nextjs-stale-time": "300",
+    "x-turbo-charged-by": "LiteSpeed",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=BoYluMNOu6%2B5VOT9A0%2B9NCpT5%2BlKb4KZm%2FX0tv7NhYTCChD47OaPmAEqs6UPq%2FtG9qINWovv8yo21m0kI5oa9TzGDGurd5QzTBp0pIiurK6MjXKBjyetTBWFdDkf\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Cibinetide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:51Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 91810664,
+          "MolecularFormula": "C51H84N16O21",
+          "MolecularWeight": "1257.3",
+          "ExactMass": "1256.59969375",
+          "MonoisotopicMass": "1256.59969375",
+          "Title": "Cibinetide"
+        }
+      ]
+    }
+  }
+}

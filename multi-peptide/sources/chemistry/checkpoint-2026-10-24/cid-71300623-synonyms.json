@@ -1,0 +1,37 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71300623/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:58:35.561372+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71300623/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 71300623,
+          "Synonym": [
+            "THYMIC FACTOR, CIRCULATING",
+            "Facteur thymique serique",
+            "78922-62-0",
+            "DTXSID40229374",
+            "Thymuline",
+            "Circulating Thymic Factor",
+            "Thymic Circulating Factor",
+            "Serique, Facteur Thymique",
+            "Thymique Serique, Facteur",
+            "Circulating Factor, Thymic",
+            "Factor, Circulating Thymic",
+            "Factor, Thymic Circulating",
+            "RefChem:933051",
+            "DTXCID60151865",
+            "Thymulin",
+            "Oligopeptide thymic factor",
+            "(2S)-4-amino-2-[[(2S)-2-[[2-[[2-[[(2S)-5-amino-2-[[2-[[(2S)-6-amino-2-[[(2S)-2-[[(2S)-5-oxopyrrolidine-2-carbonyl]amino]propanoyl]amino]hexanoyl]amino]-3-hydroxypropanoyl]amino]-5-oxopentanoyl]amino]acetyl]amino]acetyl]amino]-3-hydroxypropanoyl]amino]-4-oxobutanoic acid",
+            "SCHEMBL29727660",
+            "5-Oxo-L-prolyl-L-alanyl-L-lysylseryl-L-glutaminylglycylglycyl-L-seryl-L-asparagine"
+          ]
+        }
+      ]
+    }
+  }
+}

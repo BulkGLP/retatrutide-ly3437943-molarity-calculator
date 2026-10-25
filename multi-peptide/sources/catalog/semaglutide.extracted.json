@@ -1,0 +1,263 @@
+{
+  "slug": "semaglutide",
+  "canonical": "https://bulkglp.com/product/semaglutide/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Semaglutide Peptide 20mg"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "Tesamorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Sermorelin 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "CJC-1295 with DAC 10mg"
+    },
+    {
+      "tag": "h3",
+      "text": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "semaglutide",
+    "title": "Semaglutide Peptide 20mg",
+    "description": "Semaglutide is supplied in 20 mg lyophilized research vials, available individually or in 10-packs. Review the linked lot-specific COA alongside the lot number on the received material. Quantity refers to the selected format, and availability is shown for this product. For laboratory research only; not for human or veterinary use.",
+    "categories": [
+      {
+        "slug": "glp1-gip-peptides",
+        "name": "GLP-1 & GIP Research Peptides"
+      },
+      {
+        "slug": "all-products",
+        "name": "All Products"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/298da0a84834a5afc96a.avif",
+      "alt": "Semaglutide Peptide 20mg",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$2f:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTT0WJNR39ZNT3SRWDSTA",
+        "label": "Single unit",
+        "formulation": "",
+        "priceMinor": 9900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": null,
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BXSW5PT60GYAB99KW8NXM9",
+        "label": "10 Pack",
+        "formulation": "",
+        "priceMinor": 79200,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/298da0a84834a5afc96a.avif",
+          "alt": "Semaglutide Peptide 20mg — 10 Pack",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTT0WJNR39ZNT3SRWDSTA"
+        }
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "Semaglutide Peptide 20mg",
+      "description": "Semaglutide is supplied in 20 mg lyophilized research vials, available individually or in 10-packs. Review the linked lot-specific COA alongside the lot number on the received material. Quantity refers to the selected format, and availability is shown for this product. For laboratory research only; not for human or veterinary use.",
+      "url": "https://bulkglp.com/product/semaglutide/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/298da0a84834a5afc96a.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "Product",
+      "offers": [
+        {
+          "@type": "Offer",
+          "name": "Single unit",
+          "sku": "variant_01M4BBTT0WJNR39ZNT3SRWDSTA",
+          "url": "https://bulkglp.com/product/semaglutide/",
+          "price": "99.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@type": "Offer",
+          "name": "10 Pack",
+          "sku": "variant_01M4BXSW5PT60GYAB99KW8NXM9",
+          "url": "https://bulkglp.com/product/semaglutide/",
+          "price": "792.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "seller": {
+            "@type": "Organization",
+            "name": "BulkGLP",
+            "url": "https://bulkglp.com",
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+            }
+          },
+          "shippingDetails": {
+            "@type": "OfferShippingDetails",
+            "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+            "shippingRate": {
+              "@type": "MonetaryAmount",
+              "value": "0.00",
+              "currency": "USD"
+            },
+            "shippingDestination": {
+              "@type": "DefinedRegion",
+              "addressCountry": "US"
+            },
+            "deliveryTime": {
+              "@type": "ShippingDeliveryTime",
+              "handlingTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 0,
+                "maxValue": 1,
+                "unitCode": "DAY"
+              },
+              "transitTime": {
+                "@type": "QuantitativeValue",
+                "minValue": 3,
+                "maxValue": 5,
+                "unitCode": "DAY"
+              },
+              "businessDays": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                  "https://schema.org/Monday",
+                  "https://schema.org/Tuesday",
+                  "https://schema.org/Wednesday",
+                  "https://schema.org/Thursday",
+                  "https://schema.org/Friday"
+                ]
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Semaglutide Peptide 20mg",
+          "item": "https://bulkglp.com/product/semaglutide/"
+        }
+      ]
+    }
+  ],
+  "coa_links": [
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280343.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS20mg · Lot 062502 · Report 2605280343↗ (opens in a new tab)"
+    }
+  ],
+  "visible_text": "Semaglutide Research Peptide | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / Semaglutide Peptide 20mg GLP-1 & GIP Research Peptides GLP-1 & GIP Research Peptides Semaglutide Peptide 20mg Semaglutide is supplied in 20 mg lyophilized research vials, available individually or in 10-packs. Review the linked lot-specific COA alongside the lot number on the received material. Quantity refers to the selected format, and availability is shown for this product. For laboratory research only; not for human or veterinary use. ↗ View batch documentation Pack size Single vial 1 vial 10-pack 10 vials Save 20% 20 mg per vial · 1 vial YOUR SELECTION Single $99 USD In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. CERTIFICATE OF ANALYSIS 20mg · Lot 062502 · Report 2605280343 ↗ (opens in a new tab) Explore all lab reports → CONTINUE EXPLORING Related research products. View the catalog ↗ In stock Bioactive Research Peptides Tesamorelin 10mg Single 10 Pack View product details From $119 ↗ Choose format → In stock Bioactive Research Peptides Sermorelin 10mg Single 10 Pack View product details From $80 ↗ Choose format → In stock Bioactive Research Peptides CJC-1295 with DAC 10mg Single 10 Pack View product details From $55 ↗ Choose format → In stock Matrix & Tissue Signaling Peptides GHK-Cu Peptide (GHKCu) — 100mg Research Vial Single 10 Pack View product details From $52 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}

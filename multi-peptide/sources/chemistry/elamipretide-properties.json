@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Elamipretide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:51Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 11764719,
+          "MolecularFormula": "C32H49N9O5",
+          "MolecularWeight": "639.8",
+          "ExactMass": "639.38566570",
+          "MonoisotopicMass": "639.38566570",
+          "Title": "Elamipretide"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,391 @@
+[
+  {
+    "file": "Bulk2604170157.png",
+    "report": "2604170157",
+    "product": "ARA-290 10mg",
+    "lot": "90133",
+    "mass": 10,
+    "purity": 53.9,
+    "content": "12.66 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170161.png",
+    "report": "2604170161",
+    "product": "BPC-157 10mg",
+    "lot": "96494",
+    "mass": 10,
+    "purity": 98.07,
+    "content": "10.99 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170153.png",
+    "report": "2604170153",
+    "product": "NAD+ 500mg",
+    "lot": "08530",
+    "mass": 500,
+    "purity": 99.92,
+    "content": "471.61 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170155.png",
+    "report": "2604170155",
+    "product": "Thymosin Alpha-1 10mg",
+    "lot": "4924",
+    "mass": 10,
+    "purity": 99.42,
+    "content": "10.03 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170159.png",
+    "report": "2604170159",
+    "product": "MOTS-C 50mg",
+    "lot": "5105",
+    "mass": 50,
+    "purity": 99.68,
+    "content": "48.17 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170163.png",
+    "report": "2604170163",
+    "product": "KPV 10mg",
+    "lot": "2719",
+    "mass": 10,
+    "purity": 99.18,
+    "content": "12.18 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170167.png",
+    "report": "2604170167",
+    "product": "LL37 5mg",
+    "lot": "2331",
+    "mass": 5,
+    "purity": 96,
+    "content": "5.24 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170169.png",
+    "report": "2604170169",
+    "product": "RETATRUTIDE 15mg",
+    "lot": "062503",
+    "mass": 15,
+    "purity": 99.81,
+    "content": "14.91 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170171-1.png",
+    "report": "2604170171",
+    "product": "Melanotan 1 (MT-1) 10mg",
+    "lot": "7433",
+    "mass": 10,
+    "purity": 99.65,
+    "content": "11.86 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170173.png",
+    "report": "2604170173",
+    "product": "Selank 10mg",
+    "lot": "03815",
+    "mass": 10,
+    "purity": 99.75,
+    "content": "11.47 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170174.jpg",
+    "report": "2604170174",
+    "product": "Melanotan 2 (MT-2) 10mg",
+    "lot": "4389",
+    "mass": 10,
+    "purity": 99.78,
+    "content": "11.62 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170175.jpg",
+    "report": "2604170175",
+    "product": "Semax 10mg",
+    "lot": "04625",
+    "mass": 10,
+    "purity": 99.83,
+    "content": "12.42 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170176.png",
+    "report": "2604170176",
+    "product": "Retatrutide 30mg",
+    "lot": "062503",
+    "mass": 30,
+    "purity": 99.98,
+    "content": "29.84 mg",
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "Bulk2604170180.png",
+    "report": "2604170180",
+    "product": "Raw Retatrutide",
+    "lot": "062503",
+    "mass": null,
+    "purity": 99.96,
+    "content": "7.46 mg",
+    "notes": [
+      "No nominal sample mass stated; 7.46 mg is reported net content, not a nominal catalog mass."
+    ],
+    "received": "04/17/2026",
+    "reported": "04/19/2026",
+    "method": "Purity (HPLC-UV)",
+    "method_detail": "HPLC with UV detection coupled with mass spectrometry (LC-MS)."
+  },
+  {
+    "file": "BulkH98MGV7M2T1Q.png",
+    "report": "31112",
+    "access_code": "H98MGV7M2T1Q",
+    "product": "Reconstitution Solution 10mL",
+    "lot": null,
+    "mass": null,
+    "volume": 10,
+    "purity": null,
+    "content": null,
+    "received": "12/29/25",
+    "reported": "01/16/26",
+    "test": "01/15/26",
+    "reported_label": "produced",
+    "test_label": "Analysis conducted",
+    "method": null,
+    "method_detail": null,
+    "other_method": "Qualitative sterility assessment by USP <1223> BacT/ALERT",
+    "other_results": {
+      "Sterility": "Pass"
+    },
+    "notes": [
+      "Report number is 31112; H98MGV7M2T1Q is explicitly the access code.",
+      "No HPLC purity, net content, or lot reported.",
+      "Reported date normalized from literal produced date; explicit Analysis conducted date retained as test_date."
+    ]
+  },
+  {
+    "file": "Bulk2601130169.jpg",
+    "report": "2601130169",
+    "product": "Retatrutide 20mg",
+    "lot": "062502",
+    "mass": 20,
+    "purity": 99.762,
+    "content": "21.42 mg",
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method": "All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130170.jpg",
+    "report": "2601130170",
+    "product": "Retatrutide 20mg",
+    "lot": "062502",
+    "mass": 20,
+    "purity": null,
+    "content": null,
+    "method": null,
+    "other_method": "All analyses are conducted for research purposes and performed in duplicate in accordance with USP <85> guidelines",
+    "other_results": {
+      "Endotoxin Threshold": "≤ 0.05 EU/mL",
+      "Replicate 1": "Pass",
+      "Replicate 2": "Pass"
+    },
+    "notes": [
+      "Endotoxin-only result; no purity or net peptide content reported. Generic footer about LCMS/MS is not a purity test result."
+    ],
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130171.jpg",
+    "report": "2601130171",
+    "product": "Retatrutide 10mg",
+    "lot": "062502",
+    "mass": 10,
+    "purity": 99.53,
+    "content": "10.96 mg",
+    "method": "All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry",
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130172.jpg",
+    "report": "2601130172",
+    "product": "Retatrutide 10mg",
+    "lot": "062502",
+    "mass": 10,
+    "purity": null,
+    "content": null,
+    "method": null,
+    "other_method": "All analyses are conducted for research purposes and performed in duplicate in accordance with USP <85> guidelines",
+    "other_results": {
+      "Endotoxin Threshold": "≤ 0.05 EU/mL",
+      "Replicate 1": "Pass",
+      "Replicate 2": "Pass"
+    },
+    "notes": [
+      "Endotoxin-only result; no purity or net peptide content reported. Generic footer about LCMS/MS is not a purity test result."
+    ],
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130173.jpg",
+    "report": "2601130173",
+    "product": "Tirzepatide 40mg",
+    "lot": "385105",
+    "mass": 40,
+    "purity": 99.412,
+    "content": "40.78 mg",
+    "method": "All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry",
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130175.jpg",
+    "report": "2601130175",
+    "product": "Retatrutide 30mg",
+    "lot": "062502",
+    "mass": 30,
+    "purity": 99.641,
+    "content": "34.77 mg",
+    "method": "All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry",
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130176.jpg",
+    "report": "2601130176",
+    "product": "Retatrutide 30mg",
+    "lot": "062502",
+    "mass": 30,
+    "purity": null,
+    "content": null,
+    "method": null,
+    "other_method": "All analyses are conducted for research purposes and performed in duplicate in accordance with USP <85> guidelines",
+    "other_results": {
+      "Endotoxin Threshold": "≤ 0.05 EU/mL",
+      "Replicate 1": "Pass",
+      "Replicate 2": "Pass"
+    },
+    "notes": [
+      "Endotoxin-only result; no purity or net peptide content reported. Generic footer about LCMS/MS is not a purity test result."
+    ],
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130177.jpg",
+    "report": "2601130177",
+    "product": "Retatrutide 15mg",
+    "lot": "062502",
+    "mass": 15,
+    "purity": 99.89,
+    "content": "16.01 mg",
+    "method": "All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry",
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130178.jpg",
+    "report": "2601130178",
+    "product": "Retatrutide 15mg",
+    "lot": "062502",
+    "mass": 15,
+    "purity": null,
+    "content": null,
+    "method": null,
+    "other_method": "All analyses are conducted for research purposes and performed in duplicate in accordance with USP <85> guidelines",
+    "other_results": {
+      "Endotoxin Threshold": "≤ 0.05 EU/mL",
+      "Replicate 1": "Pass",
+      "Replicate 2": "Pass"
+    },
+    "notes": [
+      "Endotoxin-only result; no purity or net peptide content reported. Generic footer about LCMS/MS is not a purity test result."
+    ],
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method_detail": null
+  },
+  {
+    "file": "Bulk2601130180.jpg",
+    "report": "2601130180",
+    "product": "Klow 80mg",
+    "lot": "03210",
+    "mass": 80,
+    "purity": null,
+    "content": null,
+    "received": "1/13/2026",
+    "reported": "1/15/2026",
+    "method": null,
+    "method_detail": null,
+    "other_method": "All analyses are conducted for research purposes and performed in duplicate in accordance with USP <85> guidelines",
+    "other_results": {
+      "Endotoxin Threshold": "≤ 0.05 EU/mL",
+      "Replicate 1": "Pass",
+      "Replicate 2": "Pass"
+    },
+    "notes": [
+      "Endotoxin-only result; no purity or net peptide content reported.",
+      "Live archive metadata reports Purity 99%, but this COA provides no purity measurement. Bottle-label purity text is not an analytical result.",
+      "Generic footer about LCMS/MS is not a purity test result."
+    ]
+  }
+]

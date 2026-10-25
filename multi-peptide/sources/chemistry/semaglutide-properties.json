@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Semaglutide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:54Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 56843331,
+          "MolecularFormula": "C187H291N45O59",
+          "MolecularWeight": "4114",
+          "ExactMass": "4112.1187318",
+          "MonoisotopicMass": "4111.1153770",
+          "Title": "Semaglutide"
+        }
+      ]
+    }
+  }
+}

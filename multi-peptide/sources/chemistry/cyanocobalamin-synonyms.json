@@ -1,0 +1,70 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Cyanocobalamin/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:59Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 166596686,
+          "Synonym": [
+            "CHEBI:17439",
+            "Cianocobalamina",
+            "Cyanocobalaminum",
+            "vitaminum b12",
+            "Coco12",
+            "DODEX INJECTABLE",
+            "RefChem:5713",
+            "cyanocobalamine injection",
+            "B03BA01",
+            "VITA-JEC B12 3000",
+            "CYANOCOBALAMIN COMPONENT OF DEPINAR",
+            "CYANOCOBALAMIN COMPONENT OF DICOPAC KIT",
+            "CYANOCOBALAMIN COMPONENT OF RUBRATOPE-60 KIT",
+            "CYANOCOBALAMIN (CONSTITUENT OF CYANOCOBALAMIN)",
+            "200-680-0",
+            "ANTIPERNICIN",
+            "Berubigen",
+            "Betalin 12",
+            "Betaline-12",
+            "Calomist",
+            "CN-Cbl",
+            "Cobavite",
+            "Cyancobalamin",
+            "Cyanocob(III)alamin",
+            "Cyanocobalamin",
+            "CYANOCOBALAMIN (EP MONOGRAPH)",
+            "CYANOCOBALAMIN (MART.)",
+            "CYANOCOBALAMIN (USP MONOGRAPH)",
+            "CYANOCOBALAMIN (USP-RS)",
+            "Cyanocobalamine",
+            "CYANOCOBALMIN",
+            "cyanoject",
+            "Cyomin",
+            "Cytamen",
+            "DEPINAR COMPONENT CYANOCOBALAMIN",
+            "DICOPAC KIT COMPONENT CYANOCOBALAMIN",
+            "Dodecavite",
+            "Dodex",
+            "hydrobexan",
+            "Nascobal",
+            "Normocytin",
+            "NSC-80365",
+            "NSC80365",
+            "P6YC3EG204",
+            "Plecyamin",
+            "Redisol",
+            "Rubesol",
+            "RUBIVAMINE",
+            "Rubivite",
+            "Rubramin PC",
+            "RUBRATOPE-60 KIT COMPONENT CYANOCOBALAMIN",
+            "Ruvite",
+            "Vi-Twel",
+            "Vibisone",
+            "Epitope ID:745449"
+          ]
+        }
+      ]
+    }
+  }
+}

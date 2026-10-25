@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acadesine/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:42:59Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 17513,
+          "MolecularFormula": "C9H14N4O5",
+          "MolecularWeight": "258.23",
+          "ExactMass": "258.09641956",
+          "MonoisotopicMass": "258.09641956",
+          "Title": "Acadesine"
+        }
+      ]
+    }
+  }
+}

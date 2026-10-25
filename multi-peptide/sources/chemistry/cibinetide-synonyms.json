@@ -1,0 +1,63 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Cibinetide/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:52Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 91810664,
+          "Synonym": [
+            "Cibinetide",
+            "1208243-50-8",
+            "ARA290",
+            "PHBSP",
+            "PH-BSP",
+            "ARA-290",
+            "ARA 290",
+            "pHBSP peptide",
+            "Cibinetida",
+            "Pglu-glu-gln-leu-glu-arg-ala-leu-asn-ser-ser",
+            "9W5677JKDA",
+            "pyroglutamate helix B surface peptide",
+            "Pyr-glu-gln-leu-glu-arg-ala-leu-asn-ser-ser-OH",
+            "L-Pyroglutamyl-L-glutamyl-L-glutaminyl-L-ieucyl-L-glutamyl-L-arginyl-L-alanyl-L-leucyl-L-asparaginyl-L-seryl-L-serine",
+            "L-Pyroglutamyl-L-glutamyl-L-glutaminyl-L-leucyl-L-glutamyl-L-arginyl-L-alanyl-L-leucyl-L-asparaginyl-L-seryl-L-serine",
+            "pyroglutamate-glutamyl-glutaminyl-leucyl-glutamyl-arginyl-alanyl-leucyl-asparagyl-seryl-serine",
+            "L-Serine, 5-oxo-L-prolyl-L-alpha-glutamyl-L-glutaminyl-L-leucyl-L-alpha-glutamyl-L-arginyl-L-alanyl-L-leucyl-L-asparaginyl-L-seryl-",
+            "L-PYR-L-GLU-L-GLN-L-LEU-L-GLU-L-ARG-L-ALA-L-LEU-L-ASN-L-SER-L-SER",
+            "UEQLERALNSS",
+            "cibinetidum",
+            "RefChem:577122",
+            "(4S)-5-(((2S)-5-amino-1-(((2S)-1-(((2S)-1-(((2S)-1-(((2S)-1-(((2S)-1-(((2S)-4-amino-1-(((2S)-1-(((1S)-1-carboxy-2-hydroxyethyl)amino)-3-hydroxy-1-oxopropan-2-yl)amino)-1,4-dioxobutan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)amino)-1-oxopropan-2-yl)amino)-5-(diaminomethylideneamino)-1-oxopentan-2-yl)amino)-4-carboxy-1-oxobutan-2-yl)amino)-4-methyl-1-oxopentan-2-yl)amino)-1,5-dioxopentan-2-yl)amino)-5-oxo-4-(((2S)-5-oxopyrrolidine-2-carbonyl)amino)pentanoic acid",
+            "Cibinetide [USAN]",
+            "UNII-9W5677JKDA",
+            "ARA290 (Cibinetide)",
+            "CIBINETIDE [INN]",
+            "Cibinetide (USAN/INN)",
+            "Cibinetide - API Standards",
+            "CIBINETIDE [WHO-DD]",
+            "GTPL9677",
+            "orb1296715",
+            "CHEMBL3545305",
+            "SCHEMBL29367092",
+            "SCHEMBL29425532",
+            "WZG0209",
+            "DTXSID701384981",
+            "GLXC-26513",
+            "EX-A6264",
+            "TP1195",
+            "AKOS040763919",
+            "DB13006",
+            "DA-71012",
+            "MS-32078",
+            "D11218",
+            "F85496",
+            "Q27273306",
+            "L-SERINE, 5-OXO-L-PROLYL-L-.ALPHA.-GLUTAMYL-L-GLUTAMINYL-L-LEUCYL-L-.ALPHA.-GLUTAMYL-L-ARGINYL-L-ALANYL-L-LEUCYL-L-ASPARAGINYL-L-SERYL-",
+            "L-Serine,(2S,5S,8S,11S,14S,17S,20S,23S,26S,29S)-8-(2-amino-2-oxoethyl)-26-(3-amino-3-oxopropyl)-20-(2-carboxyethyl)-17-(3-guanidinopropyl)-2,5-bis(hydroxymethyl)-11,23-diisobutyl-14-methyl-4,7,10,13,16,19,22,25,28-nonaoxo-29-((S)-5-oxopyrrolidine-2-carbox"
+          ]
+        }
+      ]
+    }
+  }
+}

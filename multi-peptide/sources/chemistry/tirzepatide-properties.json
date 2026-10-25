@@ -1,0 +1,50 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tirzepatide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:55Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 166567236,
+          "MolecularFormula": "C225H348N48O68",
+          "MolecularWeight": "4813",
+          "ExactMass": "4812.5315671",
+          "MonoisotopicMass": "4810.5248574",
+          "Title": "CID 166567236"
+        },
+        {
+          "CID": 168009818,
+          "MolecularFormula": "C225H348N48O68",
+          "MolecularWeight": "4813",
+          "ExactMass": "4812.5315671",
+          "MonoisotopicMass": "4810.5248574",
+          "Title": "CID 168009818"
+        },
+        {
+          "CID": 163285897,
+          "MolecularFormula": "C225H348N48O68",
+          "MolecularWeight": "4813",
+          "ExactMass": "4812.5315671",
+          "MonoisotopicMass": "4810.5248574",
+          "Title": "CID 163285897"
+        },
+        {
+          "CID": 166639051,
+          "MolecularFormula": "C225H348N48O68",
+          "MolecularWeight": "4813",
+          "ExactMass": "4812.5315671",
+          "MonoisotopicMass": "4810.5248574",
+          "Title": "CID 166639051"
+        },
+        {
+          "CID": 172915556,
+          "MolecularFormula": "C225H348N48O68",
+          "MolecularWeight": "4813",
+          "ExactMass": "4812.5315671",
+          "MonoisotopicMass": "4810.5248574",
+          "Title": "CID 172915556"
+        }
+      ]
+    }
+  }
+}

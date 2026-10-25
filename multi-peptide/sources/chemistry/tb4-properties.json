@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymosin%20beta%204/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:44:10Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 45382195,
+          "MolecularFormula": "C212H350N56O78S",
+          "MolecularWeight": "4963",
+          "ExactMass": "4962.4930265",
+          "MonoisotopicMass": "4960.4863169",
+          "Title": "Thymosin Beta 4"
+        }
+      ]
+    }
+  }
+}

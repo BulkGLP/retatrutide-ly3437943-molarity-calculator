@@ -1,0 +1,259 @@
+{
+  "checked_at_utc": "2026-10-24T21:05:30.731955+00:00",
+  "method": "Fresh unauthenticated public HTTPS GET, TLS verification enabled, no scripts/cart/checkout/backend use. Complete saved responses and primary displayed assets examined.",
+  "source_provenance_note": "Initial web tool Thymalin response was an older cached long description. This result uses fresh direct HTTP200 NextHTML artifacts, not that cached description.",
+  "ahk_cu": {
+    "product_url": "https://bulkglp.com/product/ahk-cu-10000mg/",
+    "current_description": "AHK-Cu raw research powder is listed in a nominal 10 g (10,000 mg) quantity. The source identifies the Ala-His-Lys copper complex, which is distinct from GHK-Cu. Review available lot and packaging details before ordering. For laboratory research only; not for human or veterinary use.",
+    "published_identity_name": "Ala-His-Lys copper complex; distinct from GHK-Cu",
+    "sequence_name_as_published": "Ala-His-Lys; no terminal/stereochemical/copper stoichiometry declaration in the current text",
+    "cas_as_published": null,
+    "molecular_formula_as_published": null,
+    "average_molecular_weight_as_published": null,
+    "bulk_material_charge_as_published": null,
+    "salt_counterion_hydrate_as_published": null,
+    "description_spec_table_check": {
+      "table_elements_in_complete_response": 0,
+      "headings": [
+        "AHK-Cu Research Powder â€” 10g (10,000mg)",
+        "Quality tested.Confidence delivered.",
+        "Related research products.",
+        "SS-31 Research Powder â€” 1000mg (1g)",
+        "GHK-Cu Research Powder â€” 10g (10,000mg)",
+        "Thymosin Alpha-1 Research Powder â€” 1000mg (1g)",
+        "Selank Research Powder â€” 1000mg (1g)",
+        "Research updates",
+        "Your cart (0)"
+      ],
+      "exact_term_counts_in_complete_response": {
+        "CAS": 0,
+        "molecular": 0,
+        "sequence": 0,
+        "salt": 0,
+        "charge": 0,
+        "Ala-His-Lys": 4,
+        "Thymalin should not": 0
+      }
+    },
+    "main_image_url": "https://bulkglp.com/api/medusa-media/origin-2/catalog/4c45e08e4a85ac1161f6.avif",
+    "label_front_readable_fields": [
+      "AHK-CU",
+      "10000 MG",
+      "PURITY~99%",
+      "FOR RESEARCH USE ONLY",
+      "Expiry:07-2028",
+      "BATCH No.05210"
+    ],
+    "label_limitation": "Only the depicted front is readable. Small oblique side-panel text is insufficiently legible at original1024x1536 resolution; no claim that undisplayed or illegible side text lacks chemical fields.",
+    "label_spec_fields_readable": {
+      "CAS": false,
+      "formula": false,
+      "averageMW": false,
+      "charge": false,
+      "salt": false
+    },
+    "current_coa_link_on_product": null,
+    "coa_archive_ahk_occurrences": 0,
+    "coa_scope_note": "No AHK report URL is linked in the complete current product response; current public /verified-quality/ response also has no AHK entry. This is not a claim that no manufacturer document exists elsewhere.",
+    "resolution_assessment": "Current site supports the namedAHK-copper family/sequence abbreviation, but does not publish enough material-form data to bind a unique CAS/formula/averageMW/charge/salt entry."
+  },
+  "thymalin": {
+    "product_url": "https://bulkglp.com/product/thymalin-10mg/",
+    "current_description": "Thymalin is listed as a 10 mg thymic-peptide research material. The source describes laboratory work involving peptide-preparation characterization and analytical methods. Confirm the product and available lot documentation before selecting material for an experiment. For controlled laboratory research only; not for human or animal use.",
+    "description_spec_table_check": {
+      "table_elements_in_complete_response": 0,
+      "headings": [
+        "Thymalin 10mg",
+        "Quality tested.Confidence delivered.",
+        "Related research products.",
+        "Tesamorelin 10mg",
+        "Sermorelin 10mg",
+        "CJC-1295 with DAC 10mg",
+        "PT-141 Peptide â€” 10mg Research Vial",
+        "Research updates",
+        "Your cart (0)"
+      ],
+      "exact_term_counts_in_complete_response": {
+        "CAS": 0,
+        "molecular": 0,
+        "sequence": 0,
+        "salt": 0,
+        "charge": 0,
+        "Ala-His-Lys": 0,
+        "Thymalin should not": 0
+      }
+    },
+    "cas_as_published": null,
+    "molecular_formula_as_published": null,
+    "average_molecular_weight_as_published": null,
+    "amino_acid_sequence_as_published": null,
+    "bulk_material_charge_as_published": null,
+    "salt_counterion_hydrate_as_published": null,
+    "main_image_url": "https://bulkglp.com/api/medusa-media/origin-2/catalog/b0624bc710d3217d16b5.avif",
+    "label_readable_fields": [
+      "Thymalin",
+      "10 MG",
+      "PURITYâ‰¥99%",
+      "Research Use Only"
+    ],
+    "current_coa_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100933.pdf",
+    "current_coa": {
+      "report": "2608100933",
+      "lot": "4063",
+      "received": "8/10/2026",
+      "reported": "8/14/2026",
+      "sample_summary_product": "Thymalin10mg",
+      "sample_summary_identity": "Confirmed",
+      "analytical_identity_LC_MS": "Thymulin",
+      "purity_HPLC_UV": "99.55%",
+      "net_content": "9.53mg",
+      "appearance": "White Lyophilized Powder",
+      "mass_confirmation_annotation": "Thymulin[M+H]+",
+      "mass_confirmation_peak_labels_m_z": [
+        "858.900",
+        "859.700",
+        "860.700",
+        "860.900"
+      ],
+      "chemical_fields_check": "Page1 visually inspected plus complete extracted text. No explicitCAS/formula/amino-acid sequence/salt/averageMW declaration. The[M+H]+annotation is a gas-phase MS ion notation, not a bulk-material charge/counterion certificate; plottedm/z labels are not an averageMW specification.",
+      "mass_confirmation_native_image": "coa-native-image-3-Image7.png",
+      "all_mass_confirmation_peak_labels_m_z": [
+        "151.200",
+        "299.000",
+        "431.200",
+        "441.300",
+        "448.500",
+        "449.900",
+        "858.900",
+        "859.700",
+        "860.700",
+        "860.900"
+      ],
+      "mass_graph_interpretation_limit": "Native embedded chart visually inspected. Dominant labelledm/z858.900; no859.4 or zincadduct label is displayed. A[M+H]+annotation with displayed858.900 cannot be silently treated as independent verification of averagefree-parent858.9g/mol; exactstructure/materialform remains unspecified."
+    },
+    "identity_conflict": "Current catalogue/label calls the productThymalin and describes peptide-preparation work; currently linkedCOA analytical identity saysThymulin. No explicit reconciliation or complete structure/material-form definition is published in these inspected artifacts.",
+    "resolution_assessment": "Keep exactcompound assignment unresolved. AThymulin reference candidate may be recorded separately without equating it with the catalogueThymalin product."
+  },
+  "files": [
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "fe6f3d1d024f0793246e39ef0c8a4d29149653c9c88f71de2fc73cd41950b884",
+      "bytes": 10243
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/ahk-cu-10000mg.html",
+      "sha256": "66b1817e2bb48660763a512480ab1c183f379e851edeccfff7cad8aae33e9b90",
+      "bytes": 62090
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/ahk-cu-10000mg.txt",
+      "sha256": "1bc53a87f776c5386b47700effd670bafe6cb5f33c5261138939369fef33aad4",
+      "bytes": 3696
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/ahk-cu-label-side-detail.png",
+      "sha256": "9288aab1acbc94ad14a45d2280ac6daaa119c148e363d36e60eb8f770336ebcd",
+      "bytes": 298726
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/ahk-cu-label.avif",
+      "sha256": "4c45e08e4a85ac1161f61922b8fa95be9d2676cf447976fb2496c694870b0850",
+      "bytes": 85298
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/ahk-cu-label.png",
+      "sha256": "583d7277a61022230dd9a6db50e881254b17d4394766c99c9a585d13e396a7d3",
+      "bytes": 556133
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/asset-fetch-manifest.json",
+      "sha256": "167b72b32de3cb90983f936cd44a6f05edf93dd6a4cab54a53420870f0fa50d9",
+      "bytes": 11751
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/Bulk2608100933-layout.txt",
+      "sha256": "1b61fe11bec53d53ef2add77a1e9554fce6edb98363fb8c0a06ec6f88506bea7",
+      "bytes": 3906
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "397cbcf0494c6bb5d70c9fdf3400ae707d3a47ec941cfa85ada9faca3d876695",
+      "bytes": 230939
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/Bulk2608100933.pdf",
+      "sha256": "099f0bdbe4eb287469646dab3b12c3490be708d57dd7529c91b10d84d369ee82",
+      "bytes": 244038
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "3347565600d0eb7cb66a76370c9031a05d091e50c1299fe7c58e9a5d639c650d",
+      "bytes": 6809
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "5fc704436d9e365fadd7c1029774cb90f5373c2bfa7c527457a6832bb7a1046e",
+      "bytes": 29715
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "c96458d4d1d0e11e337cb44b6aea2810f30f4e1c40fee9954e20f2280f935cec",
+      "bytes": 43568
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/coa-native-image-3-Image7.png",
+      "sha256": "4afd1dd5de392fcf9d778e0e43c896cae98ffb9d75a96f116556ccfc7ecf2f10",
+      "bytes": 38503
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "229e8d77acc860ce10f6472f0e49f9360046a08a3769c26a3bf9bfb09ec1a839",
+      "bytes": 30225
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "5b04a84fa791ab8d73ff1f7048a99e7722446d5e14efcab9289b4ab8091ed260",
+      "bytes": 47614
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/page-fetch-manifest.json",
+      "sha256": "121dfd8fa65345a48d63dbffcc0daad01929f5476600fc738cd6722199d77ea0",
+      "bytes": 6164
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "576cac41e438fe1906d42f04fde1b9672742c6eb63bffab2169ef9db5b568855",
+      "bytes": 10260
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/thymalin-10mg.html",
+      "sha256": "9f4f4701b6518bd4c06671eca8ffb34db6bf336460d6045eaa4401ff71d89306",
+      "bytes": 66922
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/thymalin-10mg.txt",
+      "sha256": "0e5ba5400e64e9dfef208dea01f5a5fe10b1bf690e89c04c7b80ac918d871cac",
+      "bytes": 3850
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/thymalin-label.avif",
+      "sha256": "b0624bc710d3217d16b5348f50d491bf5c9932110899c3334e2888566b8553ee",
+      "bytes": 88461
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/thymalin-label.png",
+      "sha256": "706f23b3258ab89ac4bd63d0e5918bbea1fee6a5081b0c162fa3a4a2fc7c2e15",
+      "bytes": 365140
+    },
+    {
+      "path": "Local workstation path omitted from public metadata; use the package-relative file field and source URL.",
+      "sha256": "07f8078b1eb122af829ae62ead3b7769c119182e29398dc485a389a081380dca",
+      "bytes": 63460
+    },
+    {
+      "path": "sources/catalog/checkpoint-2026-10-24/verified-quality.html",
+      "sha256": "93ce8fc108afa9b84df98cf44de3ac8eabfc2ec1fccb860d3422b0f4cea5c20e",
+      "bytes": 94799
+    }
+  ]
+}

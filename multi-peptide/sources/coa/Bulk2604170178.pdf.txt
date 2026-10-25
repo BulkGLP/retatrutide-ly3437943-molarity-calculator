@@ -1,0 +1,23 @@
+Certificate of AnalysisFreedomDiagnosticsTesting.com
+Admin@FreedomDiagnostics.net
+Client:Accession #: Search Code: Received:  Reported:Lot:
+Product: Purity:
+Identity: Net Content:Appearance:
+Test ResultIdentity (LC-MS)Purity (HPLC-UV)Net Content
+Endotoxin Replicate 1: 
+Endotoxin Replicate 2:
+BulkGLP2604170178Bulk260417017804/17/202604/19/202603210
+KLOW 80mg 99.80%Conﬁrmed GHK-Cu - 51.35 mgKPV - 11.88 mgBPC-157 - 11.15 mgThymosin Beta-4 - 9.95 mgBlue Lyophilized Powder
+GHK-Cu/KPV/BPC-157/Thymosin Beta-499.80%GHK-Cu - 51.35 mgKPV - 11.88 mgBPC-157 - 11.15 mgThymosin Beta-4 - 9.95 mg
+Pass
+Pass
+Sample Summary
+Analytical Results
+Method: Endotoxin testing performed using Limulus Amebocyte Lysate assay in accordance with USP <85> under validated laboratory conditions.
+Assay Sensitivity: ≤0.05 EU/mL
+Assay Sensitivity: ≤0.05 EU/mL
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).
+Chromatogram
+Mass Conﬁrmation
+FreedomDiagnosticsTesting.comAdmin@FreedomDiagnostics.netPrincipal Chemist Proudly Owned and Operated in the USA
+The peptide purity analysis reported here was conducted using LCMS/MS under standard laboratory conditions. This analysis is intended for informational purposes only and is speciﬁc to thesample(s) provided. The peptides tested are intended for research use only and are not approved for human or veterinary use, diagnostic, therapeutic, or clinical applications. Results should beinterpreted by qualiﬁed professionals within the scope of the intended research. The accuracy and reliability of the test may be inﬂuenced by sample integrity, handling, and other experimentalvariables.

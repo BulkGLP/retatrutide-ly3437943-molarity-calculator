@@ -1,0 +1,42 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aviptadil/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:42:58Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 16132300,
+          "Synonym": [
+            "invicorp",
+            "Vip human vip",
+            "Vasoactive intestinal octacosapeptide",
+            "RLF-100",
+            "A67JUW790C",
+            "Porcine vasoactive intestinal octacosapeptide",
+            "Zyesami",
+            "L-Histidyl-L-seryl-L-aspartyl-L-alanyl-L-valyl-L-phenylalanyl-L-threonyl-L-aspartyl-L-asparaginyl-L-tyrosyl-L-threonyl-L-arginyl-L-leucyl-L-arginyl-L-lysyl-L-glutaminyl-L-methionyl-L-alanyl-L-valyl-L-lysyl-L-lysyl-L-tyrosyl-L-leucyl-L-asparaginyl-L-seryl-L-isoleucyl-L-leucyl-L-asparagine",
+            "aviptadilum",
+            "Samiairtm",
+            "Samiviptm",
+            "Samivirtm",
+            "DTXSID7048584",
+            "RefChem:56203",
+            "40077-57-4",
+            "Aviptadil",
+            "Vasoactive intestinal octacosapeptide (pig)",
+            "Vasoactive intestinal octacosapeptide (swine)",
+            "UNII-A67JUW790C",
+            "Aviptadil [USAN:INN:BAN]",
+            "SCHEMBL29357337",
+            "GTPL10891",
+            "WHO 7644",
+            "Invicorp (aviptadil + phentolamine)",
+            "NS00125910",
+            "V0273",
+            "G12443"
+          ]
+        }
+      ]
+    }
+  }
+}

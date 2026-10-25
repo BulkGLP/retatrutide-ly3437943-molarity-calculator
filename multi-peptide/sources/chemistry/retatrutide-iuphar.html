@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>GtoPdb Login</title>
+        
+        <meta name="description" content="Login page for The IUPHAR/BPS Guide to PHARMACOLOGY.."/>
+       
+        <link rel="stylesheet" type="text/css" href="css/iuphar.css" />
+        <link rel="stylesheet" type="text/css" href="css/grac.css" />
+        <link rel="stylesheet" href="css/text.css" />
+        <link rel="stylesheet" href="css/960.css" />
+        <link rel="stylesheet" href="css/graceq.css" />
+    </head>
+    <body>
+        <div class="container_16"> 
+            <div id="header">
+               
+<div class="brand_login"> 
+<!-- <div class="brandandsearch"> -->
+
+<img alt="gtopdb_logo_and_banner_image" width="720" style="margin-top:15px;margin-bottom:15px;" src="../images/gtopdb_banner_2020.png"> 
+</div>
+
+
+           </div>
+        <div><h2 style="padding: 0px;">Login to GtoPdb</h2>
+          <!--    <p class="login_text">The <a href="/index.jsp">IUPHAR/BPS Guide to Pharmacology</a> now requires all users to register and login in order to access the database.</p>
+            
+            
+          <p class="login_text">If you have any questions about accessing GtoPdb, please <a href="/revealEmail.jsp" onclick="window.open('/revealEmail.jsp', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=550,height=300'); return false;" title="Reveal this e-mail address">get in touch</a> with us. For more information on GtoPdb please see our <a href="/index.jsp">about page</a>.</p> -->
+            
+            
+            <!-- Determine if we should disable the form -->
+   
+             
+
+        <form id="main_login_form" action="login" method="post" >
+            <label for="email">Email:</label>
+        <input class="login_form" type="text" name="email" id="email" required >
+        <br><br>
+        <label for="password">Password:</label>
+        <input class="login_form" type="password" name="password" id="password" required >
+        <br><br>
+        <input class="loginButton" type="submit" value="Login" >
+        
+        
+        </form>
+        <!-- <p>Error parameter: </p> -->
+        <!-- Check for the error parameter -->
+        <!-- Check for the error parameter using EL -->
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+             
+        
+        
+            
+        <div class="login-options">
+
+            <form id="register_form" action="registerForm.jsp" method="post" >
+                <input class="loginButton" type="submit" value="Register" >
+            </form>
+
+          
+        </div>
+            
+           
+        <p class="forgot-password-login"><a href="requestResetPassword.jsp">Forgot your password?</a></p> <!-- Link to reset password page -->
+          
+        
+        <p class="login_text">IUPHAR/BPS Guide to Pharmacology (GtoPdb) is an expert-curated database of pharmacological data, which we want to keep open-access for all. However, maintaining and updating GtoPdb is not free. In order to help support our future sustainability we now ask that users register to access GtoPdb so that we can collect accurate user data, which helps us improve our services, security and website performance. Registering is simple, just click the button above.</p>
+       
+            <p class="login_text">Commercial organisations that use GtoPdb must pay access-fees which support the maintenance, curation and sustainability of the resource. Please read our <a href="/gtopdbSustainability.jsp">sustainability statement</a> for more information.</p>
+        <!--    <p class="login_text">If you would prefer not to register with GtoPdb at this time, you can still use the database and website by using the guest login below. This login will remain in place for a limited time as we move to the new registration system, after which all users will be have to be registered.</p> -->
+            <p class="login_text" style="margin-bottom:10px;">If you have any questions about accessing GtoPdb, please <a href="/revealEmail.jsp" onclick="window.open('/revealEmail.jsp', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=550,height=300'); return false;" title="Reveal this e-mail address">get in touch</a> with us. For more information on GtoPdb please see our <a href="/about.jsp">about page</a>.</p>
+        </div>    
+        <div id="footer_login">
+                <div>
+	<div style="display:table-cell; vertical-align:middle; width:250px;  float:left; display:inline;">
+		<p style="text-align:left;margin: 5px 0px 0px 10px;"><a href="/revealEmail.jsp" onclick="window.open('/revealEmail.jsp', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=550,height=300'); return false;" title="Reveal this e-mail address">Contact us</a></p>
+		
+    		<p style="text-align:left;margin: 8px 0px 0px 10px;"><small><a href="/privacyPolicy.jsp">Privacy and Cookie Policy</a></small></p>
+    	</div>
+    
+    
+                    
+                    
+                    
+                        <div style="vertical-align:middle; display:table-cell; float:left; display:inline;">
+        <p style="margin: 10px 30px 0px 0px;"><a href="https://globalbiodata.org/what-we-do/global-core-biodata-resources/" target="_blank" title="GCBR Global Core Biodata Resource"><img class="logo" style="vertical-align:middle; width:140px;" src="/images/GCBR-Logo.jpg" alt="Link to GCBR"/></a></p>
+    </div>
+                    
+                
+    
+    <div style="vertical-align:middle; display:table-cell; float:left; display:inline;">
+        <p style="margin: 5px 10px 0px 10px;"><a href="https://elixiruknode.org/" target="_blank" title="Elixir UK Resource"><img class="logo" style="vertical-align:middle; width:70px;" src="/images/ELIXIR-UK_Logo.png" alt="Link to Elixir-UK"/></a></p>
+    </div> 
+	<div style="vertical-align:middle; display:table-cell; float:right; display:inline; width:340px;">
+		
+                <p style="text-align:right; margin: 5px 10px 0px 0px; "><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0; float: left;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><small>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a></small></p>
+	</div>
+</div>
+      
+   
+
+            </div>
+        </div>
+    </body>
+</html>

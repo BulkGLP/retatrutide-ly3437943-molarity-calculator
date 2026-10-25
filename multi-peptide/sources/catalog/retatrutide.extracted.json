@@ -1,0 +1,2387 @@
+{
+  "slug": "retatrutide",
+  "canonical": "https://bulkglp.com/product/retatrutide/",
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Retatrutide Peptide Vials (LY3437943)"
+    },
+    {
+      "tag": "h2",
+      "text": "Retatrutide reference specifications"
+    },
+    {
+      "tag": "h3",
+      "text": "Current reported lot results"
+    },
+    {
+      "tag": "h2",
+      "text": "Quality tested.Confidence delivered."
+    },
+    {
+      "tag": "h2",
+      "text": "Frequently Asked Questions"
+    },
+    {
+      "tag": "h2",
+      "text": "Related research products."
+    },
+    {
+      "tag": "h3",
+      "text": "Tirzepatide Peptide 40mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Semaglutide Peptide 20mg"
+    },
+    {
+      "tag": "h3",
+      "text": "Retatrutide Powder (LY3437943) — 500mg & 1g"
+    },
+    {
+      "tag": "h2",
+      "text": "Research updates"
+    },
+    {
+      "tag": "h2",
+      "text": "Your cart (0)"
+    }
+  ],
+  "product_rsc": {
+    "slug": "retatrutide",
+    "title": "Retatrutide Peptide Vials (LY3437943)",
+    "description": "Retatrutide, also called Reta or GLP-3 and identified by LY3437943, is a triple agonist: a GLP-1, GIP, and glucagon receptor agonist. It is supplied as lyophilized research material in single vials and 10-vial packs. Choose the size and Standard or Mannitol Free formulation. Match the received lot and formulation to its documentation. For laboratory research only; not for human or veterinary use.",
+    "categories": [
+      {
+        "slug": "retatrutide",
+        "name": "Retatrutide Research Peptides"
+      },
+      {
+        "slug": "glp1-gip-peptides",
+        "name": "GLP-1 & GIP Research Peptides"
+      }
+    ],
+    "image": {
+      "src": "/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif",
+      "alt": "Retatrutide Peptide Vials (LY3437943)",
+      "width": 1024,
+      "height": 1024
+    },
+    "images": [
+      "$30:props:product:image"
+    ],
+    "variants": [
+      {
+        "id": "variant_01M4BBTVTT117770J6CM36J2AN",
+        "label": "20mg · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 18900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/c700bea94babe8fa4260.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 20mg · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTWF9ASEB9MK8HQ6ZQW",
+        "label": "15mg · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 19300,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/0634b3eb0731a07c7ce6.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 15mg · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTSR9F7W3PFZGZECGBR",
+        "label": "10mg · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 12000,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 10mg · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTTREYN98B136PE38YY",
+        "label": "12mg · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 13300,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/58e625b96d9e8cb437df.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 12mg · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTT22R636J6NSKYRYZJ",
+        "label": "15mg · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 14900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/0634b3eb0731a07c7ce6.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 15mg · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTV6CAT4VBB99P1E58F",
+        "label": "15mg - 10 Pack · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 119300,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/2d3693f2474b18618981.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 15mg - 10 Pack · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTT22R636J6NSKYRYZJ"
+        }
+      },
+      {
+        "id": "variant_01M4BBTVTT5ZTFNRNWFQ22C62Y",
+        "label": "30mg · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 22800,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/ad6fedb284b432328a07.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 30mg · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTVBY4WCHCSHPJA35ME",
+        "label": "50mg · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 34600,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/c956738bc71cd312a1e6.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 50mg · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTW91EHEK8B8ZENYBTC",
+        "label": "10mg · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 15300,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 10mg · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTWSDJ7D6HZTVWSYPMV",
+        "label": "20mg · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 23200,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/c700bea94babe8fa4260.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 20mg · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BBTVTX2F8KAKXMMMM19JA7",
+        "label": "30mg · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 28100,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/ad6fedb284b432328a07.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 30mg · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": "$undefined"
+      },
+      {
+        "id": "variant_01M4BXSW5WF57MJPJSYFMYQZ33",
+        "label": "12mg - 10 Pack · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 106400,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/58e625b96d9e8cb437df.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 12mg - 10 Pack · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTTREYN98B136PE38YY"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5WSFE1TTKHKWH4YJW3",
+        "label": "50mg - 10 Pack · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 276800,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/c956738bc71cd312a1e6.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 50mg - 10 Pack · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTVBY4WCHCSHPJA35ME"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5WMA47JD7C0MXHVPQW",
+        "label": "10mg - 10 Pack · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 122400,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 10mg - 10 Pack · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTW91EHEK8B8ZENYBTC"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5WJ2G18C2796H89BRQ",
+        "label": "15mg - 10 Pack · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 154400,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/0634b3eb0731a07c7ce6.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 15mg - 10 Pack · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTWF9ASEB9MK8HQ6ZQW"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5XDSQZV1JQSAVXQ2NC",
+        "label": "20mg - 10 Pack · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 185600,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/c700bea94babe8fa4260.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 20mg - 10 Pack · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTWSDJ7D6HZTVWSYPMV"
+        }
+      },
+      {
+        "id": "variant_01M4BXSW5XDQZRGDYRYNBZTEEJ",
+        "label": "30mg - 10 Pack · Mannitol Free",
+        "formulation": "Mannitol Free",
+        "priceMinor": 224800,
+        "currency": "USD",
+        "inStock": false,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/ad6fedb284b432328a07.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 30mg - 10 Pack · Mannitol Free",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTX2F8KAKXMMMM19JA7"
+        }
+      },
+      {
+        "id": "variant_01M4BBTVTVNT8AACXW8A46H9WC",
+        "label": "10mg - 10 Pack · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 94900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/238b222971a16cdfece6.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 10mg - 10 Pack · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTSR9F7W3PFZGZECGBR"
+        }
+      },
+      {
+        "id": "variant_01M4BBTVTVQ0MQ0949DW1N07YN",
+        "label": "20mg - 10 Pack · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 136900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/7be7c329f08bfd692108.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 20mg - 10 Pack · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTT117770J6CM36J2AN"
+        }
+      },
+      {
+        "id": "variant_01M4BBTVTWKGX9KVGTNSMTDVMZ",
+        "label": "30mg - 10 Pack · Standard (Default)",
+        "formulation": "Standard (Default)",
+        "priceMinor": 179900,
+        "currency": "USD",
+        "inStock": true,
+        "stockStatus": "verified",
+        "image": {
+          "src": "/api/medusa-media/origin-2/catalog/ef0ef33711a0bb9075c7.avif",
+          "alt": "Retatrutide Peptide Vials (LY3437943) — 30mg - 10 Pack · Standard (Default)",
+          "width": 1024,
+          "height": 1024
+        },
+        "pack": {
+          "quantity": 10,
+          "singleVariantId": "variant_01M4BBTVTT5ZTFNRNWFQ22C62Y"
+        }
+      }
+    ]
+  },
+  "json_ld": [
+    {
+      "@context": "https://schema.org",
+      "name": "Retatrutide Peptide Vials (LY3437943)",
+      "description": "Retatrutide, also called Reta or GLP-3 and identified by LY3437943, is a triple agonist: a GLP-1, GIP, and glucagon receptor agonist. It is supplied as lyophilized research material in single vials and 10-vial packs. Choose the size and Standard or Mannitol Free formulation. Match the received lot and formulation to its documentation. For laboratory research only; not for human or veterinary use.",
+      "url": "https://bulkglp.com/product/retatrutide/",
+      "image": [
+        "https://bulkglp.com/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif"
+      ],
+      "brand": {
+        "@type": "Brand",
+        "name": "BulkGLP"
+      },
+      "@type": "ProductGroup",
+      "@id": "https://bulkglp.com/product/retatrutide/#product-group",
+      "productGroupID": "prod_01M4BBTVREQSHC8BD3BGDWM2DY",
+      "variesBy": [
+        "https://schema.org/size",
+        "https://schema.org/material"
+      ],
+      "hasVariant": [
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTT117770J6CM36J2AN",
+          "sku": "variant_01M4BBTVTT117770J6CM36J2AN",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 20mg · Standard (Default)",
+          "description": "Standard (Default). 20 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTT117770J6CM36J2AN",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/c700bea94babe8fa4260.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "20 mg per vial; 1 vial",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "20 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTT117770J6CM36J2AN",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTT117770J6CM36J2AN",
+            "price": "189.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTWF9ASEB9MK8HQ6ZQW",
+          "sku": "variant_01M4BBTVTWF9ASEB9MK8HQ6ZQW",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 15mg · Mannitol Free",
+          "description": "Mannitol Free. 15 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTWF9ASEB9MK8HQ6ZQW",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/0634b3eb0731a07c7ce6.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "15 mg per vial; 1 vial",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "15 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTWF9ASEB9MK8HQ6ZQW",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTWF9ASEB9MK8HQ6ZQW",
+            "price": "193.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/OutOfStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTSR9F7W3PFZGZECGBR",
+          "sku": "variant_01M4BBTVTSR9F7W3PFZGZECGBR",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 10mg · Standard (Default)",
+          "description": "Standard (Default). 10 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTSR9F7W3PFZGZECGBR",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "10 mg per vial; 1 vial",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "10 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTSR9F7W3PFZGZECGBR",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTSR9F7W3PFZGZECGBR",
+            "price": "120.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTTREYN98B136PE38YY",
+          "sku": "variant_01M4BBTVTTREYN98B136PE38YY",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 12mg · Standard (Default)",
+          "description": "Standard (Default). 12 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTTREYN98B136PE38YY",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/58e625b96d9e8cb437df.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "12 mg per vial; 1 vial",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "12 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTTREYN98B136PE38YY",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTTREYN98B136PE38YY",
+            "price": "133.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTT22R636J6NSKYRYZJ",
+          "sku": "variant_01M4BBTVTT22R636J6NSKYRYZJ",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 15mg · Standard (Default)",
+          "description": "Standard (Default). 15 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTT22R636J6NSKYRYZJ",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/0634b3eb0731a07c7ce6.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "15 mg per vial; 1 vial",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "15 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTT22R636J6NSKYRYZJ",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTT22R636J6NSKYRYZJ",
+            "price": "149.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTV6CAT4VBB99P1E58F",
+          "sku": "variant_01M4BBTVTV6CAT4VBB99P1E58F",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 15mg - 10 Pack · Standard (Default)",
+          "description": "Standard (Default). 15 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTV6CAT4VBB99P1E58F",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/2d3693f2474b18618981.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "15 mg per vial; 10 vials",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "15 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTV6CAT4VBB99P1E58F",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTV6CAT4VBB99P1E58F",
+            "price": "1193.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTT5ZTFNRNWFQ22C62Y",
+          "sku": "variant_01M4BBTVTT5ZTFNRNWFQ22C62Y",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 30mg · Standard (Default)",
+          "description": "Standard (Default). 30 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTT5ZTFNRNWFQ22C62Y",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/ad6fedb284b432328a07.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "30 mg per vial; 1 vial",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "30 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTT5ZTFNRNWFQ22C62Y",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTT5ZTFNRNWFQ22C62Y",
+            "price": "228.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTVBY4WCHCSHPJA35ME",
+          "sku": "variant_01M4BBTVTVBY4WCHCSHPJA35ME",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 50mg · Standard (Default)",
+          "description": "Standard (Default). 50 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTVBY4WCHCSHPJA35ME",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/c956738bc71cd312a1e6.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "50 mg per vial; 1 vial",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "50 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTVBY4WCHCSHPJA35ME",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTVBY4WCHCSHPJA35ME",
+            "price": "346.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTW91EHEK8B8ZENYBTC",
+          "sku": "variant_01M4BBTVTW91EHEK8B8ZENYBTC",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 10mg · Mannitol Free",
+          "description": "Mannitol Free. 10 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTW91EHEK8B8ZENYBTC",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "10 mg per vial; 1 vial",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "10 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTW91EHEK8B8ZENYBTC",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTW91EHEK8B8ZENYBTC",
+            "price": "153.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTWSDJ7D6HZTVWSYPMV",
+          "sku": "variant_01M4BBTVTWSDJ7D6HZTVWSYPMV",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 20mg · Mannitol Free",
+          "description": "Mannitol Free. 20 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTWSDJ7D6HZTVWSYPMV",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/c700bea94babe8fa4260.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "20 mg per vial; 1 vial",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "20 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTWSDJ7D6HZTVWSYPMV",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTWSDJ7D6HZTVWSYPMV",
+            "price": "232.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/OutOfStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTX2F8KAKXMMMM19JA7",
+          "sku": "variant_01M4BBTVTX2F8KAKXMMMM19JA7",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 30mg · Mannitol Free",
+          "description": "Mannitol Free. 30 mg per vial; 1 vial. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTX2F8KAKXMMMM19JA7",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/ad6fedb284b432328a07.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "30 mg per vial; 1 vial",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "30 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 1
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTX2F8KAKXMMMM19JA7",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTX2F8KAKXMMMM19JA7",
+            "price": "281.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/OutOfStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BXSW5WF57MJPJSYFMYQZ33",
+          "sku": "variant_01M4BXSW5WF57MJPJSYFMYQZ33",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 12mg - 10 Pack · Standard (Default)",
+          "description": "Standard (Default). 12 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WF57MJPJSYFMYQZ33",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/58e625b96d9e8cb437df.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "12 mg per vial; 10 vials",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "12 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BXSW5WF57MJPJSYFMYQZ33",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WF57MJPJSYFMYQZ33",
+            "price": "1064.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BXSW5WSFE1TTKHKWH4YJW3",
+          "sku": "variant_01M4BXSW5WSFE1TTKHKWH4YJW3",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 50mg - 10 Pack · Standard (Default)",
+          "description": "Standard (Default). 50 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WSFE1TTKHKWH4YJW3",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/c956738bc71cd312a1e6.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "50 mg per vial; 10 vials",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "50 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BXSW5WSFE1TTKHKWH4YJW3",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WSFE1TTKHKWH4YJW3",
+            "price": "2768.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BXSW5WMA47JD7C0MXHVPQW",
+          "sku": "variant_01M4BXSW5WMA47JD7C0MXHVPQW",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 10mg - 10 Pack · Mannitol Free",
+          "description": "Mannitol Free. 10 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WMA47JD7C0MXHVPQW",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/f08ddd5aed73733de0ee.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "10 mg per vial; 10 vials",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "10 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BXSW5WMA47JD7C0MXHVPQW",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WMA47JD7C0MXHVPQW",
+            "price": "1224.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BXSW5WJ2G18C2796H89BRQ",
+          "sku": "variant_01M4BXSW5WJ2G18C2796H89BRQ",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 15mg - 10 Pack · Mannitol Free",
+          "description": "Mannitol Free. 15 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WJ2G18C2796H89BRQ",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/0634b3eb0731a07c7ce6.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "15 mg per vial; 10 vials",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "15 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BXSW5WJ2G18C2796H89BRQ",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5WJ2G18C2796H89BRQ",
+            "price": "1544.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/OutOfStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BXSW5XDSQZV1JQSAVXQ2NC",
+          "sku": "variant_01M4BXSW5XDSQZV1JQSAVXQ2NC",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 20mg - 10 Pack · Mannitol Free",
+          "description": "Mannitol Free. 20 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5XDSQZV1JQSAVXQ2NC",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/c700bea94babe8fa4260.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "20 mg per vial; 10 vials",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "20 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BXSW5XDSQZV1JQSAVXQ2NC",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5XDSQZV1JQSAVXQ2NC",
+            "price": "1856.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/OutOfStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BXSW5XDQZRGDYRYNBZTEEJ",
+          "sku": "variant_01M4BXSW5XDQZRGDYRYNBZTEEJ",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 30mg - 10 Pack · Mannitol Free",
+          "description": "Mannitol Free. 30 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5XDQZRGDYRYNBZTEEJ",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/ad6fedb284b432328a07.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "30 mg per vial; 10 vials",
+          "material": "Mannitol Free",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "30 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Mannitol Free"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BXSW5XDQZRGDYRYNBZTEEJ",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BXSW5XDQZRGDYRYNBZTEEJ",
+            "price": "2248.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/OutOfStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTVNT8AACXW8A46H9WC",
+          "sku": "variant_01M4BBTVTVNT8AACXW8A46H9WC",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 10mg - 10 Pack · Standard (Default)",
+          "description": "Standard (Default). 10 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTVNT8AACXW8A46H9WC",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/238b222971a16cdfece6.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "10 mg per vial; 10 vials",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "10 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTVNT8AACXW8A46H9WC",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTVNT8AACXW8A46H9WC",
+            "price": "949.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTVQ0MQ0949DW1N07YN",
+          "sku": "variant_01M4BBTVTVQ0MQ0949DW1N07YN",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 20mg - 10 Pack · Standard (Default)",
+          "description": "Standard (Default). 20 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTVQ0MQ0949DW1N07YN",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/7be7c329f08bfd692108.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "20 mg per vial; 10 vials",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "20 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTVQ0MQ0949DW1N07YN",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTVQ0MQ0949DW1N07YN",
+            "price": "1369.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "@type": "Product",
+          "@id": "https://bulkglp.com/product/retatrutide/#variant_01M4BBTVTWKGX9KVGTNSMTDVMZ",
+          "sku": "variant_01M4BBTVTWKGX9KVGTNSMTDVMZ",
+          "name": "Retatrutide Peptide Vials (LY3437943) — 30mg - 10 Pack · Standard (Default)",
+          "description": "Standard (Default). 30 mg per vial; 10 vials. For laboratory research only; not for human or veterinary use.",
+          "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTWKGX9KVGTNSMTDVMZ",
+          "image": [
+            "https://bulkglp.com/api/medusa-media/origin-2/catalog/ef0ef33711a0bb9075c7.avif"
+          ],
+          "isVariantOf": {
+            "@id": "https://bulkglp.com/product/retatrutide/#product-group"
+          },
+          "size": "30 mg per vial; 10 vials",
+          "material": "Standard (Default)",
+          "additionalProperty": [
+            {
+              "@type": "PropertyValue",
+              "name": "Nominal strength per vial",
+              "value": "30 mg"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Formulation",
+              "value": "Standard (Default)"
+            },
+            {
+              "@type": "PropertyValue",
+              "name": "Vials per pack",
+              "value": 10
+            }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "@id": "https://bulkglp.com/product/retatrutide/#offer-variant_01M4BBTVTWKGX9KVGTNSMTDVMZ",
+            "url": "https://bulkglp.com/product/retatrutide/?variant=variant_01M4BBTVTWKGX9KVGTNSMTDVMZ",
+            "price": "1799.00",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock",
+            "seller": {
+              "@type": "Organization",
+              "name": "BulkGLP",
+              "url": "https://bulkglp.com",
+              "hasMerchantReturnPolicy": {
+                "@type": "MerchantReturnPolicy",
+                "merchantReturnLink": "https://bulkglp.com/refund-policy/"
+              }
+            },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingSettingsLink": "https://bulkglp.com/shipping-policy/",
+              "shippingRate": {
+                "@type": "MonetaryAmount",
+                "value": "0.00",
+                "currency": "USD"
+              },
+              "shippingDestination": {
+                "@type": "DefinedRegion",
+                "addressCountry": "US"
+              },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 0,
+                  "maxValue": 1,
+                  "unitCode": "DAY"
+                },
+                "transitTime": {
+                  "@type": "QuantitativeValue",
+                  "minValue": 3,
+                  "maxValue": 5,
+                  "unitCode": "DAY"
+                },
+                "businessDays": {
+                  "@type": "OpeningHoursSpecification",
+                  "dayOfWeek": [
+                    "https://schema.org/Monday",
+                    "https://schema.org/Tuesday",
+                    "https://schema.org/Wednesday",
+                    "https://schema.org/Thursday",
+                    "https://schema.org/Friday"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://bulkglp.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Research products",
+          "item": "https://bulkglp.com/#catalog"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Retatrutide Peptide Vials (LY3437943)",
+          "item": "https://bulkglp.com/product/retatrutide/"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is Retatrutide (LY3437943)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Retatrutide (LY3437943) is a synthetic 39-amino-acid peptide investigated for activity at GLP-1, GIP and glucagon receptors. Its parent-peptide identifiers are CAS 2381089-83-2, molecular formula C221H342N46O68 and molecular weight approximately 4,731 g/mol. These specifications exclude counterions and formulation additives. Materials are supplied for laboratory research and analytical use only."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What vial strengths and formulations are available?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Standard (Default): 10mg, 12mg, 15mg, 20mg, 30mg, 50mg. Mannitol Free: 10mg, 15mg, 20mg, 30mg. The selector shows listed individual-vial and native 10-vial pack options and their current availability. Sizes differ by formulation; a listed option may be out of stock. Select the exact size, formulation and pack before ordering."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do Bulk 10-Pack savings work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The 10-Pack option uses the listed price for ten vials. Select a strength and formulation to see the exact pack total, price per vial and price per nominal milligram. Savings vary by the selected option and are already included in the pack price."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Do you provide lot-matched Certificates of Analysis (COAs)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Available independent laboratory reports are linked in the documentation section. Match the report’s size, lot and formulation to the material you are reviewing. Each report identifies the tests performed and the results for the submitted sample; a result for one lot does not establish results for another."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How should lyophilized Retatrutide be stored?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Follow the storage instructions supplied with the material and the lot-specific documentation. Keep the container sealed and protected from light and moisture, and contact support if the appropriate storage conditions are unclear."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where do orders ship from and how fast is delivery?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Orders ship domestically from Texas. Orders with cleared payment before 2 PM Central on a business day normally ship that day; later orders normally ship the next business day, subject to order verification. Standard U.S. transit is typically 3–5 business days; expedited transit is typically 2–3. Orders of $99 or more qualify for free USPS Priority or FedEx 2Day shipping. Available services and rates appear at checkout."
+          }
+        }
+      ]
+    }
+  ],
+  "coa_links": [
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "2605210278 (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "2604170169 (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "2605210279 (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "2604170176 (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "2608100929 (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "2606190261 (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS12mg · Lot 062503 · Report 2605210278↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS15mg · Lot 062503 · Report 2604170169↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS20mg · Lot 062503 · Report 2605210279↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS30mg · Lot 062503 · Report 2604170176↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS50mg · Lot 062504 · Report 2608100929↗ (opens in a new tab)"
+    },
+    {
+      "attributes": {
+        "href": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf",
+        "target": "_blank",
+        "rel": "noopener noreferrer"
+      },
+      "text": "CERTIFICATE OF ANALYSIS10mg · Lot 062503 · Report 2606190261↗ (opens in a new tab)"
+    }
+  ],
+  "visible_text": "Retatrutide Research Vials (10mg–50mg) | BulkGLP Skip to content Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Independent Lab Testing · HPLC + LC-MS ◆ Endotoxin & Microbial Results · See Your Lot’s COA ◆ Public COAs · Matched to Your Batch ◆ Shipping Monday–Saturday ◆ U.S. Inventory · U.S. Fulfillment ◆ Free USPS Priority or FedEx 2Day on $99+ ◆ Shop COAs Learn About Affiliates Account Cart 0 Menu ☰ Shop COAs Learn About Affiliates Account Contact Home All Products Home / Research products / Retatrutide Peptide Vials (LY3437943) Retatrutide Research Peptides Retatrutide Research Peptides Retatrutide Peptide Vials (LY3437943) Retatrutide, also called Reta or GLP-3 and identified by LY3437943, is a triple agonist: a GLP-1, GIP, and glucagon receptor agonist. It is supplied as lyophilized research material in single vials and 10-vial packs. Choose the size and Standard or Mannitol Free formulation. Match the received lot and formulation to its documentation. For laboratory research only; not for human or veterinary use. ↗ View batch documentation Formulation Standard (Default) Mannitol Free Vial size 10 mg 12 mg 15 mg 20 mg 30 mg 50 mg Pack size Single vial 1 vial 10-pack 10 vials Save 20% Standard (Default) · 10 mg per vial · 1 vial YOUR SELECTION 10mg $120 USD $120.00 / vial · $12.00 / mg Nominal labeled amount Standard (Default) In stock Quantity Add to cart → For laboratory research only. Not for human or veterinary use. Retatrutide reference specifications These identifiers describe the parent peptide molecule. Counterions and formulation additives are excluded from the molecular formula and molecular weight. Compound Retatrutide (LY3437943) CAS registry number 2381089-83-2 Molecular formula C 221 H 342 N 46 O 68 Molecular weight Approximately 4,731 g/mol (calculated from the molecular formula) References: WHO Proposed INN List 128 (page 1051) (opens in a new tab) · NCATS substance record (opens in a new tab) Current reported lot results Reported purity and content apply to the identified submitted sample and report. Match the received size, lot and formulation to its documentation. Retatrutide reports with an explicitly identified size and lot Report size Lot Reported purity Reported content Report 12mg 062503 99.50% 13.75 mg 2605210278 (opens in a new tab) 15mg 062503 99.81% 14.91 mg 2604170169 (opens in a new tab) 20mg 062503 99.81% 22.69 mg 2605210279 (opens in a new tab) 30mg 062503 99.98% 29.84 mg 2604170176 (opens in a new tab) 50mg 062504 99.87% 54.13 mg 2608100929 (opens in a new tab) 10mg 062503 99.87% 11.20 mg 2606190261 (opens in a new tab) Need bulk powder rather than vials? Explore Retatrutide powder in 500mg and 1g formats . THE BULKGLP STANDARD Quality tested. Confidence delivered. Our quality program combines independent lab testing for purity, identity and content with published batch reports. See the results behind BulkGLP quality and shop with confidence. CERTIFICATE OF ANALYSIS 12mg · Lot 062503 · Report 2605210278 ↗ (opens in a new tab) CERTIFICATE OF ANALYSIS 15mg · Lot 062503 · Report 2604170169 ↗ (opens in a new tab) CERTIFICATE OF ANALYSIS 20mg · Lot 062503 · Report 2605210279 ↗ (opens in a new tab) CERTIFICATE OF ANALYSIS 30mg · Lot 062503 · Report 2604170176 ↗ (opens in a new tab) CERTIFICATE OF ANALYSIS 50mg · Lot 062504 · Report 2608100929 ↗ (opens in a new tab) CERTIFICATE OF ANALYSIS 10mg · Lot 062503 · Report 2606190261 ↗ (opens in a new tab) Explore all lab reports → PRODUCT & ORDER DETAILS Frequently Asked Questions What is Retatrutide (LY3437943)? Retatrutide (LY3437943) is a synthetic 39-amino-acid peptide investigated for activity at GLP-1, GIP and glucagon receptors. Its parent-peptide identifiers are CAS 2381089-83-2, molecular formula C221H342N46O68 and molecular weight approximately 4,731 g/mol. These specifications exclude counterions and formulation additives. Materials are supplied for laboratory research and analytical use only. What vial strengths and formulations are available? Standard (Default): 10mg, 12mg, 15mg, 20mg, 30mg, 50mg. Mannitol Free: 10mg, 15mg, 20mg, 30mg. The selector shows listed individual-vial and native 10-vial pack options and their current availability. Sizes differ by formulation; a listed option may be out of stock. Select the exact size, formulation and pack before ordering. How do Bulk 10-Pack savings work? The 10-Pack option uses the listed price for ten vials. Select a strength and formulation to see the exact pack total, price per vial and price per nominal milligram. Savings vary by the selected option and are already included in the pack price. Do you provide lot-matched Certificates of Analysis (COAs)? Available independent laboratory reports are linked in the documentation section. Match the report’s size, lot and formulation to the material you are reviewing. Each report identifies the tests performed and the results for the submitted sample; a result for one lot does not establish results for another. How should lyophilized Retatrutide be stored? Follow the storage instructions supplied with the material and the lot-specific documentation. Keep the container sealed and protected from light and moisture, and contact support if the appropriate storage conditions are unclear. Where do orders ship from and how fast is delivery? Orders ship domestically from Texas. Orders with cleared payment before 2 PM Central on a business day normally ship that day; later orders normally ship the next business day, subject to order verification. Standard U.S. transit is typically 3–5 business days; expedited transit is typically 2–3. Orders of $99 or more qualify for free USPS Priority or FedEx 2Day shipping. Available services and rates appear at checkout. Shipping policy · Refund and order issue policy · Storage guidance CONTINUE EXPLORING Related research products. View the catalog ↗ In stock GLP-1 & GIP Research Peptides Tirzepatide Peptide 40mg Single 10 Pack ✓ Current COA available From $140 ↗ Choose format → In stock GLP-1 & GIP Research Peptides Semaglutide Peptide 20mg Single 10 Pack ✓ Current COA available From $99 ↗ Choose format → In stock Bulk Raw Research Powders Retatrutide Powder (LY3437943) — 500mg & 1g 1g 500mg ✓ Current COA available From $1,780 ↗ Choose format → Research materials. Clear documentation. Direct access. Research updates Email Subscribe I agree to receive BulkGLP research updates by email and have my signup stored. Privacy policy EXPLORE Research products Certificates of analysis Research guides Retatrutide sourcing guide Bulk Retatrutide options About BulkGLP Affiliates HELP & ACCOUNT Contact BulkGLP Your account Your cart Terms & conditions Privacy policy Materials are supplied for laboratory research only. Match the product and lot to the corresponding certificate of analysis. All products on this site are for research and development use only . Products are not for human consumption of any kind. The statements made within this website have not been evaluated by the US Food and Drug Administration. The statements and the products of this company are not intended to diagnose, treat, cure or prevent any disease. BulkGLP is a wholesale chemical supplier. BulkGLP is not a compounding pharmacy or chemical compounding facility as defined under 503A of the Federal Food, Drug and Cosmetic Act. BulkGLP is not an outsourcing facility as defined under 503B of the Federal Food, Drug, and Cosmetic Act. © 2026 BulkGLP For laboratory research only. Not for human or veterinary use. BULKGLP Your cart ( 0 ) × Loading your cart… All Products Retatrutide GLP-1 & GIP Bioactive Peptides Tissue Signaling Metabolic Research Raw Powders Research Support"
+}

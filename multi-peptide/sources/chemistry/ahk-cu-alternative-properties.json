@@ -1,0 +1,26 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766,178189140/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:43:05Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 176418766,
+          "MolecularFormula": "C15H24CuN6O4",
+          "MolecularWeight": "415.94",
+          "ExactMass": "415.115500",
+          "MonoisotopicMass": "415.115500",
+          "Title": "copper (2S)-6-amino-2-[[(2S)-2-[(2S)-2-aminopropanoyl]azanidyl-3-(1H-imidazol-4-yl)propanoyl]amino]hexanoate"
+        },
+        {
+          "CID": 178189140,
+          "MolecularFormula": "C15H23CuN6O4-2",
+          "MolecularWeight": "414.93",
+          "ExactMass": "414.107675",
+          "MonoisotopicMass": "414.107675",
+          "Title": "CID 178189140"
+        }
+      ]
+    }
+  }
+}

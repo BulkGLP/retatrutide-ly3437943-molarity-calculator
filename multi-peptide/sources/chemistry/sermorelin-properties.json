@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sermorelin/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:47Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 16132413,
+          "MolecularFormula": "C149H246N44O42S",
+          "MolecularWeight": "3357.9",
+          "ExactMass": "3356.8220541",
+          "MonoisotopicMass": "3355.8186992",
+          "Title": "Sermorelin"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,822 @@
+{
+  "url": "https://gsrs.ncats.nih.gov/api/v1/substances(63d90537-8bc7-4f27-970a-60eab6009eb1)?view=full",
+  "response": {
+    "created": 1786350230756,
+    "createdBy": "ADMIN",
+    "lastEdited": 1786350230756,
+    "lastEditedBy": "ADMIN",
+    "deprecated": false,
+    "uuid": "63d90537-8bc7-4f27-970a-60eab6009eb1",
+    "definitionType": "PRIMARY",
+    "definitionLevel": "COMPLETE",
+    "substanceClass": "chemical",
+    "status": "approved",
+    "version": "9",
+    "approvedBy": "FDA_SRS",
+    "names": [
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "1b96caa7-631d-4ae1-9085-bcd6b8609851",
+        "name": "CG-COPPER PEPTIDE",
+        "stdName": "CG-COPPER PEPTIDE",
+        "type": "bn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "f101f3b2-a09d-4867-bff6-46759d7661a0"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "e76e00e8-e665-45d2-83b7-07f8bba334b5",
+        "name": "COPPER PEPTIDE REPAIR COMPLEX",
+        "stdName": "COPPER PEPTIDE REPAIR COMPLEX",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "f101f3b2-a09d-4867-bff6-46759d7661a0"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "9b320e19-a836-4017-8dcc-7b065b198ccb",
+        "name": "COPPER TRIPEPTIDE-1",
+        "stdName": "COPPER TRIPEPTIDE-1",
+        "type": "of",
+        "domains": [
+          "cosmetic"
+        ],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [
+          {
+            "created": 1786350230774,
+            "createdBy": "ADMIN",
+            "lastEdited": 1786350230774,
+            "lastEditedBy": "ADMIN",
+            "deprecated": false,
+            "uuid": "c2cd7168-491a-4d0a-b26c-7e632992851d",
+            "nameOrg": "INCI",
+            "references": [],
+            "access": []
+          }
+        ],
+        "preferred": true,
+        "displayName": false,
+        "references": [
+          "5ecbd906-fc4f-4aa5-a32b-5ad3a31a29d1",
+          "f101f3b2-a09d-4867-bff6-46759d7661a0"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "aa6a3014-ce5b-47d1-be8c-630aa2ed043f",
+        "name": "COPPER, (GLYCYL-.KAPPA.N-L-HISTIDYL-.KAPPA.N,.KAPPA.N3-L-LYSINATO(2-))-",
+        "stdName": "COPPER, (GLYCYL-.KAPPA.N-L-HISTIDYL-.KAPPA.N,.KAPPA.N3-L-LYSINATO(2-))-",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "51d27069-6a3d-4714-b3f6-8ce62cc46525"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "20869141-8094-4df6-ab8d-8f2b6e486661",
+        "name": "COPPER, (N2-(N-GLYCYL-L-HISTIDYL)-L-LYSINATO(2-))-",
+        "stdName": "COPPER, (N2-(N-GLYCYL-L-HISTIDYL)-L-LYSINATO(2-))-",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "51d27069-6a3d-4714-b3f6-8ce62cc46525"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "09000e1f-4651-4ffa-bb08-3fd0584ae227",
+        "name": "GHK COMPLEX WITH COPPER",
+        "stdName": "GHK COMPLEX WITH COPPER",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "ae1d1e70-4c19-4904-8a0c-c3451d7bca6b",
+          "fa2fa154-403b-47b1-8f02-17a3667090ed"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "16d9d512-9d27-407e-9f16-bd33085014d9",
+        "name": "GHK COMPLEX WITH COPPER [MI]",
+        "stdName": "GHK COMPLEX WITH COPPER [MI]",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "ae1d1e70-4c19-4904-8a0c-c3451d7bca6b"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "31fb5247-17d9-4965-bfd3-19a743e70e6b",
+        "name": "GHK COPPER",
+        "stdName": "GHK COPPER",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "51d27069-6a3d-4714-b3f6-8ce62cc46525"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "12a49709-0cdb-464e-9487-b787fcf4e55f",
+        "name": "L-LYSINE, N2-(N-GLYCYL-L-HISTIDYL)-, COPPER COMPLEX",
+        "stdName": "L-LYSINE, N2-(N-GLYCYL-L-HISTIDYL)-, COPPER COMPLEX",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "51d27069-6a3d-4714-b3f6-8ce62cc46525"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "88f7404a-fa70-4851-b5f9-4d158239fb4a",
+        "name": "ORISTAR CU-GHK",
+        "stdName": "ORISTAR CU-GHK",
+        "type": "bn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": false,
+        "references": [
+          "f101f3b2-a09d-4867-bff6-46759d7661a0"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "93bb3571-871c-4008-9776-9769855d4932",
+        "name": "PREZATIDE COPPER",
+        "stdName": "PREZATIDE COPPER",
+        "type": "cn",
+        "domains": [],
+        "languages": [
+          "en"
+        ],
+        "nameJurisdiction": [],
+        "nameOrgs": [],
+        "preferred": false,
+        "displayName": true,
+        "references": [
+          "5680df97-6bec-4575-bad3-4747e1af3474"
+        ],
+        "access": []
+      }
+    ],
+    "codes": [
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "0311a265-58a7-beb4-9697-e824a19fdf79",
+        "codeSystem": "DRUG BANK",
+        "code": "DB14683",
+        "type": "PRIMARY",
+        "url": "https://go.drugbank.com/drugs/DB14683",
+        "_isClassification": false,
+        "references": [
+          "89a19bd6-0951-c3ad-7c32-89f62b420978"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "0ced3657-9619-6253-711b-338784ffbfdc",
+        "codeSystem": "EPA CompTox",
+        "code": "DTXSID20237492",
+        "type": "PRIMARY",
+        "url": "https://comptox.epa.gov/dashboard/chemical/details/DTXSID20237492",
+        "_isClassification": false,
+        "references": [
+          "6fe971a9-e256-7de5-4ebb-35fdbe0e6504"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "37e9e3ec-d552-4946-8394-8de004a96c69",
+        "codeSystem": "FDA UNII",
+        "code": "6BJQ43T1I9",
+        "type": "PRIMARY",
+        "_isClassification": false,
+        "references": [],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "3d545519-2d20-abd4-c4f2-29f021fa1788",
+        "codeSystem": "PUBCHEM",
+        "code": "10111685",
+        "type": "PRIMARY",
+        "url": "https://pubchem.ncbi.nlm.nih.gov/compound/10111685",
+        "_isClassification": false,
+        "references": [
+          "1c23b865-b135-b507-61b5-527ea57c6c94"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "423bd08c-bba6-4572-9a65-5be24121e26e",
+        "codeSystem": "CAS",
+        "code": "89030-95-5",
+        "type": "PRIMARY",
+        "url": "https://commonchemistry.cas.org/detail?cas_rn=89030-95-5",
+        "_isClassification": false,
+        "references": [
+          "4e1f3206-5748-44b9-b91a-e56a4167dcb7",
+          "5cd9810c-0921-4ab7-bee1-95947baa47f8"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "5e492746-1c6e-4c4d-8bac-88d1f1074fbe",
+        "codeSystem": "RXCUI",
+        "code": "1314233",
+        "comments": "RxNorm",
+        "type": "PRIMARY",
+        "url": "https://rxnav.nlm.nih.gov/REST/rxcui/1314233/allProperties.xml?prop=all",
+        "_isClassification": false,
+        "references": [
+          "4e1f3206-5748-44b9-b91a-e56a4167dcb7"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "d219dfb2-6647-4ead-a3ea-5c330396d5ec",
+        "codeSystem": "MERCK INDEX",
+        "code": "m5722",
+        "comments": "Merck Index",
+        "type": "PRIMARY",
+        "url": "https://merckindex.rsc.org/monographs/m5722?q=authorize",
+        "_isClassification": false,
+        "references": [
+          "4e1f3206-5748-44b9-b91a-e56a4167dcb7"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230774,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230774,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "df748bf9-ac59-1dcb-7372-13ebbe2fccac",
+        "codeSystem": "DAILYMED",
+        "code": "6BJQ43T1I9",
+        "type": "PRIMARY",
+        "url": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?adv=1&query=6BJQ43T1I9",
+        "_isClassification": false,
+        "references": [
+          "4cfd432a-f473-6049-9c39-515b74d79a26"
+        ],
+        "access": []
+      }
+    ],
+    "notes": [],
+    "properties": [],
+    "relationships": [
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "cc0bdcb9-0964-4e0c-9541-3f8e027b8227",
+        "relatedSubstance": {
+          "created": 1786350230775,
+          "createdBy": "ADMIN",
+          "lastEdited": 1786350230775,
+          "lastEditedBy": "ADMIN",
+          "deprecated": false,
+          "uuid": "9f414c57-0c13-4b48-85fc-68b16ce3ac19",
+          "refPname": "CUPRIC CATION",
+          "refuuid": "fb2b9b51-d768-4c6f-99e7-99071d83a4fb",
+          "substanceClass": "reference",
+          "approvalID": "8CBV67279L",
+          "name": "CUPRIC CATION",
+          "linkingID": "8CBV67279L",
+          "references": [],
+          "access": []
+        },
+        "originatorUuid": "cc0bdcb9-0964-4e0c-9541-3f8e027b8227",
+        "type": "PARENT->SALT/SOLVATE",
+        "references": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "d9547d9e-0552-4925-943f-e769e42e4736",
+        "relatedSubstance": {
+          "created": 1786350230775,
+          "createdBy": "ADMIN",
+          "lastEdited": 1786350230775,
+          "lastEditedBy": "ADMIN",
+          "deprecated": false,
+          "uuid": "a638ec46-ff90-4ded-a131-b5926e16a866",
+          "refPname": "PREZATIDE",
+          "refuuid": "6cc2dc36-e77a-4034-9483-3e4387a9ac4d",
+          "substanceClass": "reference",
+          "approvalID": "39TG2H631E",
+          "name": "PREZATIDE",
+          "linkingID": "39TG2H631E",
+          "references": [],
+          "access": []
+        },
+        "originatorUuid": "d9547d9e-0552-4925-943f-e769e42e4736",
+        "type": "PARENT->SALT/SOLVATE",
+        "references": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "feec48a4-0d23-4e77-a53b-dfd9d94d777d",
+        "relatedSubstance": {
+          "created": 1786350230775,
+          "createdBy": "ADMIN",
+          "lastEdited": 1786350230775,
+          "lastEditedBy": "ADMIN",
+          "deprecated": false,
+          "uuid": "e592ca7d-694a-44ef-b8ab-2627a3cbd6a3",
+          "refPname": "PREZATIDE",
+          "refuuid": "6cc2dc36-e77a-4034-9483-3e4387a9ac4d",
+          "substanceClass": "reference",
+          "approvalID": "39TG2H631E",
+          "name": "PREZATIDE",
+          "linkingID": "39TG2H631E",
+          "references": [],
+          "access": []
+        },
+        "originatorUuid": "feec48a4-0d23-4e77-a53b-dfd9d94d777d",
+        "type": "ACTIVE MOIETY",
+        "references": [],
+        "access": []
+      }
+    ],
+    "references": [
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "1c23b865-b135-b507-61b5-527ea57c6c94",
+        "citation": "PUBCHEM",
+        "docType": "PUBCHEM",
+        "publicDomain": true,
+        "tags": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "4cfd432a-f473-6049-9c39-515b74d79a26",
+        "citation": "DailyMed",
+        "docType": "DAILYMED",
+        "publicDomain": true,
+        "tags": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "4e1f3206-5748-44b9-b91a-e56a4167dcb7",
+        "citation": "SRS CODE IMPORT",
+        "docType": "FDA_SRS",
+        "documentDate": 1493405784000,
+        "publicDomain": true,
+        "tags": [
+          "NOMEN"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "51d27069-6a3d-4714-b3f6-8ce62cc46525",
+        "citation": "STN",
+        "docType": "FDA_SRS",
+        "publicDomain": true,
+        "tags": [
+          "NOMEN"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "5680df97-6bec-4575-bad3-4747e1af3474",
+        "citation": "FDA_SRS",
+        "docType": "FDA_SRS",
+        "publicDomain": true,
+        "tags": [
+          "NOMEN",
+          "PUBLIC_DOMAIN_RELEASE",
+          "AUTO_SELECTED"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "5cd9810c-0921-4ab7-bee1-95947baa47f8",
+        "citation": "STN",
+        "docType": "STN (SCIFINDER)",
+        "publicDomain": true,
+        "tags": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "5ecbd906-fc4f-4aa5-a32b-5ad3a31a29d1",
+        "citation": "COPPER TRIPEPTIDE-1 [INCI]",
+        "docType": "SRS_LOCATOR",
+        "publicDomain": true,
+        "tags": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "6fe971a9-e256-7de5-4ebb-35fdbe0e6504",
+        "citation": "WEBSITE",
+        "docType": "WEBSITE",
+        "publicDomain": true,
+        "tags": [
+          "NOMEN",
+          "PUBLIC_DOMAIN_RELEASE"
+        ],
+        "url": "https://comptox.epa.gov/dashboard/dsstoxdb/results?utf8=%E2%9C%93&search=89030-95-5",
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "89a19bd6-0951-c3ad-7c32-89f62b420978",
+        "docType": "SYSTEM",
+        "publicDomain": true,
+        "tags": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "ae1d1e70-4c19-4904-8a0c-c3451d7bca6b",
+        "citation": "MERCK",
+        "docType": "FDA_SRS",
+        "publicDomain": true,
+        "tags": [
+          "NOMEN"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "f101f3b2-a09d-4867-bff6-46759d7661a0",
+        "citation": "PCPC",
+        "docType": "FDA_SRS",
+        "publicDomain": true,
+        "tags": [
+          "NOMEN"
+        ],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "fa2fa154-403b-47b1-8f02-17a3667090ed",
+        "citation": "GHK COMPLEX WITH COPPER [MI]",
+        "docType": "SRS_LOCATOR",
+        "publicDomain": true,
+        "tags": [],
+        "access": []
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230775,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "fa448b8a-b668-4a47-aedc-3ee4e7a694dd",
+        "citation": "SRS import [6BJQ43T1I9]",
+        "docType": "FDA_SRS",
+        "documentDate": 1493405784000,
+        "publicDomain": true,
+        "tags": [
+          "NOMEN"
+        ],
+        "url": "http://fdasis.nlm.nih.gov/srs/srsdirect.jsp?regno=6BJQ43T1I9",
+        "access": []
+      }
+    ],
+    "approvalID": "6BJQ43T1I9",
+    "tags": [],
+    "structure": {
+      "id": "f052af03-bff3-45ab-a899-7acabffa38c6",
+      "created": 1786350230772,
+      "lastEdited": 1786350230778,
+      "deprecated": false,
+      "digest": "ad19fb4c4f8225dc2378a124e1adf5cf2c2a5dcb",
+      "molfile": "PREZATIDE MONOACETATE\n  Marvin  01132112282D          \n\n 25 24  0  0  1  0            999 V2000\n   14.8089   -2.4749    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0\n   16.9523   -2.0624    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0\n   14.8089   -3.2999    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -3.7124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -4.5374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   16.2378   -3.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.9523   -3.7124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   16.2378   -2.4749    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   16.9523   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.2378   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   17.6667   -0.8250    0.0000 O   0  5  0  0  0  0  0  0  0  0  0  0\n   17.6667   -2.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.3812   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.0957   -2.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.8101   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   20.5246   -2.4749    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   14.0944   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.3799   -2.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.6261   -2.1394    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   12.0742   -2.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.4868   -3.4670    0.0000 N   0  5  0  0  0  0  0  0  0  0  0  0\n   13.2937   -3.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.0321   -5.9520    0.0000 Cu  0  2  0  0  0  0  0  0  0  0  0  0\n  1  3  1  1  0  0  0\n  3  4  1  0  0  0  0\n  4  5  2  0  0  0  0\n  4  6  1  0  0  0  0\n  6  7  1  0  0  0  0\n  1  8  1  0  0  0  0\n  8  9  2  0  0  0  0\n 10  2  1  0  0  0  0\n  8 10  1  0  0  0  0\n  2 11  1  6  0  0  0\n 11 12  2  0  0  0  0\n 11 13  1  0  0  0  0\n  2 14  1  0  0  0  0\n 14 15  1  0  0  0  0\n 15 16  1  0  0  0  0\n 16 17  1  0  0  0  0\n 17 18  1  0  0  0  0\n  1 19  1  0  0  0  0\n 19 20  1  0  0  0  0\n 20 21  1  0  0  0  0\n 21 22  2  0  0  0  0\n 23 22  1  0  0  0  0\n 24 23  1  0  0  0  0\n 20 24  2  0  0  0  0\nM  CHG  3  13  -1  23  -1  25   2\nM  END",
+      "smiles": "C(CCN)C[C@@H](C(=O)[O-])NC(=O)[C@H](Cc1c[n-]cn1)NC(=O)CN.[Cu+2]",
+      "formula": "C14H22N6O4.Cu",
+      "opticalActivity": "UNSPECIFIED",
+      "atropisomerism": "No",
+      "stereoCenters": 2,
+      "definedStereo": 2,
+      "ezCenters": 0,
+      "charge": 0,
+      "mwt": 401.9085,
+      "count": 1,
+      "createdBy": "ADMIN",
+      "lastEditedBy": "ADMIN",
+      "stereochemistry": "ABSOLUTE",
+      "access": [],
+      "references": [
+        "51d27069-6a3d-4714-b3f6-8ce62cc46525",
+        "fa448b8a-b668-4a47-aedc-3ee4e7a694dd"
+      ],
+      "_inchiKey": "QMIFIFIYYPUVNU-ACMTZBLWSA-L",
+      "_inchi": "InChI=1S/C14H24N6O4.Cu/c15-4-2-1-3-10(14(23)24)20-13(22)11(19-12(21)6-16)5-9-7-17-8-18-9;/h7-8,10-11H,1-6,15-16H2,(H4,17,18,19,20,21,22,23,24);/q;+2/p-2/t10-,11-;/m0./s1",
+      "hash": "QMIFIFIYYPUVNU_ACMTZBLWSA_L"
+    },
+    "moieties": [
+      {
+        "created": 1786350230777,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230780,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "7196b2be-e8d0-bf0f-aeb9-1c585be50454",
+        "id": "7196b2be-e8d0-bf0f-aeb9-1c585be50454",
+        "digest": "932fb1f901a99f43933989511d39169fb7c31d8e",
+        "molfile": "\n  Marvin  01132105532D          \n\n  1  0  0  0  1  0            999 V2000\n   18.0321   -5.9520    0.0000 Cu  0  2  0  0  0  0  0  0  0  0  0  0\nM  CHG  1   1   2\nM  END",
+        "smiles": "[Cu+2]",
+        "formula": "Cu",
+        "opticalActivity": "NONE",
+        "atropisomerism": "No",
+        "stereoCenters": 0,
+        "definedStereo": 0,
+        "ezCenters": 0,
+        "charge": 2,
+        "mwt": 63.5456,
+        "count": 1,
+        "stereochemistry": "ACHIRAL",
+        "access": [],
+        "references": [],
+        "_inchiKey": "JPVYNHNXODAKFH-UHFFFAOYSA-N",
+        "_inchi": "InChI=1S/Cu/q+2",
+        "hash": "JPVYNHNXODAKFH_UHFFFAOYSA_N",
+        "countAmount": {
+          "created": 1786350230777,
+          "createdBy": "ADMIN",
+          "lastEdited": 1786350230777,
+          "lastEditedBy": "ADMIN",
+          "deprecated": false,
+          "uuid": "04b0954b-ebdf-4bd1-8340-977caeec79e9",
+          "type": "MOL RATIO",
+          "average": 1.0,
+          "units": "MOL RATIO",
+          "references": [],
+          "access": []
+        }
+      },
+      {
+        "created": 1786350230775,
+        "createdBy": "ADMIN",
+        "lastEdited": 1786350230779,
+        "lastEditedBy": "ADMIN",
+        "deprecated": false,
+        "uuid": "bed6b7f6-399f-f51f-8cbf-97533f1c3b42",
+        "id": "bed6b7f6-399f-f51f-8cbf-97533f1c3b42",
+        "digest": "8a40408f5c0775af1050101250e0b69aaaaa6f57",
+        "molfile": "\n  Marvin  01132109522D          \n\n 24 24  0  0  1  0            999 V2000\n   14.8089   -2.4749    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0\n   16.9523   -2.0624    0.0000 C   0  0  2  0  0  0  0  0  0  0  0  0\n   14.8089   -3.2999    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -3.7124    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -4.5374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   16.2378   -3.2999    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.9523   -3.7124    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   15.5233   -1.2374    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   16.2378   -2.4749    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   16.9523   -1.2374    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   16.2378   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   17.6667   -0.8250    0.0000 O   0  0  0  0  0  0  0  0  0  0  0  0\n   17.6667   -2.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   18.3812   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.0957   -2.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   19.8101   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   20.5246   -2.4749    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   14.0944   -2.0624    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   13.3799   -2.4749    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.6261   -2.1394    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   12.0742   -2.7525    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n   12.4868   -3.4670    0.0000 N   0  0  0  0  0  0  0  0  0  0  0  0\n   13.2937   -3.2954    0.0000 C   0  0  0  0  0  0  0  0  0  0  0  0\n  1  3  1  1  0  0  0\n  1  8  1  0  0  0  0\n  1 19  1  0  0  0  0\n 10  2  1  0  0  0  0\n  2 11  1  6  0  0  0\n  2 14  1  0  0  0  0\n  3  4  1  0  0  0  0\n  4  5  2  0  0  0  0\n  4  6  1  0  0  0  0\n  6  7  1  0  0  0  0\n  8  9  2  0  0  0  0\n  8 10  1  0  0  0  0\n 11 12  2  0  0  0  0\n 11 13  1  0  0  0  0\n 14 15  1  0  0  0  0\n 15 16  1  0  0  0  0\n 16 17  1  0  0  0  0\n 17 18  1  0  0  0  0\n 19 20  1  0  0  0  0\n 20 21  1  0  0  0  0\n 20 24  2  0  0  0  0\n 21 22  2  0  0  0  0\n 23 22  1  0  0  0  0\n 24 23  1  0  0  0  0\nM  END",
+        "smiles": "C(CCN)C[C@@H](C(=O)O)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)CN",
+        "formula": "C14H24N6O4",
+        "opticalActivity": "UNSPECIFIED",
+        "atropisomerism": "No",
+        "stereoCenters": 2,
+        "definedStereo": 2,
+        "ezCenters": 0,
+        "charge": 0,
+        "mwt": 340.3787,
+        "count": 1,
+        "stereochemistry": "ABSOLUTE",
+        "access": [],
+        "references": [],
+        "_inchiKey": "MVORZMQFXBLMHM-QWRGUYRKSA-N",
+        "_inchi": "InChI=1S/C14H24N6O4/c15-4-2-1-3-10(14(23)24)20-13(22)11(19-12(21)6-16)5-9-7-17-8-18-9/h7-8,10-11H,1-6,15-16H2,(H,17,18)(H,19,21)(H,20,22)(H,23,24)/t10-,11-/m0/s1",
+        "hash": "MVORZMQFXBLMHM_QWRGUYRKSA_N",
+        "countAmount": {
+          "created": 1786350230775,
+          "createdBy": "ADMIN",
+          "lastEdited": 1786350230775,
+          "lastEditedBy": "ADMIN",
+          "deprecated": false,
+          "uuid": "68723c89-d6ba-44d8-96f0-360738a2bb1a",
+          "type": "MOL RATIO",
+          "average": 1.0,
+          "units": "MOL RATIO",
+          "references": [],
+          "access": []
+        }
+      }
+    ],
+    "_name": "PREZATIDE COPPER",
+    "_approvalIDDisplay": "6BJQ43T1I9",
+    "access": [],
+    "_self": "https://gsrs.ncats.nih.gov/api/v1/substances(63d90537-8bc7-4f27-970a-60eab6009eb1)?view=full"
+  }
+}

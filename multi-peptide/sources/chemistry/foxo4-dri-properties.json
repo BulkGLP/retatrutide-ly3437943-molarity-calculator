@@ -1,0 +1,26 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/FOXO4-DRI/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:49Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 167312269,
+          "MolecularFormula": "C228H388N86O64",
+          "MolecularWeight": "5358",
+          "ExactMass": "5356.9817220",
+          "MonoisotopicMass": "5354.9750124",
+          "Title": "Foxo4-dri"
+        },
+        {
+          "CID": 168431240,
+          "MolecularFormula": "C228H388N86O64",
+          "MolecularWeight": "5358",
+          "ExactMass": "5356.9817220",
+          "MonoisotopicMass": "5354.9750124",
+          "Title": "H-D-Leu-D-Thr-D-Leu-D-Arg-D-Lys-D-Glu-D-Pro-D-Ala-D-Ser-D-Glu-D-Ile-D-Ala-D-Gln-D-Ser-D-Ile-D-Leu-D-Glu-D-Ala-D-Tyr-D-Ser-D-Gln-D-Asn-Gly-D-Trp-D-Ala-D-Asn-D-Arg-D-Arg-D-Ser-Gly-Gly-Lys-Arg-Pro-DL-Pro-DL-Pro-Arg-Arg-Arg-Gln-Arg-Arg-Lys-Lys-Arg-Gly-OH"
+        }
+      ]
+    }
+  }
+}

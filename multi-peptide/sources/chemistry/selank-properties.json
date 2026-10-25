@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Selank/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:53Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 11765600,
+          "MolecularFormula": "C33H57N11O9",
+          "MolecularWeight": "751.9",
+          "ExactMass": "751.43407244",
+          "MonoisotopicMass": "751.43407244",
+          "Title": "Selank"
+        }
+      ]
+    }
+  }
+}

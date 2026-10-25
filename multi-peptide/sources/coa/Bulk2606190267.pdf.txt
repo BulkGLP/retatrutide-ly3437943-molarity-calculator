@@ -1,0 +1,14 @@
+Certificate of AnalysisFreedomDiagnosticsTesting.comAdmin@FreedomDiagnostics.net
+Client: BulkGLPAccession #: 2606190267 Search Code: Bulk2606190267 Received: 06/19/2026 Reported: 06/23/2026Lot: 010125
+Sample Summary
+Product: Adamax 10mg Purity: 99.10%
+Identity: Confirmed Net Content:10.90 mgAppearance:White Lyophilized PowderMicrobial Analysis (PCR):PassFentanyl Screen:Negative
+Analytical Results
+Test ResultIdentity (LC-MS) ConfirmedPurity (HPLC-UV) 99.10%Net Content 10.90 mg
+Method: Microbial detection performed using validated polymerase chain reaction (PCR)-based assay targeting common microbial contaminants.
+Microbial Analysis (PCR)No Detectable Microbial DNAPass
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).
+Chromatogram
+Mass Confirmation
+FreedomDiagnosticsTesting.comAdmin@FreedomDiagnostics.netPrincipal Chemist Proudly Owned and Operated in the USA
+The peptide purity analysis reported here was conducted using LCMS/MS under standard laboratory conditions. This analysis is intended for informational purposes only and is specific to the sample(s) provided. The peptides tested are intended for research use only and are not approved for human or veterinary use, diagnostic, therapeutic, or clinical applications. Results should be interpreted by qualified professionals within the scope of the intended research. The accuracy and reliability of the test may be influenced by sample integrity, handling, and other experimental variables.

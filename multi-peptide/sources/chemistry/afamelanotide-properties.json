@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Afamelanotide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:56Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 16197727,
+          "MolecularFormula": "C78H111N21O19",
+          "MolecularWeight": "1646.8",
+          "ExactMass": "1645.83651040",
+          "MonoisotopicMass": "1645.83651040",
+          "Title": "Afamelanotide"
+        }
+      ]
+    }
+  }
+}
