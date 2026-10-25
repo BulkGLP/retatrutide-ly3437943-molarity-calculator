@@ -1,0 +1,271 @@
+{
+  "review_date": "2026-10-24",
+  "method": "Fresh read-only public HTTPS GETs plus complete HTML, embedded product data, readable label images and current linked COAs. No carts, checkout or authenticated production writes.",
+  "findings": [
+    {
+      "product_slug": "foxo4-10mg",
+      "current_http_status": 200,
+      "findings": "Current full HTML/embedded product/JSON-LD has no CAS, exact sequence, DRI designation, stereochemistry, formula or molecular weight. No product COA is linked and current quality index has no FOXO4 entry. Readable label says FOXO4, 10MG, PURITY>=99%, without identity specification.",
+      "evidence_files": [
+        "foxo4-current-page.html",
+        "foxo4-current-embedded-product.json",
+        "foxo4-current-label.avif",
+        "foxo4-adamax-current-quality-index.html"
+      ]
+    },
+    {
+      "product_slug": "adamax",
+      "current_http_status": 200,
+      "findings": "Current full HTML specifies N-acetyl and C-terminal adamantane modifications but no exact sequence/linker/connectivity/CAS/formula/average g/mol. Current COA2606190267 identity Confirmed does not provide those fields. Its mass peaks are ion m/z, not a unique molecular structure or declared average mass.",
+      "evidence_files": [
+        "adamax-current-page.html",
+        "adamax-current-embedded-product.json",
+        "adamax-current-label.avif",
+        "adamax-current-coa-Bulk2606190267.pdf"
+      ]
+    },
+    {
+      "product_slug": "ahk-cu-10000mg",
+      "current_http_status": 200,
+      "findings": "Current HTML names Ala-His-Lys copper complex and10g nominal, has no specification table or CAS/formula/average mass/charge/salt fields, and no current product or quality-index COA. Front label lacks chemical identity details. Oblique tiny side text is not readable enough to establish absence of a field there.",
+      "evidence_files": [
+        "ahk-cu-10000mg.html",
+        "ahk-cu-10000mg.txt",
+        "ahk-cu-label.avif",
+        "current-site-observations.json",
+        "verified-quality.html"
+      ]
+    },
+    {
+      "product_slug": "tb-500",
+      "current_http_status": 200,
+      "findings": "Current generic catalog name explicitly does not define a unique sequence. Label has TB50010MG. Current linked COA2605280346 explicitly names Identity(LC-MS):Thymosin Beta-4; annotated multiply charged spectrum supports choosing the standard full-length named reference over the Ac-LKKTETQ fragment, without independent lot-sequence certification.",
+      "evidence_files": [
+        "tb-500-current.html",
+        "tb-500-current-extracted.json",
+        "tb-500-label.avif",
+        "tb-500-current-coa.pdf",
+        "tb-500-current-coa.txt"
+      ]
+    },
+    {
+      "product_slug": "thymalin-10mg",
+      "current_http_status": 200,
+      "findings": "Current catalog and report Product field say Thymalin; current linked COA2608100933 says Identity(LC-MS):Thymulin. Conditional free nonathymulin parent arithmetic is explicitly a reference model; product identity/name conflict remains unresolved. Graph [M+H]+858.900 is not substituted for average parent858.9g/mol.",
+      "evidence_files": [
+        "thymalin-10mg.html",
+        "thymalin-10mg.txt",
+        "thymalin-label.avif",
+        "Bulk2608100933.pdf",
+        "Bulk2608100933-layout.txt",
+        "coa-native-image-3-Image7.png"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/foxo4-current-page.html",
+      "sha256": "039ccb5284593c238946846f03e1768b9c7d8210507eb8cc266bdcb4240117f1",
+      "bytes": 66307,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/foxo4-current-page.html"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/foxo4-current-embedded-product.json",
+      "sha256": "43f1f38b214f2f1b32382ec9173fdd16e28b88fd7e60ba4cc3866cbc7fa7e4df",
+      "bytes": 1197,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/foxo4-current-embedded-product.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/foxo4-current-page-fetch.json",
+      "sha256": "32cedd75f6dfab53ceef56bc52a40c442d02e62bdf5e0dc0054cfb38b26be9e5",
+      "bytes": 3235,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/foxo4-current-page-fetch.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/foxo4-current-label.avif",
+      "sha256": "d18c7a422b7efd25443e1e71c7cc4112bfb1c0974dcd3469bdf14f960a58ba38",
+      "bytes": 88578,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/foxo4-current-label.avif"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/foxo4-current-label-view.png",
+      "sha256": "6370bb3d2ff4c4363f2d4aa2b05a79bcd2b26a213eff16aa1e05e56c745c2326",
+      "bytes": 368577,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/foxo4-current-label-view.png"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/adamax-current-page.html",
+      "sha256": "15b9a0637b3e07ed5ac53ddd0677f65f3eeefb8f0f9af78f66efef370e6ed1e4",
+      "bytes": 66947,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/adamax-current-page.html"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/adamax-current-embedded-product.json",
+      "sha256": "80d5565ee11755dc1fefdb66d0aaa4039a663f987baed3407b15b5efbbb66b48",
+      "bytes": 1293,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/adamax-current-embedded-product.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/adamax-current-page-fetch.json",
+      "sha256": "3ab071affc1c35524cd93885a5198032ee05c530da5f7ecff90d43188edd316f",
+      "bytes": 3232,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/adamax-current-page-fetch.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/adamax-current-label.avif",
+      "sha256": "899a81b32752481752b40f9f9df97092e78b574247af16918ff11249e4b04820",
+      "bytes": 78268,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/adamax-current-label.avif"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/adamax-current-label-view.png",
+      "sha256": "ed08f8a29d2d6a406b7d0447056be4d8d0d5717f5c74424497aa7f2a41eca6fe",
+      "bytes": 336929,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/adamax-current-label-view.png"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/adamax-current-coa-Bulk2606190267.pdf",
+      "sha256": "6f2ecaf5e2916c22e73d297cc19166f5e07b501d96c94b165c4ea119d2192d1e",
+      "bytes": 287143,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/adamax-current-coa-Bulk2606190267.pdf"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/foxo4-adamax-current-quality-index.html",
+      "sha256": "93ce8fc108afa9b84df98cf44de3ac8eabfc2ec1fccb860d3422b0f4cea5c20e",
+      "bytes": 94799,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/foxo4-adamax-current-quality-index.html"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/tb-500-current.html",
+      "sha256": "1d597ea29a9f3a86cce547bf732cff52554571dd650f1237b4b859eac88d2cfe",
+      "bytes": 66552,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/tb-500-current.html"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/tb-500-current-extracted.json",
+      "sha256": "98e85d9da5cc73ec24c029fd00be366e96cf5a02e33f0abcd4af449f28e41b88",
+      "bytes": 31447,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/tb-500-current-extracted.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/tb-500-label.avif",
+      "sha256": "245ee1d6f7efb3b659f832308db9b7c86b2274a44764c724b11b41845221de7c",
+      "bytes": 78724,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/tb-500-label.avif"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/tb-500-label.png",
+      "sha256": "2c4cecd4196a026ae3e20bd21dd0805a6e69533fe33c8cd8e259bde78245385a",
+      "bytes": 353457,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/tb-500-label.png"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/tb-500-current-coa.pdf",
+      "sha256": "a806e60fbb4ed8ba1e2185fc89a16167131d86bd0f53d9a0115b682a357535b1",
+      "bytes": 319052,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/tb-500-current-coa.pdf"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/tb-500-current-coa.txt",
+      "sha256": "809a9075040d5716155dfe9c2a94fe6d71adb87e161bc59fc5a12d509d0aad13",
+      "bytes": 1881,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site/tb-500-current-coa.txt"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/ahk-cu-10000mg.html",
+      "sha256": "66b1817e2bb48660763a512480ab1c183f379e851edeccfff7cad8aae33e9b90",
+      "bytes": 62090,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/ahk-cu-10000mg.html"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/ahk-cu-10000mg.txt",
+      "sha256": "1bc53a87f776c5386b47700effd670bafe6cb5f33c5261138939369fef33aad4",
+      "bytes": 3696,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/ahk-cu-10000mg.txt"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/ahk-cu-label.avif",
+      "sha256": "4c45e08e4a85ac1161f61922b8fa95be9d2676cf447976fb2496c694870b0850",
+      "bytes": 85298,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/ahk-cu-label.avif"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/ahk-cu-label.png",
+      "sha256": "583d7277a61022230dd9a6db50e881254b17d4394766c99c9a585d13e396a7d3",
+      "bytes": 556133,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/ahk-cu-label.png"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/ahk-cu-label-side-detail.png",
+      "sha256": "9288aab1acbc94ad14a45d2280ac6daaa119c148e363d36e60eb8f770336ebcd",
+      "bytes": 298726,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/ahk-cu-label-side-detail.png"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/thymalin-10mg.html",
+      "sha256": "9f4f4701b6518bd4c06671eca8ffb34db6bf336460d6045eaa4401ff71d89306",
+      "bytes": 66922,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/thymalin-10mg.html"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/thymalin-10mg.txt",
+      "sha256": "0e5ba5400e64e9dfef208dea01f5a5fe10b1bf690e89c04c7b80ac918d871cac",
+      "bytes": 3850,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/thymalin-10mg.txt"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/thymalin-label.avif",
+      "sha256": "b0624bc710d3217d16b5348f50d491bf5c9932110899c3334e2888566b8553ee",
+      "bytes": 88461,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/thymalin-label.avif"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/thymalin-label.png",
+      "sha256": "706f23b3258ab89ac4bd63d0e5918bbea1fee6a5081b0c162fa3a4a2fc7c2e15",
+      "bytes": 365140,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/thymalin-label.png"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/Bulk2608100933.pdf",
+      "sha256": "099f0bdbe4eb287469646dab3b12c3490be708d57dd7529c91b10d84d369ee82",
+      "bytes": 244038,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/Bulk2608100933.pdf"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/Bulk2608100933-layout.txt",
+      "sha256": "1b61fe11bec53d53ef2add77a1e9554fce6edb98363fb8c0a06ec6f88506bea7",
+      "bytes": 3906,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/Bulk2608100933-layout.txt"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/coa-native-image-3-Image7.png",
+      "sha256": "4afd1dd5de392fcf9d778e0e43c896cae98ffb9d75a96f116556ccfc7ecf2f10",
+      "bytes": 38503,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/coa-native-image-3-Image7.png"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/current-site-observations.json",
+      "sha256": "c0b9623337d85710e4cc43ad1cb05d6737637f91bc6419a9c63862415569afb4",
+      "bytes": 12296,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/current-site-observations.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/page-fetch-manifest.json",
+      "sha256": "6c60edfacb8501f10da98f5d2807878ab3295183f0e412191b325b6f2dd73005",
+      "bytes": 5992,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/page-fetch-manifest.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/asset-fetch-manifest.json",
+      "sha256": "db3e6be6dc4820ef982652f7d12cf28a391674ce22989300382b6be7bc72a8dd",
+      "bytes": 11407,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/asset-fetch-manifest.json"
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/verified-quality.html",
+      "sha256": "93ce8fc108afa9b84df98cf44de3ac8eabfc2ec1fccb860d3422b0f4cea5c20e",
+      "bytes": 94799,
+      "original_local_capture": "reports/checkpoint-audit-2026-10-24/task-c-current-site-review/verified-quality.html"
+    }
+  ]
+}
