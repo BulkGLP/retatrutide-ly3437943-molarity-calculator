@@ -1,3 +1,25 @@
+# BulkGLP catalog-wide reference registry — Edition 2026.10.R3
+
+R3 accounts for **44 catalog products** without inventing chemical identities: 30 modeled products, eight non-single-species exclusions, two nonpeptide references outside the peptide matrix, and four explicitly withheld stoichiometry dispositions. Full catalog accounting is true; full catalog molarity completeness remains false.
+
+- [R3 documentation and contextual catalog links](https://bulkglp.github.io/retatrutide-ly3437943-molarity-calculator/multi-peptide/)
+- [R3 README, methods, disclosures and reproduction](multi-peptide/README.md)
+- [Chemical reference registry](multi-peptide/compound_reference_registry.csv)
+- [Theoretical molarity matrix](multi-peptide/multi_peptide_molarity_matrix.csv)
+- [Reported supplier COA transcriptions](multi-peptide/multi_peptide_reported_coa_results.csv)
+- [Withheld stoichiometry](multi-peptide/catalog_withheld_stoichiometry.csv)
+- [All catalog dispositions](multi-peptide/catalog_dispositions_manifest.json)
+
+Seven published Retatrutide sample reports across lots062503/062504 report99.50–99.98% **HPLC-UV** purity. These are published COA reference reports, not proof of every variant's current fulfillment lot or net peptide content. Public analytical report files are preserved as source evidence, not independently authenticated.
+
+R3 uses a disclosed source-rounded Retatrutide reference of **4731 g/mol**. The legacy calculator, examples and filenames below retain **4731.33 g/mol**; the two conventions must not be silently interchanged. GHK-Cu and TB-500 reference conventions remain explicitly conditional. FOXO4, Adamax, AHK-Cu and the Thymalin/Thymulin conflict have no assigned molarity.
+
+Code uses the existing MIT license; original prose and derived tables use CC-BY-4.0. Third-party sources retain their own terms. Commercial provenance and AI assistance are disclosed; no independent laboratory authentication, peer review or product certification is claimed.
+
+## Legacy Retatrutide utility and historical R2 documentation
+
+The following historical documentation and original download filenames are retained for compatibility.
+
 # Retatrutide (LY3437943) nominal molarity calculator
 
 **Edition:** 2026.10.R2. **Prepared:** October 17, 2026. **Publication synchronization package prepared:** October 18, 2026.
