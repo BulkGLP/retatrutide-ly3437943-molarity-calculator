@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170155.png
+SHA256: e6c65adac09a2631b5ba80bb3cae5a7b390a287d379f80d39c6511adc9b167de
+Verification: visual review of original source raster
+Accession #: 2604170155
+Product: Thymosin Alpha-1 10mg
+Lot: 4924
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.42%
+Net Content: 10.03 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

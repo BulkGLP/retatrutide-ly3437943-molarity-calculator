@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170174.jpg
+SHA256: 3471f59fd0857a61b2868e0a6611abc16dc12e61d8ff3d921d92bcd9f31f03da
+Verification: visual review of original source raster
+Accession #: 2604170174
+Product: Melanotan 2 (MT-2) 10mg
+Lot: 4389
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.78%
+Net Content: 11.62 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

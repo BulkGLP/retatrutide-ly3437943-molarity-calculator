@@ -1,0 +1,11 @@
+Source: sources/coa/Bulk2601130173.jpg
+SHA256: a4fa5b0f2cd885e0cf23ebb88df8d02de134eaf4a36edf8ba58db984ba63533a
+Verification: visual review of original source raster
+Accession Number: 2601130173
+Product: Tirzepatide 40mg
+Lot: 385105
+Received Date: 1/13/2026
+Reported Date: 1/15/2026
+Purity: 99.412%
+Net Peptide Content: 40.78 mg
+Purity method: All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry

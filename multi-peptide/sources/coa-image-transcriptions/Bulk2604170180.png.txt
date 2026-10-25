@@ -1,0 +1,13 @@
+Source: sources/coa/Bulk2604170180.png
+SHA256: 10b1215039029b2c5ba8ec879c10f353db57e66ddaf4ab5183a4ed49508357f5
+Verification: visual review of original source raster
+Accession #: 2604170180
+Product: Raw Retatrutide
+Lot: 062503
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.96%
+Net Content: 7.46 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).
+Review note: No nominal sample mass stated; 7.46 mg is reported net content, not a nominal catalog mass.

@@ -1,0 +1,11 @@
+Source: sources/coa/Bulk2601130177.jpg
+SHA256: 65849448a2febcce69bd65e4bb2487a2c988172786694228f55929d8db1d1d00
+Verification: visual review of original source raster
+Accession Number: 2601130177
+Product: Retatrutide 15mg
+Lot: 062502
+Received Date: 1/13/2026
+Reported Date: 1/15/2026
+Purity: 99.89%
+Net Peptide Content: 16.01 mg
+Purity method: All Chemical Analysis was performed by HPLC with UV Detection Coupled with Mass Spectrometry

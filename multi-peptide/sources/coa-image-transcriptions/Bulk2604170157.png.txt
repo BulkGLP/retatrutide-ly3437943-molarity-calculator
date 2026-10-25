@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170157.png
+SHA256: 6e0e8d788473cef3d5939a1196c9fbf52d6dda4f0ead79a7331024075334cb91
+Verification: visual review of original source raster
+Accession #: 2604170157
+Product: ARA-290 10mg
+Lot: 90133
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 53.90%
+Net Content: 12.66 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

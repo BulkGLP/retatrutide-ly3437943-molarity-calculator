@@ -1,0 +1,16 @@
+Source: sources/coa/Bulk2601130178.jpg
+SHA256: 01289e43e77b9abed355e707e57edf1cb8319f98db363b28dc31540bfe73ebb3
+Verification: visual review of original source raster
+Accession Number: 2601130178
+Product: Retatrutide 15mg
+Lot: 062502
+Received Date: 1/13/2026
+Reported Date: 1/15/2026
+Purity: [not reported]
+Net Peptide Content: [not reported]
+Purity method: [not reported]
+Other method: All analyses are conducted for research purposes and performed in duplicate in accordance with USP <85> guidelines
+Endotoxin Threshold: ≤ 0.05 EU/mL
+Replicate 1: Pass
+Replicate 2: Pass
+Review note: Endotoxin-only result; no purity or net peptide content reported. Generic footer about LCMS/MS is not a purity test result.

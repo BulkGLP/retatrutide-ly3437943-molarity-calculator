@@ -1,0 +1,13 @@
+Source: sources/coa/Bulk2604170171-1.png
+SHA256: 4d4feff4b8f68026c61462bfb7722b1663d400dcb9f083e239b495f6b482c6cb
+Verification: visual review of original source raster
+Accession #: 2604170171
+Product: Melanotan 1 (MT-1) 10mg
+Lot: 7433
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.65%
+Net Content: 11.86 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).
+Review note: The report_id follows the actual document; archive_report_id preserves the archive identifier for joins.

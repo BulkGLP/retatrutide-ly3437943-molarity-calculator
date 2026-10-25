@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170153.png
+SHA256: fda63b5a2aa0521445292d589188ed125d90ece04795614914a458ae44149429
+Verification: visual review of original source raster
+Accession #: 2604170153
+Product: NAD+ 500mg
+Lot: 08530
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.92%
+Net Content: 471.61 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

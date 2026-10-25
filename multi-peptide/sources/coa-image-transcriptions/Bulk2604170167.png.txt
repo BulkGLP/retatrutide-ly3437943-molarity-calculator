@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170167.png
+SHA256: ff3c570be35486fda6189c377cd61e55a5fecb02e0f96cd42b5b34bc7b74f22e
+Verification: visual review of original source raster
+Accession #: 2604170167
+Product: LL37 5mg
+Lot: 2331
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 96.00%
+Net Content: 5.24 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).

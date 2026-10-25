@@ -1,0 +1,12 @@
+Source: sources/coa/Bulk2604170173.png
+SHA256: 3a26d72e0f6aeee31a627871d6e71bfee5ad7fbf576112cb341c67bde1487652
+Verification: visual review of original source raster
+Accession #: 2604170173
+Product: Selank 10mg
+Lot: 03815
+Received: 04/17/2026
+Reported: 04/19/2026
+Purity: 99.75%
+Net Content: 11.47 mg
+Purity method: Purity (HPLC-UV)
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).
