@@ -1,0 +1,28 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/45382195/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:08.970878+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/45382195/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 45382195,
+          "Synonym": [
+            "Thymosin Beta 4",
+            "([13C6]Leu17)-Thymosin b4 (human, bovine, horse, rat) trifluoroacetate salt Ac-Ser-Asp-Lys-Pro-Asp-Met-Ala-Glu-Ile-Glu-Lys-Phe-Asp-Lys-Ser-Lys-[13C6]Leu-Lys-Lys-Thr-Glu-Thr-Gln-Glu-Lys-Asn-Pro-Leu-Pro-Ser-Lys-Glu-Thr-Ile-Glu-Gln-Glu-Lys-Gln-Ala-Gly-Glu-Ser-OH trifluoroacetate salt",
+            "THYMOSIN BETA 4 ACETATE",
+            "Thymosin beta4 Acetate",
+            "Thymosin beta 4?",
+            "Thymosin b4 (cattle)",
+            "orb1910607",
+            "AKOS034831565",
+            "AS-75351",
+            "PD079485"
+          ]
+        }
+      ]
+    }
+  }
+}

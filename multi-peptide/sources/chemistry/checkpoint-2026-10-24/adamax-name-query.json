@@ -1,0 +1,16 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Adamax/cids/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:09.795336+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 404,
+  "response": {
+    "Fault": {
+      "Code": "PUGREST.NotFound",
+      "Message": "No CID found",
+      "Details": [
+        "No CID found that matches the given name"
+      ]
+    }
+  },
+  "error": "HTTP Error 404: PUGREST.NotFound"
+}

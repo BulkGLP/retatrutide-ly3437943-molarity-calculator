@@ -1,0 +1,49 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132341/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:58:35.511884+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132341/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 16132341,
+          "Synonym": [
+            "77591-33-4",
+            "Timbetasin",
+            "2D5MRE3SSY",
+            "timbetasinum",
+            "Timbetasina",
+            "Timbetasine",
+            "RefChem:933074",
+            "3,11,25,31,38-pentakis(de-N6-acetyl)-1,22,30,33-tetrakis(de-O3-phosphono)thymosin beta 4 (human)",
+            "Thymosin beta4",
+            "Thymosin beta(4)",
+            "Thymosin beta4 Acetate",
+            "THYMOSIN BETA 4 ACETATE",
+            "Fx Peptide",
+            "Thymosin beta4 (ox)",
+            "Thymosin beta4 (human)",
+            "Tbeta4",
+            "Thymosin b4 acetate",
+            "Timbetasin [USAN]",
+            "UNII-2D5MRE3SSY",
+            "Thymosin beta 4,Thymosin |A4",
+            "DTXSID70228259",
+            "GLXC-25753",
+            "EX-A7410",
+            "WHO 10716",
+            "AKOS024457598",
+            "AC-8936",
+            "DA-79183",
+            "FL110017",
+            "PD133788",
+            "Ac-SDKPDMAEIEKFDKSKL^KKTETQEKNPLPSKETIEQEKQAGES-OH",
+            "([13C6]Leu17)-Thymosin b4 (human, bovine, horse, rat)"
+          ]
+        }
+      ]
+    }
+  }
+}

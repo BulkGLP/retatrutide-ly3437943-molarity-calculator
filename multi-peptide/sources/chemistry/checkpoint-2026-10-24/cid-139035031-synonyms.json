@@ -1,0 +1,25 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:09.214883+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 139035031,
+          "Synonym": [
+            "Copper tripeptide",
+            "GHK-Cu",
+            "[N2-(N-Glycyl-L-histidyl)-L-lysinato(2-)]copper",
+            "HY-P0063",
+            "EX-A13486",
+            "CS-0015088",
+            "Gly-His-Lys-Cu(II), Copper Peptide(GHK-Cu)"
+          ]
+        }
+      ]
+    }
+  }
+}

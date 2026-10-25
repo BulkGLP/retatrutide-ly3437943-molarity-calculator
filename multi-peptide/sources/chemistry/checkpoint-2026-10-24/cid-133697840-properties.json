@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/133697840/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:08.036726+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/133697840/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 133697840,
+          "MolecularFormula": "C28H48CuN12O8",
+          "MolecularWeight": "744.3",
+          "ExactMass": "743.301404",
+          "MonoisotopicMass": "743.301404",
+          "Title": "GHK-Cu"
+        }
+      ]
+    }
+  }
+}

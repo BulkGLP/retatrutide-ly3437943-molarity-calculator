@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:08.657872+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 176418766,
+          "MolecularFormula": "C15H24CuN6O4",
+          "MolecularWeight": "415.94",
+          "ExactMass": "415.115500",
+          "MonoisotopicMass": "415.115500",
+          "Title": "copper (2S)-6-amino-2-[[(2S)-2-[(2S)-2-aminopropanoyl]azanidyl-3-(1H-imidazol-4-yl)propanoyl]amino]hexanoate"
+        }
+      ]
+    }
+  }
+}

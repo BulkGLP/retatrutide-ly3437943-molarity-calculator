@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/167312269/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:09.365769+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/167312269/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 167312269,
+          "Synonym": [
+            "FOXO4-DRI TFA salt form",
+            "FOXO4-DRI",
+            "2460055-10-9"
+          ]
+        }
+      ]
+    }
+  }
+}

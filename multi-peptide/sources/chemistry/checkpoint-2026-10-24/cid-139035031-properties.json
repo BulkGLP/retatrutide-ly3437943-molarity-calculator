@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:08.292369+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 139035031,
+          "MolecularFormula": "C14H21CuN6O4-",
+          "MolecularWeight": "400.90",
+          "ExactMass": "400.092025",
+          "MonoisotopicMass": "400.092025",
+          "Title": "Copper tripeptide"
+        }
+      ]
+    }
+  }
+}

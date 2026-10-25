@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/168431240/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_at_utc": "2026-10-24T20:58:35.161140+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/168431240/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 168431240,
+          "MolecularFormula": "C228H388N86O64",
+          "MolecularWeight": "5358",
+          "ExactMass": "5356.9817220",
+          "MonoisotopicMass": "5354.9750124",
+          "Title": "H-D-Leu-D-Thr-D-Leu-D-Arg-D-Lys-D-Glu-D-Pro-D-Ala-D-Ser-D-Glu-D-Ile-D-Ala-D-Gln-D-Ser-D-Ile-D-Leu-D-Glu-D-Ala-D-Tyr-D-Ser-D-Gln-D-Asn-Gly-D-Trp-D-Ala-D-Asn-D-Arg-D-Arg-D-Ser-Gly-Gly-Lys-Arg-Pro-DL-Pro-DL-Pro-Arg-Arg-Arg-Gln-Arg-Arg-Lys-Lys-Arg-Gly-OH"
+        }
+      ]
+    }
+  }
+}

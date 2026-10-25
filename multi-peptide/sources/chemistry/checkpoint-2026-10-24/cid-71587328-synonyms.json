@@ -1,0 +1,56 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71587328/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:09.079024+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71587328/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 71587328,
+          "Synonym": [
+            "Prezatide copper",
+            "89030-95-5",
+            "Copper tripeptide-1",
+            "GHK copper",
+            "CG-copper peptide",
+            "Oristar Cu-GHK",
+            "Mask Pack",
+            "UNII-6BJQ43T1I9",
+            "6BJQ43T1I9",
+            "Copper Tripeptide 1",
+            "Skin Delight Mask Pack Plus",
+            "Copper, (N2-(N-glycyl-L-histidyl)-L-lysinato(2-))-",
+            "DTXSID20237492",
+            "Copper, (glycyl-kappaN-L-histidyl-kappaN,kappaN3-L-lysinato(2-))-",
+            "Dermaheal Skin Delight Mask Pack Plus",
+            "NEWSTEM Rx FRACTIONAL REPAIR Energy Ampoule",
+            "RefChem:59048",
+            "DTXCID20159983",
+            "Copper Tripeptide-1 (0.001%)",
+            "Copper tripeptide",
+            "GHK-Cu",
+            "copper;(2S)-6-amino-2-[[(2S)-2-[(2-aminoacetyl)amino]-3-(1H-imidazol-5-yl)propanoyl]amino]hexanoate",
+            "Copper Peptide",
+            "[N2-(N-Glycyl-L-histidyl)-L-lysinato(2-)]copper",
+            "Copper tripeptide-1 [INCI]",
+            "Copper tripeptide?",
+            "GHK Cu Copper Peptide",
+            "Copper tripeptide-1.xHOAc",
+            "SCHEMBL29397091",
+            "Copper peptide(GHK-Cu) TFA salt",
+            "DB14683",
+            "FC138108",
+            "FC180071",
+            "SY253680",
+            "Glycyl-histidyl-lysine monocopper TFA salt",
+            "Copper Peptide pound 1:1 pound(c) Acetate",
+            "Q27264447",
+            "Copper(II) (S)-6-Amino-2-[(S)-2-(2-aminoacetamido)-3-(1H-imidazol-5-yl)propanamido]hexanoate"
+          ]
+        }
+      ]
+    }
+  }
+}

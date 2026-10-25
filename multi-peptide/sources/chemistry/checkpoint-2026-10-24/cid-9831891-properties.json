@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:07.716387+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 9831891,
+          "MolecularFormula": "C28H46CuN12O8",
+          "MolecularWeight": "742.3",
+          "ExactMass": "741.285754",
+          "MonoisotopicMass": "741.285754",
+          "Title": "Bisprezatide copper"
+        }
+      ]
+    }
+  }
+}

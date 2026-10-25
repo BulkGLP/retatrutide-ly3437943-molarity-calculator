@@ -1,0 +1,21 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62707662/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_at_utc": "2026-10-24T20:57:08.006750+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62707662/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 62707662,
+          "MolecularFormula": "C38H68N10O14",
+          "MolecularWeight": "889.0",
+          "ExactMass": "888.49164688",
+          "MonoisotopicMass": "888.49164688",
+          "Title": "Unii-qhk6Z47gtg"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62707662/synonyms/JSON",
+  "retrieved_at_utc": "2026-10-24T20:58:35.535762+00:00",
+  "evidence_role": "Candidate reference only; no catalog species assignment.",
+  "http_status": 200,
+  "final_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62707662/synonyms/JSON",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 62707662,
+          "Synonym": [
+            "TB500",
+            "885340-08-9",
+            "UNII-QHK6Z47GTG",
+            "TB-500",
+            "QHK6Z47GTG",
+            "Ac-Leu-Lys-Lys-Thr-Glu-Thr-Gln-OH",
+            "(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-acetamido-4-methylpentanoyl]amino]-6-aminohexanoyl]amino]-6-aminohexanoyl]amino]-3-hydroxybutanoyl]amino]-4-carboxybutanoyl]amino]-3-hydroxybutanoyl]amino]-5-amino-5-oxopentanoic acid",
+            "TB 500",
+            "L-Glutamine, N-acetyl-L-leucyl-L-lysyl-L-lysyl-L-threonyl-L-alpha-glutamyl-L-threonyl-",
+            "N-Acetyl-L-leucyl-L-lysyl-L-lysyl-L-threonyl-L-alpha-glutamyl-L-threonyl-L-glutamine",
+            "TB 500 acetate",
+            "(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-acetamido-4-methylpentanoyl]amino]-6-aminohexanoyl]amino]-6-aminohexanoyl]amino]-3-hydroxybutanoyl]amino]-4-carboxybutanoyl]amino]-3-hydroxybutanoyl]amino]-5-amino-5-oxopentanoic acid; TB 500",
+            "HY-P0170",
+            "orb1296653",
+            "SCHEMBL30625295",
+            "WZG0210",
+            "GLXC-23044",
+            "GLXC-26514",
+            "EX-A7411",
+            "MSK30023",
+            "C38H68N10O14",
+            "MFCD31692428",
+            "TB500?",
+            "TP1328",
+            "AKOS040763972",
+            "CS-6213",
+            "DA-58320",
+            "FT183581",
+            "MS-31657",
+            "G16402",
+            "N-Acetyl-L-leucyl-L-lysyl-L-lysyl-L-threonyl-L-|A-glutamyl-L-threonyl-L-glutamine",
+            "(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S,3R)-2-[[(2S)-2-[[(2S)-2-[[(2S)-2-acetamido-4-methyl-pentanoyl]amino]-6-amino-hexanoyl]amino]-6-amino-hexanoyl]amino]-3-hydroxy-butanoyl]amino]-4-carboxy-butanoyl]amino]-3-hydroxy-butanoyl]amino]-5-amino-5-oxo-pentanoic acid"
+          ]
+        }
+      ]
+    }
+  }
+}
