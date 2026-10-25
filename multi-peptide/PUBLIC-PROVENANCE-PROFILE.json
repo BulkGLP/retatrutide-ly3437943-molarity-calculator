@@ -1,0 +1,111 @@
+{
+  "edition": "2026.10.R3",
+  "public_sources_only": true,
+  "local_only_supplemental_reports_distributed": false,
+  "metadata_local_paths_redacted": true,
+  "analytical_report_bytes_changed": false,
+  "metadata_redactions": [
+    {
+      "file": "inputs/catalog-products.json",
+      "json_fields": [
+        "sources/local_products_snapshot/original_file",
+        "sources/local_retatrutide_catalog_snapshot/original_file"
+      ],
+      "original_metadata_sha256": "22f118281a32163a9df5dfa7282b892abd82881ff9351e985868ba85ed45ca9a",
+      "public_metadata_sha256": "fed36a1c49214dfea1d597e7ea41bb8b3c639d351c9b601a32af69141cf2aa47",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/adamax-current-page-fetch.json",
+      "json_fields": [
+        "htmlPath"
+      ],
+      "original_metadata_sha256": "8c7f88a3809e87edbf8050c2e1b280fb2a880149de19b3db7a212e28598df2ff",
+      "public_metadata_sha256": "3ab071affc1c35524cd93885a5198032ee05c530da5f7ecff90d43188edd316f",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/asset-fetch-manifest.json",
+      "json_fields": [
+        "0/saved_file",
+        "1/saved_file",
+        "2/saved_file",
+        "3/saved_file"
+      ],
+      "original_metadata_sha256": "167b72b32de3cb90983f936cd44a6f05edf93dd6a4cab54a53420870f0fa50d9",
+      "public_metadata_sha256": "db3e6be6dc4820ef982652f7d12cf28a391674ce22989300382b6be7bc72a8dd",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/current-site-observations.json",
+      "json_fields": [
+        "files/0/path",
+        "files/1/path",
+        "files/2/path",
+        "files/3/path",
+        "files/4/path",
+        "files/5/path",
+        "files/6/path",
+        "files/7/path",
+        "files/8/path",
+        "files/9/path",
+        "files/10/path",
+        "files/11/path",
+        "files/12/path",
+        "files/13/path",
+        "files/14/path",
+        "files/15/path",
+        "files/16/path",
+        "files/17/path",
+        "files/18/path",
+        "files/19/path",
+        "files/20/path",
+        "files/21/path",
+        "files/22/path",
+        "files/23/path"
+      ],
+      "original_metadata_sha256": "847739c13d3fc8dfd34292abdad5f113ebbe548bfd5c9c4242a4db9f7647dbfb",
+      "public_metadata_sha256": "c0b9623337d85710e4cc43ad1cb05d6737637f91bc6419a9c63862415569afb4",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/foxo4-current-page-fetch.json",
+      "json_fields": [
+        "htmlPath"
+      ],
+      "original_metadata_sha256": "56a6e94f21f1dde8ae86a878735bd1638737bbc546c376eb075ba697d2918522",
+      "public_metadata_sha256": "32cedd75f6dfab53ceef56bc52a40c442d02e62bdf5e0dc0054cfb38b26be9e5",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    },
+    {
+      "file": "sources/catalog/checkpoint-2026-10-24/page-fetch-manifest.json",
+      "json_fields": [
+        "0/saved_html",
+        "1/saved_html"
+      ],
+      "original_metadata_sha256": "121dfd8fa65345a48d63dbffcc0daad01929f5476600fc738cd6722199d77ea0",
+      "public_metadata_sha256": "6c60edfacb8501f10da98f5d2807878ab3295183f0e412191b325b6f2dd73005",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    },
+    {
+      "file": "sources/catalog/snapshot-catalog.json.meta.json",
+      "json_fields": [
+        "original_file"
+      ],
+      "original_metadata_sha256": "8aee192c23fb48691d637fd058e730eb619e1380c125a51e58c5c1ed107129bc",
+      "public_metadata_sha256": "1249d2f7ddd3973ed54fdda3debbc834638d059af32c34eb30b0074ada78565f",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    },
+    {
+      "file": "sources/catalog/snapshot-products.json.meta.json",
+      "json_fields": [
+        "original_file"
+      ],
+      "original_metadata_sha256": "83c898511009d16c2c2010ffb3f03ad49a60915c08b11b1163582cb4e34a8285",
+      "public_metadata_sha256": "d28a10fb99f5c7f4874f1e0ac97d56e033386345aab8804dd8d3d54707209f40",
+      "scope": "Metadata-only local path removal. Public analytical report/image/PDF bytes unchanged."
+    }
+  ],
+  "scientific_scope": "Source transcriptions and explicitly declared reference conventions, not independent laboratory authentication.",
+  "deployment": "Additive /multi-peptide/ on existing GitHub Pages; preserve legacy root calculator and its 4731.33 convention."
+}

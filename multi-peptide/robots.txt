@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bulkglp.github.io/retatrutide-ly3437943-molarity-calculator/multi-peptide/sitemap.xml

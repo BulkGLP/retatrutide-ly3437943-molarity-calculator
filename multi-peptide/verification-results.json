@@ -1,0 +1,116 @@
+{
+  "edition": "2026.10.R3",
+  "checked_at_utc": "2026-10-25T17:16:31.820198+00:00",
+  "exit_code": 0,
+  "checks": 6827,
+  "errors": [],
+  "warnings": [
+    "Stoichiometry withheld: thymalin-10mg",
+    "Stoichiometry withheld: foxo4-10mg",
+    "Stoichiometry withheld: adamax",
+    "Stoichiometry withheld: ahk-cu-10000mg"
+  ],
+  "counts": {
+    "products": 44,
+    "chemical_reference_rows": 34,
+    "matrix_rows": 152,
+    "coa_records": 49,
+    "products_with_coa": 28,
+    "products_with_molarity": 30
+  },
+  "catalog_accounting": {
+    "full_catalog_accounted_for": true,
+    "full_catalog_molarity_complete": false,
+    "completeness_semantics": "Full catalog accounting includes supported reference models, explicit non-single-species exclusions, nonpeptide references outside the peptide matrix, and explicit withheld stoichiometry dispositions. Publication readiness requires complete accounting and successful integrity/disclosure verification; it does not require invented masses or full mathematical completeness. Full catalog molarity remains false while sequence/specification gaps or the Thymalin catalog versus Thymulin/nonathymulin nomenclature conflict remain. This flag never represents measured lot concentrations.",
+    "products": 44,
+    "disposition_counts": {
+      "computed_peptide_reference": 30,
+      "stoichiometry_withheld_catalog_coa_nomenclature_conflict": 1,
+      "stoichiometry_withheld_pending_sequence_specification": 3,
+      "verified_non_peptide_reference_outside_matrix": 2,
+      "non_single_species_exclusion": 8
+    },
+    "unresolved_identity_product_slugs": [
+      "foxo4-10mg",
+      "adamax",
+      "ahk-cu-10000mg"
+    ],
+    "withheld_stoichiometry_product_slugs": [
+      "thymalin-10mg",
+      "foxo4-10mg",
+      "adamax",
+      "ahk-cu-10000mg"
+    ],
+    "conditional_identity_conflict_product_slugs": [
+      "thymalin-10mg"
+    ],
+    "exclusions_are_computed_molarities": false,
+    "source_inventory_capture_date": "2026-10-22",
+    "accounting_review_date": "2026-10-25"
+  },
+  "http_fresh": true,
+  "publication_performed": false,
+  "publication_ready": true,
+  "publication_gate": {
+    "full_catalog_accounted_for": true,
+    "all_integrity_arithmetic_coa_link_disclosure_checks_pass": true,
+    "full_catalog_molarity_complete_required": false
+  },
+  "full_catalog_accounted_for": true,
+  "full_catalog_molarity_complete": false,
+  "unresolved_identity_product_slugs": [
+    "foxo4-10mg",
+    "adamax",
+    "ahk-cu-10000mg"
+  ],
+  "conditional_reference_product_slugs": [
+    "ghk-cu",
+    "ghk-cu-10000mg",
+    "tb-500"
+  ],
+  "nomenclature_conflict_product_slugs": [
+    "thymalin-10mg"
+  ],
+  "withheld_stoichiometry_product_slugs": [
+    "adamax",
+    "ahk-cu-10000mg",
+    "foxo4-10mg",
+    "thymalin-10mg"
+  ],
+  "reviewed_coa_records_with_notes": [
+    "2606190267",
+    "2608100935",
+    "2608100934",
+    "2601130180",
+    "2604170178",
+    "2605280331",
+    "2605280340",
+    "2604170171",
+    "2605210281",
+    "2608100932",
+    "2606190258",
+    "31112",
+    "2509300035",
+    "2601130170",
+    "2601130172",
+    "2601130176",
+    "2601130178",
+    "2605210278",
+    "2605210279",
+    "2605280328",
+    "2606190261",
+    "2608100929",
+    "2604170180",
+    "2604170180",
+    "2604170180",
+    "2605280343",
+    "2605280337",
+    "2605280346",
+    "2608100933",
+    "2605210276",
+    "2605280325",
+    "2605280334"
+  ],
+  "verification_scope": "Artifact integrity, deterministic arithmetic, source/transcription correspondence, exhaustive scientific catalog accounting, current-site source correspondence, disclosures and HTTP targets. Exclusions and withheld dispositions are not computed molarities. Does not remeasure or independently authenticate laboratory results. Raster correspondence relies on recorded visual review of hash-locked originals.",
+  "publication_recommendation": "Ready for publication as an explicitly scoped reference compilation; mathematical completeness remains false and deployment must be verified separately."
+}

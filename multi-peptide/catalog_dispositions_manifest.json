@@ -1,0 +1,946 @@
+{
+  "edition": "2026.10.R3",
+  "review_date": "2026-10-25",
+  "summary": {
+    "full_catalog_accounted_for": true,
+    "full_catalog_molarity_complete": false,
+    "completeness_semantics": "Full catalog accounting includes supported reference models, explicit non-single-species exclusions, nonpeptide references outside the peptide matrix, and explicit withheld stoichiometry dispositions. Publication readiness requires complete accounting and successful integrity/disclosure verification; it does not require invented masses or full mathematical completeness. Full catalog molarity remains false while sequence/specification gaps or the Thymalin catalog versus Thymulin/nonathymulin nomenclature conflict remain. This flag never represents measured lot concentrations.",
+    "products": 44,
+    "disposition_counts": {
+      "computed_peptide_reference": 30,
+      "stoichiometry_withheld_catalog_coa_nomenclature_conflict": 1,
+      "stoichiometry_withheld_pending_sequence_specification": 3,
+      "verified_non_peptide_reference_outside_matrix": 2,
+      "non_single_species_exclusion": 8
+    },
+    "unresolved_identity_product_slugs": [
+      "foxo4-10mg",
+      "adamax",
+      "ahk-cu-10000mg"
+    ],
+    "withheld_stoichiometry_product_slugs": [
+      "thymalin-10mg",
+      "foxo4-10mg",
+      "adamax",
+      "ahk-cu-10000mg"
+    ],
+    "conditional_identity_conflict_product_slugs": [
+      "thymalin-10mg"
+    ],
+    "exclusions_are_computed_molarities": false,
+    "source_inventory_capture_date": "2026-10-22",
+    "accounting_review_date": "2026-10-25"
+  },
+  "products": [
+    {
+      "product_slug": "tesamorelin",
+      "product_name": "Tesamorelin 10mg",
+      "canonical_url": "https://bulkglp.com/product/tesamorelin/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/tesamorelin/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "sermorelin",
+      "product_name": "Sermorelin 10mg",
+      "canonical_url": "https://bulkglp.com/product/sermorelin/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/sermorelin/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "cjc-1295-with-dac-10mg",
+      "product_name": "CJC-1295 with DAC 10mg",
+      "canonical_url": "https://bulkglp.com/product/cjc-1295-with-dac-10mg/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/cjc-1295-with-dac-10mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "ghk-cu",
+      "product_name": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/ghk-cu/",
+      "nominal_sizes": [
+        {
+          "value": 100,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/ghk-cu/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Conditional theoretical model: assume a neutral 1:1 GHK:Cu parent complex C14H22CuN6O4, PubChem CID10111685, 401.91 g/mol, with nominal mass equal to net anhydrous parent-complex mass. This declares a reference convention; the catalog and sold lot do not establish that stoichiometry, protonation, hydration or net complex content."
+    },
+    {
+      "product_slug": "thymalin-10mg",
+      "product_name": "Thymalin 10mg",
+      "canonical_url": "https://bulkglp.com/product/thymalin-10mg/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/thymalin-10mg/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "stoichiometry_withheld_catalog_coa_nomenclature_conflict",
+      "reason": "Stoichiometry withheld: the catalog product is named Thymalin, while COA2608100933 names Thymulin. Free nonathymulin is a defined candidate peptide, not proof that the catalog Thymalin preparation is that species. Supplier reconciliation of exact sequence or preparation composition, stereochemistry, termini, zinc/counterion/hydration state and net parent content is required. No CAS, formula, molar mass or molarity is assigned to this catalog product."
+    },
+    {
+      "product_slug": "foxo4-10mg",
+      "product_name": "FOXO4 10mg",
+      "canonical_url": "https://bulkglp.com/product/foxo4-10mg/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/foxo4-10mg/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "stoichiometry_withheld_pending_sequence_specification",
+      "reason": "FOXO4 denotes a protein/gene-associated target and does not identify the supplied peptide sequence, stereochemistry, termini or cell-penetrating conjugate. FOXO4-DRI is a candidate only; catalog identity is not established."
+    },
+    {
+      "product_slug": "pt-141",
+      "product_name": "PT-141 Peptide — 10mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/pt-141/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/pt-141/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "epitalon-50mg",
+      "product_name": "Epitalon 50mg",
+      "canonical_url": "https://bulkglp.com/product/epitalon-50mg/",
+      "nominal_sizes": [
+        {
+          "value": 50,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/epitalon-50mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "aicar",
+      "product_name": "AICAR 50mg",
+      "canonical_url": "https://bulkglp.com/product/aicar/",
+      "nominal_sizes": [
+        {
+          "value": 50,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/aicar/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "verified_non_peptide_reference_outside_matrix",
+      "reason": "Non-peptide support material is outside the peptide molarity matrix."
+    },
+    {
+      "product_slug": "adamax",
+      "product_name": "Adamax Peptide — 10mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/adamax/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/adamax/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "stoichiometry_withheld_pending_sequence_specification",
+      "reason": "Catalog describes an N-acetylated Semax analogue with a C-terminal adamantane modification, but provides no exact sequence, linker, attachment chemistry or verified registry identifier. PubChem name lookup returned no record. No mass inferred from Semax."
+    },
+    {
+      "product_slug": "ara-290",
+      "product_name": "ARA-290 Peptide — 10mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/ara-290/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/ara-290/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "ss-31-1000mg",
+      "product_name": "SS-31 Research Powder — 1000mg (1g)",
+      "canonical_url": "https://bulkglp.com/product/ss-31-1000mg/",
+      "nominal_sizes": [
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/ss-31-1000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "ta-1-10mg",
+      "product_name": "TA-1 10mg",
+      "canonical_url": "https://bulkglp.com/product/ta-1-10mg/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/ta-1-10mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "ghk-cu-10000mg",
+      "product_name": "GHK-Cu Research Powder — 10g (10,000mg)",
+      "canonical_url": "https://bulkglp.com/product/ghk-cu-10000mg/",
+      "nominal_sizes": [
+        {
+          "value": 10000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/ghk-cu-10000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Conditional theoretical model: assume a neutral 1:1 GHK:Cu parent complex C14H22CuN6O4, PubChem CID10111685, 401.91 g/mol, with nominal mass equal to net anhydrous parent-complex mass. This declares a reference convention; the catalog and sold lot do not establish that stoichiometry, protonation, hydration or net complex content."
+    },
+    {
+      "product_slug": "thymosin-ta-1-1000mg",
+      "product_name": "Thymosin Alpha-1 Research Powder — 1000mg (1g)",
+      "canonical_url": "https://bulkglp.com/product/thymosin-ta-1-1000mg/",
+      "nominal_sizes": [
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/thymosin-ta-1-1000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "ahk-cu-10000mg",
+      "product_name": "AHK-Cu Research Powder — 10g (10,000mg)",
+      "canonical_url": "https://bulkglp.com/product/ahk-cu-10000mg/",
+      "nominal_sizes": [
+        {
+          "value": 10000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/ahk-cu-10000mg/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "stoichiometry_withheld_pending_sequence_specification",
+      "reason": "Catalog identifies Ala-His-Lys copper complex but does not resolve protonation, counterions, ligand:copper ratio or hydration. PubChem name lookup resolves to a hydrochloride species; other deposited AHK-Cu structures have different formulas. No single mass assigned."
+    },
+    {
+      "product_slug": "selank-1000mg",
+      "product_name": "Selank Research Powder — 1000mg (1g)",
+      "canonical_url": "https://bulkglp.com/product/selank-1000mg/",
+      "nominal_sizes": [
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/selank-1000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "semax-1000mg",
+      "product_name": "Semax Research Powder — 1000mg (1g)",
+      "canonical_url": "https://bulkglp.com/product/semax-1000mg/",
+      "nominal_sizes": [
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/semax-1000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "vip-1000mg",
+      "product_name": "VIP Research Powder — 1000mg (1g)",
+      "canonical_url": "https://bulkglp.com/product/vip-1000mg/",
+      "nominal_sizes": [
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/vip-1000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "glp1s-1000mg",
+      "product_name": "Semaglutide Research Powder — 1000mg (1g)",
+      "canonical_url": "https://bulkglp.com/product/glp1s-1000mg/",
+      "nominal_sizes": [
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/glp1s-1000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "glp2t-1000mg",
+      "product_name": "Tirzepatide Research Powder — 1000mg (1g)",
+      "canonical_url": "https://bulkglp.com/product/glp2t-1000mg/",
+      "nominal_sizes": [
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/glp2t-1000mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "lipotropic-c",
+      "product_name": "Lipotropic C",
+      "canonical_url": "https://bulkglp.com/product/lipotropic-c/",
+      "nominal_sizes": [],
+      "offer_formats": [
+        "single unit",
+        "single unit",
+        "10-unit pack",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/lipotropic-c/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Multi-component liquid formulation with B12/NADH options; no single molecular formula or molar mass."
+    },
+    {
+      "product_slug": "ll-37",
+      "product_name": "LL-37",
+      "canonical_url": "https://bulkglp.com/product/ll-37/",
+      "nominal_sizes": [
+        {
+          "value": 5,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/ll-37/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "melanotan-2",
+      "product_name": "Melanotan 2 (MT-2) Peptide — 10mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/melanotan-2/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/melanotan-2/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "vip",
+      "product_name": "VIP",
+      "canonical_url": "https://bulkglp.com/product/vip/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/vip/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "tirzepatide",
+      "product_name": "Tirzepatide Peptide 40mg",
+      "canonical_url": "https://bulkglp.com/product/tirzepatide/",
+      "nominal_sizes": [
+        {
+          "value": 40,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/tirzepatide/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "semaglutide",
+      "product_name": "Semaglutide Peptide 20mg",
+      "canonical_url": "https://bulkglp.com/product/semaglutide/",
+      "nominal_sizes": [
+        {
+          "value": 20,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/semaglutide/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "melanotan-1-mt-1",
+      "product_name": "Melanotan 1 (MT-1)",
+      "canonical_url": "https://bulkglp.com/product/melanotan-1-mt-1/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/melanotan-1-mt-1/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "shb",
+      "product_name": "SHB Super Human Blend",
+      "canonical_url": "https://bulkglp.com/product/shb/",
+      "nominal_sizes": [],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/shb/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Mixture of amino acids, L-carnitine and NAC; no single molecular formula or molar mass."
+    },
+    {
+      "product_slug": "lipotropic-b",
+      "product_name": "Lipotropic B",
+      "canonical_url": "https://bulkglp.com/product/lipotropic-b/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mL"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "single unit",
+        "10-unit pack",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/lipotropic-b/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Multi-component liquid formulation with B12 options; no single molecular formula or molar mass."
+    },
+    {
+      "product_slug": "vitamin-b12",
+      "product_name": "Vitamin B12",
+      "canonical_url": "https://bulkglp.com/product/vitamin-b12/",
+      "nominal_sizes": [],
+      "offer_formats": [
+        "single unit",
+        "single unit",
+        "10-unit pack",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/vitamin-b12/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Multiple chemical forms and supplied solution: no single product molar mass or molarity assigned."
+    },
+    {
+      "product_slug": "kpv",
+      "product_name": "KPV Peptide – 10 mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/kpv/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/kpv/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "tb-500",
+      "product_name": "TB-500",
+      "canonical_url": "https://bulkglp.com/product/tb-500/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/tb-500/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Conditional theoretical reference model based on current linked COA2605280346 Identity(LC-MS): Thymosin Beta-4: full-length human N-acetylated thymosin beta-4/timbetasin parent, C212H350N56O78S, 4963 g/mol. This is not the Ac-LKKTETQ fragment (889 g/mol). Assume nominal mass equals net anhydrous parent-peptide mass; the commercial TB-500 name alone does not establish this species or every lot/variant."
+    },
+    {
+      "product_slug": "glow-blend",
+      "product_name": "Glow Blend",
+      "canonical_url": "https://bulkglp.com/product/glow-blend/",
+      "nominal_sizes": [
+        {
+          "value": 70,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/glow-blend/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Mixture of GHK-Cu, BPC-157 and an explicitly named Ac-LKKTETQ TB-500 fragment; no single molecular formula or molar mass exists."
+    },
+    {
+      "product_slug": "bpc-157-tb-500-blend",
+      "product_name": "Wolverine Peptide (BPC-157 + TB-500 Blend)",
+      "canonical_url": "https://bulkglp.com/product/bpc-157-tb-500-blend/",
+      "nominal_sizes": [],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/bpc-157-tb-500-blend/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Mixture of BPC-157 and TB-500; catalog does not establish exact TB-500 sequence, component amounts or ratio. No single molecular mass."
+    },
+    {
+      "product_slug": "selank",
+      "product_name": "Selank Peptide – Lyophilized Research Vial 10 mg",
+      "canonical_url": "https://bulkglp.com/product/selank/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/selank/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "semax",
+      "product_name": "Semax Peptide — 10mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/semax/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/semax/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "mots-c-10mg-20mg",
+      "product_name": "MOTS-c Peptide – Research Vial 10 mg, 20 mg, 40 mg",
+      "canonical_url": "https://bulkglp.com/product/mots-c-10mg-20mg/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        },
+        {
+          "value": 20,
+          "unit": "mg"
+        },
+        {
+          "value": 40,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "single unit",
+        "single unit",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/mots-c-10mg-20mg/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 12,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "nad-plus",
+      "product_name": "NAD+",
+      "canonical_url": "https://bulkglp.com/product/nad-plus/",
+      "nominal_sizes": [
+        {
+          "value": 500,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/nad-plus/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "verified_non_peptide_reference_outside_matrix",
+      "reason": "Non-peptide support material is outside the peptide molarity matrix."
+    },
+    {
+      "product_slug": "bpc-157-peptide-research-vials",
+      "product_name": "BPC-157 Research Peptide – 10 mg Vial",
+      "canonical_url": "https://bulkglp.com/product/bpc-157-peptide-research-vials/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/bpc-157-peptide-research-vials/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 4,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "reconstitution-solution",
+      "product_name": "Bac Water for Peptides — Reconstitution Solution 10mL 2-Pack",
+      "canonical_url": "https://bulkglp.com/product/reconstitution-solution/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mL"
+        }
+      ],
+      "offer_formats": [
+        "box of two vials"
+      ],
+      "reference_page": "compounds/reconstitution-solution/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Bacteriostatic water formulation labeled 0.9% benzyl alcohol; support solution, not a single peptide species."
+    },
+    {
+      "product_slug": "retatrutide-powder",
+      "product_name": "Retatrutide Powder (LY3437943) — 500mg & 1g",
+      "canonical_url": "https://bulkglp.com/product/retatrutide-powder/",
+      "nominal_sizes": [
+        {
+          "value": 500,
+          "unit": "mg"
+        },
+        {
+          "value": 1000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "single unit"
+      ],
+      "reference_page": "compounds/retatrutide-powder/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 8,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    },
+    {
+      "product_slug": "klow-peptide",
+      "product_name": "KLOW Peptide – BPC-157, KPV, TB-500, GHK-Cu",
+      "canonical_url": "https://bulkglp.com/product/klow-peptide/",
+      "nominal_sizes": [
+        {
+          "value": 80,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/klow-peptide/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "accounting_status": "non_single_species_exclusion",
+      "reason": "Mixture of GHK-Cu, BPC-157, KPV and an explicitly named Ac-LKKTETQ TB-500 fragment; no single molecular formula or molar mass exists."
+    },
+    {
+      "product_slug": "retatrutide",
+      "product_name": "Retatrutide Peptide Vials (LY3437943)",
+      "canonical_url": "https://bulkglp.com/product/retatrutide/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        },
+        {
+          "value": 12,
+          "unit": "mg"
+        },
+        {
+          "value": 15,
+          "unit": "mg"
+        },
+        {
+          "value": 20,
+          "unit": "mg"
+        },
+        {
+          "value": 30,
+          "unit": "mg"
+        },
+        {
+          "value": 50,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "single unit",
+        "single unit",
+        "single unit",
+        "single unit",
+        "10-unit pack",
+        "single unit",
+        "single unit",
+        "single unit",
+        "single unit",
+        "single unit",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/retatrutide/index.html",
+      "molarity_computed": true,
+      "matrix_rows": 24,
+      "accounting_status": "computed_peptide_reference",
+      "reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration."
+    }
+  ]
+}

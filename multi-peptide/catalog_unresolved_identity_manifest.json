@@ -1,0 +1,810 @@
+{
+  "review_date": "2026-10-25",
+  "full_catalog_molarity_complete": false,
+  "products": [
+    {
+      "product_slug": "thymalin-10mg",
+      "product_name": "Thymalin 10mg",
+      "canonical_url": "https://bulkglp.com/product/thymalin-10mg/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/thymalin-10mg/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "original_flag_reason": "Stoichiometry withheld: the catalog product is named Thymalin, while COA2608100933 names Thymulin. Free nonathymulin is a defined candidate peptide, not proof that the catalog Thymalin preparation is that species. Supplier reconciliation of exact sequence or preparation composition, stereochemistry, termini, zinc/counterion/hydration state and net parent content is required. No CAS, formula, molar mass or molarity is assigned to this catalog product.",
+      "supplier_data_needed": "Supplier must reconcile Thymalin catalog name with Thymulin report 2608100933; provide exact sequence/termini/stereochemistry and zinc state if a defined thymulin species, or the characterized composition and species count if a thymic extract/preparation.",
+      "candidate_reference_count": 1,
+      "candidate_selection": "No candidate selected; database identity does not establish catalog or lot identity."
+    },
+    {
+      "product_slug": "foxo4-10mg",
+      "product_name": "FOXO4 10mg",
+      "canonical_url": "https://bulkglp.com/product/foxo4-10mg/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/foxo4-10mg/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "original_flag_reason": "FOXO4 denotes a protein/gene-associated target and does not identify the supplied peptide sequence, stereochemistry, termini or cell-penetrating conjugate. FOXO4-DRI is a candidate only; catalog identity is not established.",
+      "supplier_data_needed": "Exact active-lot peptide sequence, D/L stereochemistry, terminal groups, cell-penetrating tag/linker, salt/hydration state and net parent-peptide mass. Confirm whether it is FOXO4-DRI, FOXO4-L or another FOXO4-derived construct.",
+      "candidate_reference_count": 1,
+      "candidate_selection": "No candidate selected; database identity does not establish catalog or lot identity."
+    },
+    {
+      "product_slug": "adamax",
+      "product_name": "Adamax Peptide — 10mg Research Vial",
+      "canonical_url": "https://bulkglp.com/product/adamax/",
+      "nominal_sizes": [
+        {
+          "value": 10,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit",
+        "10-unit pack"
+      ],
+      "reference_page": "compounds/adamax/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "original_flag_reason": "Catalog describes an N-acetylated Semax analogue with a C-terminal adamantane modification, but provides no exact sequence, linker, attachment chemistry or verified registry identifier. PubChem name lookup returned no record. No mass inferred from Semax.",
+      "supplier_data_needed": "Exact active-lot peptide sequence/stereochemistry, N-acetyl group, structure and attachment site of adamantane, linker chemistry, terminal group, salt/hydration state and net parent-peptide mass; an unambiguous structure or validated registry identity.",
+      "candidate_reference_count": 0,
+      "candidate_selection": "No candidate selected; database identity does not establish catalog or lot identity."
+    },
+    {
+      "product_slug": "ahk-cu-10000mg",
+      "product_name": "AHK-Cu Research Powder — 10g (10,000mg)",
+      "canonical_url": "https://bulkglp.com/product/ahk-cu-10000mg/",
+      "nominal_sizes": [
+        {
+          "value": 10000,
+          "unit": "mg"
+        }
+      ],
+      "offer_formats": [
+        "single unit"
+      ],
+      "reference_page": "compounds/ahk-cu-10000mg/index.html",
+      "molarity_computed": false,
+      "matrix_rows": 0,
+      "original_flag_reason": "Catalog identifies Ala-His-Lys copper complex but does not resolve protonation, counterions, ligand:copper ratio or hydration. PubChem name lookup resolves to a hydrochloride species; other deposited AHK-Cu structures have different formulas. No single mass assigned.",
+      "supplier_data_needed": "Active-lot signed specification: Ala-His-Lys stereochemistry; ligand:copper ratio; charge/protonation; hydrochloride or other counterion and hydration state; quantitative net parent-complex content of the 10 g powder.",
+      "candidate_reference_count": 3,
+      "candidate_selection": "No candidate selected; database identity does not establish catalog or lot identity."
+    }
+  ],
+  "primary_identity_review": {
+    "review_date": "2026-10-24",
+    "reviewed_at_utc": "2026-10-24T21:07:41.903317+00:00",
+    "scope": "Local scientific identity review of captured October 22 catalog. No supplier specification was obtained and no production change or publication performed.",
+    "unresolved_identity_products": [
+      {
+        "product_slug": "foxo4-10mg",
+        "product_name": "FOXO4 10mg",
+        "canonical_url": "https://bulkglp.com/product/foxo4-10mg/",
+        "nominal_sizes": [
+          {
+            "value": 10,
+            "unit": "mg"
+          }
+        ],
+        "offer_formats": [
+          "single unit",
+          "10-unit pack"
+        ],
+        "original_flag_reason": "FOXO4 denotes a protein/gene-associated target and does not identify the supplied peptide sequence, stereochemistry, termini or cell-penetrating conjugate. FOXO4-DRI is a candidate only; catalog identity is not established.",
+        "resolution_status": "unresolved_identity",
+        "supplier_data_needed": "Exact active-lot peptide sequence, D/L stereochemistry, terminal groups, cell-penetrating tag/linker, salt/hydration state and net parent-peptide mass. Confirm whether it is FOXO4-DRI, FOXO4-L or another FOXO4-derived construct.",
+        "scientific_decision": "Withhold unique CAS, molecular formula, molar mass and computed molarity until unambiguous supplier material specifications are available. Database synonyms/candidates are insufficient to select product identity.",
+        "candidate_references": [
+          {
+            "pubchem_cid": 167312269,
+            "name": "Foxo4-dri",
+            "formula": "C228H388N86O64",
+            "average_molar_mass_g_mol": "5358",
+            "cas_like_synonyms": [
+              "2460055-10-9"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/167312269/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/167312269",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/167312269/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-167312269-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-167312269-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 168431240,
+            "name": "H-D-Leu-D-Thr-D-Leu-D-Arg-D-Lys-D-Glu-D-Pro-D-Ala-D-Ser-D-Glu-D-Ile-D-Ala-D-Gln-D-Ser-D-Ile-D-Leu-D-Glu-D-Ala-D-Tyr-D-Ser-D-Gln-D-Asn-Gly-D-Trp-D-Ala-D-Asn-D-Arg-D-Arg-D-Ser-Gly-Gly-Lys-Arg-Pro-DL-Pro-DL-Pro-Arg-Arg-Arg-Gln-Arg-Arg-Lys-Lys-Arg-Gly-OH",
+            "formula": "C228H388N86O64",
+            "average_molar_mass_g_mol": "5358",
+            "cas_like_synonyms": [
+              "2460055-10-9"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/168431240/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/168431240",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/168431240/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-168431240-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-168431240-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          }
+        ],
+        "catalog_evidence_file": "sources/catalog/foxo4-10mg.extracted.json",
+        "catalog_evidence_literal": "FOXO4 is listed as a 10 mg research peptide for laboratory work involving FOXO4-associated signaling and protein-interaction methods. Check the supplied material and available lot documentation against the requirements of the assay. For controlled laboratory research only; not for human or animal use."
+      },
+      {
+        "product_slug": "adamax",
+        "product_name": "Adamax Peptide — 10mg Research Vial",
+        "canonical_url": "https://bulkglp.com/product/adamax/",
+        "nominal_sizes": [
+          {
+            "value": 10,
+            "unit": "mg"
+          }
+        ],
+        "offer_formats": [
+          "single unit",
+          "10-unit pack"
+        ],
+        "original_flag_reason": "Catalog describes an N-acetylated Semax analogue with a C-terminal adamantane modification, but provides no exact sequence, linker, attachment chemistry or verified registry identifier. PubChem name lookup returned no record. No mass inferred from Semax.",
+        "resolution_status": "unresolved_identity",
+        "supplier_data_needed": "Exact active-lot peptide sequence/stereochemistry, N-acetyl group, structure and attachment site of adamantane, linker chemistry, terminal group, salt/hydration state and net parent-peptide mass; an unambiguous structure or validated registry identity.",
+        "scientific_decision": "Withhold unique CAS, molecular formula, molar mass and computed molarity until unambiguous supplier material specifications are available. Database synonyms/candidates are insufficient to select product identity.",
+        "candidate_references": [],
+        "catalog_evidence_file": "sources/catalog/adamax.extracted.json",
+        "catalog_evidence_literal": "Adamax is listed as a 10 mg research peptide and a modified Semax analogue. The source describes an N-terminal acetyl group and a C-terminal adamantane modification. Review product identity and available lot documentation before selecting material for an experiment. For laboratory research only; not for human or veterinary use."
+      },
+      {
+        "product_slug": "ahk-cu-10000mg",
+        "product_name": "AHK-Cu Research Powder — 10g (10,000mg)",
+        "canonical_url": "https://bulkglp.com/product/ahk-cu-10000mg/",
+        "nominal_sizes": [
+          {
+            "value": 10000,
+            "unit": "mg"
+          }
+        ],
+        "offer_formats": [
+          "single unit"
+        ],
+        "original_flag_reason": "Catalog identifies Ala-His-Lys copper complex but does not resolve protonation, counterions, ligand:copper ratio or hydration. PubChem name lookup resolves to a hydrochloride species; other deposited AHK-Cu structures have different formulas. No single mass assigned.",
+        "resolution_status": "unresolved_identity",
+        "supplier_data_needed": "Active-lot signed specification: Ala-His-Lys stereochemistry; ligand:copper ratio; charge/protonation; hydrochloride or other counterion and hydration state; quantitative net parent-complex content of the 10 g powder.",
+        "scientific_decision": "Withhold unique CAS, molecular formula, molar mass and computed molarity until unambiguous supplier material specifications are available. Database synonyms/candidates are insufficient to select product identity.",
+        "candidate_references": [
+          {
+            "pubchem_cid": 168431292,
+            "name": "copper;(2S)-6-amino-2-[[(2S)-2-[(2S)-2-azanidylpropanoyl]azanidyl-3-(1H-imidazol-4-yl)propanoyl]amino]hexanoate;hydrochloride",
+            "formula": "C15H24ClCuN6O4-",
+            "average_molar_mass_g_mol": "451.39",
+            "cas_like_synonyms": [
+              "682809-81-0"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/168431292/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/168431292",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/168431292/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-168431292-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-168431292-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 176418766,
+            "name": "copper (2S)-6-amino-2-[[(2S)-2-[(2S)-2-aminopropanoyl]azanidyl-3-(1H-imidazol-4-yl)propanoyl]amino]hexanoate",
+            "formula": "C15H24CuN6O4",
+            "average_molar_mass_g_mol": "415.94",
+            "cas_like_synonyms": [],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/176418766",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-176418766-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-176418766-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 178189140,
+            "name": "CID 178189140",
+            "formula": "C15H23CuN6O4-2",
+            "average_molar_mass_g_mol": "414.93",
+            "cas_like_synonyms": [
+              "767286-83-9"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/178189140/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/178189140",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/178189140/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-178189140-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-178189140-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          }
+        ],
+        "catalog_evidence_file": "sources/catalog/ahk-cu-10000mg.extracted.json",
+        "catalog_evidence_literal": "AHK-Cu raw research powder is listed in a nominal 10 g (10,000 mg) quantity. The source identifies the Ala-His-Lys copper complex, which is distinct from GHK-Cu. Review available lot and packaging details before ordering. For laboratory research only; not for human or veterinary use."
+      }
+    ],
+    "resolved_reference_products": [
+      {
+        "product_slug": "ghk-cu",
+        "product_name": "GHK-Cu Peptide (GHKCu) — 100mg Research Vial",
+        "canonical_url": "https://bulkglp.com/product/ghk-cu/",
+        "nominal_sizes": [
+          {
+            "value": 100,
+            "unit": "mg"
+          }
+        ],
+        "offer_formats": [
+          "single unit",
+          "10-unit pack"
+        ],
+        "original_flag_reason": "Catalog names the copper(II) complex but does not establish ligand:copper stoichiometry, protonation, counterions or hydration. PubChem name resolution returns multiple copper complexes with different masses. No single GHK-Cu mass is assigned.",
+        "resolution_status": "explicit_neutral_1_to_1_reference_model",
+        "supplier_data_needed": "Active-lot signed specification: GHK ligand sequence/stereochemistry; ligand:copper ratio; charge/protonation; counterion and hydration state; quantitative net parent-complex mass per 100 mg labeled vial.",
+        "scientific_decision": "A supported named reference convention is sufficient for theoretical arithmetic; no independent lot identification is required. Select only the neutral 1:1 GHK-Cu model linked by GSRS to PubChemCID10111685. Retain explicit net-parent-complex mass and sold-lot composition caveats.",
+        "candidate_references": [
+          {
+            "pubchem_cid": 139035031,
+            "name": "Copper tripeptide",
+            "formula": "C14H21CuN6O4-",
+            "average_molar_mass_g_mol": "400.90",
+            "cas_like_synonyms": [],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/139035031",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-139035031-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-139035031-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 9831891,
+            "name": "Bisprezatide copper",
+            "formula": "C28H46CuN12O8",
+            "average_molar_mass_g_mol": "742.3",
+            "cas_like_synonyms": [
+              "130120-56-8",
+              "300801-03-0"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/9831891",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-9831891-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-9831891-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 71587328,
+            "name": "Prezatide copper",
+            "formula": "C14H23CuN6O4+",
+            "average_molar_mass_g_mol": "402.92",
+            "cas_like_synonyms": [
+              "89030-95-5"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71587328/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/71587328",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71587328/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-71587328-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-71587328-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 133697840,
+            "name": "GHK-Cu",
+            "formula": "C28H48CuN12O8",
+            "average_molar_mass_g_mol": "744.3",
+            "cas_like_synonyms": [
+              "300801-03-0"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/133697840/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/133697840",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/133697840/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-133697840-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-133697840-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 165429100,
+            "name": "N2-(N-glycyl-L-histidyl)-L-Lysine, copper complex",
+            "formula": "C14H22CuN6O4",
+            "average_molar_mass_g_mol": "401.91",
+            "cas_like_synonyms": [],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/165429100/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/165429100",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/165429100/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-165429100-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-165429100-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          }
+        ],
+        "catalog_evidence_file": "sources/catalog/ghk-cu.extracted.json",
+        "catalog_evidence_literal": "GHK-Cu, also called copper tripeptide-1 or GHKCu, is supplied in 100 mg research vials, available individually or in 10-packs. Quantity refers to the selected format. Use the product and lot information to identify the material and review available analytical documentation. For laboratory research and development only; not for human or veterinary use.",
+        "assigned_reference": {
+          "cas": "89030-95-5",
+          "formula": "C14H22CuN6O4",
+          "average_molar_mass_g_mol": "401.91",
+          "pubchem_cid": 10111685,
+          "gsrs_unii": "6BJQ43T1I9",
+          "reference_scope": "Neutral 1:1 anhydrous parent complex; conditional model, not lot assay."
+        }
+      },
+      {
+        "product_slug": "thymalin-10mg",
+        "product_name": "Thymalin 10mg",
+        "canonical_url": "https://bulkglp.com/product/thymalin-10mg/",
+        "nominal_sizes": [
+          {
+            "value": 10,
+            "unit": "mg"
+          }
+        ],
+        "offer_formats": [
+          "single unit",
+          "10-unit pack"
+        ],
+        "original_flag_reason": "Thymalin is described in primary literature as a natural thymic peptide preparation. PubChem name lookup resolves to nonathymulin (thymulin peptide moiety), which does not establish identity of this catalog product. Require exact sequence or mixture characterization.",
+        "resolution_status": "conditional_named_coa_parent_reference_model",
+        "supplier_data_needed": "Supplier must reconcile Thymalin catalog name with Thymulin report 2608100933; provide exact sequence/termini/stereochemistry and zinc state if a defined thymulin species, or the characterized composition and species count if a thymic extract/preparation.",
+        "scientific_decision": "Conditional theoretical reference model only: current linked COA2608100933 names Identity(LC-MS): Thymulin, whereas the catalog and report product title say Thymalin. Model the defined free nonathymulin peptide parent CID3085284, C33H54N12O15, 858.9 g/mol, without zinc/counterions/hydrates, assuming nominal mass equals net parent mass. This does not resolve the Thymalin/Thymulin naming conflict or identify a natural thymic preparation as a single peptide.",
+        "candidate_references": [
+          {
+            "pubchem_cid": 3085284,
+            "name": "Nonathymulin",
+            "formula": "C33H54N12O15",
+            "average_molar_mass_g_mol": "858.9",
+            "cas_like_synonyms": [
+              "63958-90-7"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3085284/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/3085284",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3085284/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-3085284-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-3085284-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 71300623,
+            "name": "Thymulin",
+            "formula": "C33H54N12O15",
+            "average_molar_mass_g_mol": "858.9",
+            "cas_like_synonyms": [
+              "78922-62-0"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71300623/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/71300623",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71300623/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-71300623-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-71300623-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          }
+        ],
+        "catalog_evidence_file": "sources/catalog/thymalin-10mg.extracted.json",
+        "catalog_evidence_literal": "Thymalin is listed as a 10 mg thymic-peptide research material. The source describes laboratory work involving peptide-preparation characterization and analytical methods. Confirm the product and available lot documentation before selecting material for an experiment. For controlled laboratory research only; not for human or animal use.",
+        "assigned_reference": {
+          "cas": "63958-90-7",
+          "formula": "C33H54N12O15",
+          "average_molar_mass_g_mol": "858.9",
+          "pubchem_cid": 3085284,
+          "reference_scope": "Conditional anhydrous named-parent model; catalog/report ambiguities retained, not independent lot assay."
+        }
+      },
+      {
+        "product_slug": "ghk-cu-10000mg",
+        "product_name": "GHK-Cu Research Powder — 10g (10,000mg)",
+        "canonical_url": "https://bulkglp.com/product/ghk-cu-10000mg/",
+        "nominal_sizes": [
+          {
+            "value": 10000,
+            "unit": "mg"
+          }
+        ],
+        "offer_formats": [
+          "single unit"
+        ],
+        "original_flag_reason": "Catalog names the copper(II) complex but does not establish ligand:copper stoichiometry, protonation, counterions or hydration. PubChem name resolution returns multiple copper complexes with different masses. No single GHK-Cu mass is assigned.",
+        "resolution_status": "explicit_neutral_1_to_1_reference_model",
+        "supplier_data_needed": "Active-lot signed specification: GHK ligand sequence/stereochemistry; ligand:copper ratio; charge/protonation; counterion and hydration state; quantitative net parent-complex content of the 10 g powder.",
+        "scientific_decision": "A supported named reference convention is sufficient for theoretical arithmetic; no independent lot identification is required. Select only the neutral 1:1 GHK-Cu model linked by GSRS to PubChemCID10111685. Retain explicit net-parent-complex mass and sold-lot composition caveats.",
+        "candidate_references": [
+          {
+            "pubchem_cid": 139035031,
+            "name": "Copper tripeptide",
+            "formula": "C14H21CuN6O4-",
+            "average_molar_mass_g_mol": "400.90",
+            "cas_like_synonyms": [],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/139035031",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/139035031/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-139035031-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-139035031-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 9831891,
+            "name": "Bisprezatide copper",
+            "formula": "C28H46CuN12O8",
+            "average_molar_mass_g_mol": "742.3",
+            "cas_like_synonyms": [
+              "130120-56-8",
+              "300801-03-0"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/9831891",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/9831891/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-9831891-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-9831891-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 71587328,
+            "name": "Prezatide copper",
+            "formula": "C14H23CuN6O4+",
+            "average_molar_mass_g_mol": "402.92",
+            "cas_like_synonyms": [
+              "89030-95-5"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71587328/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/71587328",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/71587328/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-71587328-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-71587328-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 133697840,
+            "name": "GHK-Cu",
+            "formula": "C28H48CuN12O8",
+            "average_molar_mass_g_mol": "744.3",
+            "cas_like_synonyms": [
+              "300801-03-0"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/133697840/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/133697840",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/133697840/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-133697840-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-133697840-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 165429100,
+            "name": "N2-(N-glycyl-L-histidyl)-L-Lysine, copper complex",
+            "formula": "C14H22CuN6O4",
+            "average_molar_mass_g_mol": "401.91",
+            "cas_like_synonyms": [],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/165429100/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/165429100",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/165429100/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-165429100-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-165429100-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          }
+        ],
+        "catalog_evidence_file": "sources/catalog/ghk-cu-10000mg.extracted.json",
+        "catalog_evidence_literal": "GHK-Cu raw research powder is listed in a nominal 10 g (10,000 mg) quantity. It is the copper(II) complex of glycyl-L-histidyl-L-lysine. Confirm available packaging and lot documentation against your laboratory requirements before ordering. For laboratory research only; not for human or veterinary use.",
+        "assigned_reference": {
+          "cas": "89030-95-5",
+          "formula": "C14H22CuN6O4",
+          "average_molar_mass_g_mol": "401.91",
+          "pubchem_cid": 10111685,
+          "gsrs_unii": "6BJQ43T1I9",
+          "reference_scope": "Neutral 1:1 anhydrous parent complex; conditional model, not lot assay."
+        }
+      },
+      {
+        "product_slug": "tb-500",
+        "product_name": "TB-500",
+        "canonical_url": "https://bulkglp.com/product/tb-500/",
+        "nominal_sizes": [
+          {
+            "value": 10,
+            "unit": "mg"
+          }
+        ],
+        "offer_formats": [
+          "single unit",
+          "10-unit pack"
+        ],
+        "original_flag_reason": "The live catalog explicitly states that TB-500 does not define a unique sequence. Do not substitute the seven-residue N-acetyl fragment mass or full-length thymosin beta-4 mass without an exact lot sequence/specification.",
+        "resolution_status": "conditional_named_coa_parent_reference_model",
+        "supplier_data_needed": "Exact active-lot sequence, acetylation/terminal groups and stereochemistry; reconcile commercial TB-500 name and report 2605280346 Thymosin Beta-4 label; distinguish Ac-LKKTETQ fragment from full-length thymosin beta-4 and specify net parent-peptide mass.",
+        "scientific_decision": "Conditional theoretical reference model based on current linked COA2605280346 Identity(LC-MS): Thymosin Beta-4: full-length human N-acetylated thymosin beta-4/timbetasin parent, C212H350N56O78S, 4963 g/mol. This is not the Ac-LKKTETQ fragment (889 g/mol). Assume nominal mass equals net anhydrous parent-peptide mass; the commercial TB-500 name alone does not establish this species or every lot/variant.",
+        "candidate_references": [
+          {
+            "pubchem_cid": 62707662,
+            "name": "Unii-qhk6Z47gtg",
+            "formula": "C38H68N10O14",
+            "average_molar_mass_g_mol": "889.0",
+            "cas_like_synonyms": [
+              "885340-08-9"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62707662/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/62707662",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/62707662/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-62707662-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-62707662-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 45382195,
+            "name": "Thymosin Beta 4",
+            "formula": "C212H350N56O78S",
+            "average_molar_mass_g_mol": "4963",
+            "cas_like_synonyms": [],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/45382195/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/45382195",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/45382195/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-45382195-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-45382195-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          },
+          {
+            "pubchem_cid": 16132341,
+            "name": "Timbetasin",
+            "formula": "C212H350N56O78S",
+            "average_molar_mass_g_mol": "4963",
+            "cas_like_synonyms": [
+              "77591-33-4"
+            ],
+            "mass_convention": "PubChem source-rounded average MolecularWeight for this explicitly deposited reference structure; ExactMass/MonoisotopicMass are not used. Salt-containing candidates remain explicitly salt-containing. No lot or catalog mapping.",
+            "source_urls": [
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132341/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+              "https://pubchem.ncbi.nlm.nih.gov/compound/16132341",
+              "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132341/synonyms/JSON"
+            ],
+            "source_files": [
+              "sources/chemistry/checkpoint-2026-10-24/cid-16132341-properties.json",
+              "sources/chemistry/checkpoint-2026-10-24/cid-16132341-synonyms.json"
+            ],
+            "selected_for_catalog": false
+          }
+        ],
+        "catalog_evidence_file": "sources/catalog/tb-500.extracted.json",
+        "catalog_evidence_literal": "TB-500 is supplied as a research material for controlled laboratory use. The commercial name does not define a unique sequence. Review the active-lot specification and analytical report for exact molecular identity, formulation, measured content and reported tests. Not for human or veterinary use.",
+        "assigned_reference": {
+          "cas": "77591-33-4",
+          "formula": "C212H350N56O78S",
+          "average_molar_mass_g_mol": "4963.0",
+          "pubchem_cid": 16132341,
+          "reference_scope": "Conditional anhydrous named-parent model; catalog/report ambiguities retained, not independent lot assay."
+        }
+      }
+    ],
+    "reviewed_non_single_species_exclusions": [
+      {
+        "product_slug": "lipotropic-c",
+        "exclusion_kind": "mixture_or_solution",
+        "catalog_evidence_file": "sources/catalog/lipotropic-c.extracted.json",
+        "catalog_evidence_literal": "Lipotropic C is a liquid research blend with two options: Cyanocobalamin B12 (Original) and Methylcobalamin B12 + NADH (New). Select the formulation explicitly. The published cyanocobalamin report provides no numeric purity percentage and does not verify the newer formulation. Review formulation-specific documentation before selecting material for laboratory research."
+      },
+      {
+        "product_slug": "shb",
+        "exclusion_kind": "mixture_or_solution",
+        "catalog_evidence_file": "sources/catalog/shb.extracted.json",
+        "catalog_evidence_literal": "SHB Super Human Blend is a research blend containing amino acids, L-carnitine and NAC. Review the listed product and available formulation or lot documentation before selecting the material for laboratory work. The product is supplied for research use only; not for human or veterinary use."
+      },
+      {
+        "product_slug": "lipotropic-b",
+        "exclusion_kind": "mixture_or_solution",
+        "catalog_evidence_file": "sources/catalog/lipotropic-b.extracted.json",
+        "catalog_evidence_literal": "Lipotropic B is a liquid research blend with two formulations: Cyanocobalamin B12 (Original) and Methylcobalamin B12 (New). The Original formulation contains eight listed components, with the following nominal amounts per milliliter of solution: L-carnitine 20 mg, L-arginine 20 mg, methionine 25 mg, inositol 50 mg, choline 50 mg, vitamin B6 (pyridoxine) 25 mg, vitamin B5 (dexpanthenol) 25 mg and vitamin B12 (cyanocobalamin) 1 mg. The Original formulation is labeled as a 10 mL unit. Its single-unit offer contains one unit, and its 10-pack contains ten units of that same formulation, totaling a nominal 100 mL. These concentrations and volume apply to the Original formulation; they are not assigned to the New Methylcobalamin formulation. The published cyanocobalamin sample report lists identity and other tests but no numeric purity percentage. Both formulations have single-unit offers and matching 10-unit packs."
+      },
+      {
+        "product_slug": "vitamin-b12",
+        "exclusion_kind": "multiple_formulation_product_listing",
+        "catalog_evidence_file": "sources/catalog/vitamin-b12.extracted.json",
+        "catalog_evidence_literal": "Vitamin B12 is available as Cyanocobalamin (Cyano) or Methylcobalamin (Methyl). Choose the formulation explicitly and review its documentation. The Blue Cap COA on the source listing applies to cyanocobalamin only and does not cover methylcobalamin. For laboratory research only; not for human or veterinary use."
+      },
+      {
+        "product_slug": "glow-blend",
+        "exclusion_kind": "mixture_or_solution",
+        "catalog_evidence_file": "sources/catalog/glow-blend.extracted.json",
+        "catalog_evidence_literal": "GLOW Blend contains a nominal 70 mg per vial: 50 mg GHK-Cu, 10 mg BPC-157 and 10 mg TB-500. The source identifies the TB-500 component as Ac-LKKTETQ, an acetylated seven-residue fragment, not full-length thymosin beta-4. Match the lot to its analytical report. For laboratory research only."
+      },
+      {
+        "product_slug": "bpc-157-tb-500-blend",
+        "exclusion_kind": "mixture_or_solution",
+        "catalog_evidence_file": "sources/catalog/bpc-157-tb-500-blend.extracted.json",
+        "catalog_evidence_literal": "Wolverine is a combined lyophilized BPC-157 and TB-500 research material, also called the Wolverine blend. Confirm the supplied lot's component identities, amounts, ratio and formulation. No lot-specific COA is currently linked on the source listing. For in-vitro laboratory research only; not for human or veterinary use."
+      },
+      {
+        "product_slug": "reconstitution-solution",
+        "exclusion_kind": "mixture_or_solution",
+        "catalog_evidence_file": "sources/catalog/reconstitution-solution.extracted.json",
+        "catalog_evidence_literal": "BNG Scientific bacteriostatic water, also called reconstitution solution, is labeled 0.9% benzyl alcohol. One box contains two 10 mL vials; quantity 1 means one box, and individual vials are not sold separately. Review the matching lot COA. For laboratory research only; not for human or veterinary use."
+      },
+      {
+        "product_slug": "klow-peptide",
+        "exclusion_kind": "mixture_or_solution",
+        "catalog_evidence_file": "sources/catalog/klow-peptide.extracted.json",
+        "catalog_evidence_literal": "KLOW is a nominal 80 mg research blend containing BPC-157, KPV, TB-500 and GHK-Cu. The source identifies its TB-500 component as Ac-LKKTETQ, the acetylated seven-residue thymosin beta-4 fragment. Review current lot-specific identity and quantitative-content documentation. For laboratory research only; not for human or veterinary use."
+      }
+    ],
+    "literature_sources": [
+      {
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5556182/",
+        "finding": "Baar et al. define a particular FOXO4-DRI sequence, D stereochemistry and cell-entry construct. The catalog does not identify that construct; no product mapping follows."
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/22962027/",
+        "finding": "Esposito et al. identified Ac-LKKTETQ in the particular tested TB-500 formulation. This does not define every commercial TB-500 material."
+      },
+      {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/9637345/",
+        "finding": "Morozov and Khavinson describe extracted natural thymic peptides as Thymalin and a constituent isolated from that preparation. This does not establish the catalog material as nonathymulin."
+      }
+    ],
+    "source_access_notes": "Thirty-two PubChem property/synonym JSON snapshots refreshed successfully; GSRS full PREZATIDE COPPER record supplies the neutral GHK-Cu CAS/formula/CID cross-reference. Adamax exact compound-name lookup returned 404 No CID found, not proof that no structure/CAS exists anywhere. Direct literature HTTP was challenged; saved web-tool primary evidence supports the three literature summaries. CAS-like synonyms are database metadata, not independent CAS Registry validation.",
+    "primary_literature_evidence_file": "sources/chemistry/checkpoint-2026-10-24/primary-web-evidence.json",
+    "current_site_review": {
+      "file": "sources/catalog/checkpoint-2026-10-24/current-site-review.json",
+      "findings": [
+        {
+          "product_slug": "foxo4-10mg",
+          "current_http_status": 200,
+          "findings": "Current full HTML/embedded product/JSON-LD has no CAS, exact sequence, DRI designation, stereochemistry, formula or molecular weight. No product COA is linked and current quality index has no FOXO4 entry. Readable label says FOXO4, 10MG, PURITY>=99%, without identity specification.",
+          "evidence_files": [
+            "foxo4-current-page.html",
+            "foxo4-current-embedded-product.json",
+            "foxo4-current-label.avif",
+            "foxo4-adamax-current-quality-index.html"
+          ]
+        },
+        {
+          "product_slug": "adamax",
+          "current_http_status": 200,
+          "findings": "Current full HTML specifies N-acetyl and C-terminal adamantane modifications but no exact sequence/linker/connectivity/CAS/formula/average g/mol. Current COA2606190267 identity Confirmed does not provide those fields. Its mass peaks are ion m/z, not a unique molecular structure or declared average mass.",
+          "evidence_files": [
+            "adamax-current-page.html",
+            "adamax-current-embedded-product.json",
+            "adamax-current-label.avif",
+            "adamax-current-coa-Bulk2606190267.pdf"
+          ]
+        },
+        {
+          "product_slug": "ahk-cu-10000mg",
+          "current_http_status": 200,
+          "findings": "Current HTML names Ala-His-Lys copper complex and10g nominal, has no specification table or CAS/formula/average mass/charge/salt fields, and no current product or quality-index COA. Front label lacks chemical identity details. Oblique tiny side text is not readable enough to establish absence of a field there.",
+          "evidence_files": [
+            "ahk-cu-10000mg.html",
+            "ahk-cu-10000mg.txt",
+            "ahk-cu-label.avif",
+            "current-site-observations.json",
+            "verified-quality.html"
+          ]
+        },
+        {
+          "product_slug": "tb-500",
+          "current_http_status": 200,
+          "findings": "Current generic catalog name explicitly does not define a unique sequence. Label has TB50010MG. Current linked COA2605280346 explicitly names Identity(LC-MS):Thymosin Beta-4; annotated multiply charged spectrum supports choosing the standard full-length named reference over the Ac-LKKTETQ fragment, without independent lot-sequence certification.",
+          "evidence_files": [
+            "tb-500-current.html",
+            "tb-500-current-extracted.json",
+            "tb-500-label.avif",
+            "tb-500-current-coa.pdf",
+            "tb-500-current-coa.txt"
+          ]
+        },
+        {
+          "product_slug": "thymalin-10mg",
+          "current_http_status": 200,
+          "findings": "Current catalog and report Product field say Thymalin; current linked COA2608100933 says Identity(LC-MS):Thymulin. Conditional free nonathymulin parent arithmetic is explicitly a reference model; product identity/name conflict remains unresolved. Graph [M+H]+858.900 is not substituted for average parent858.9g/mol.",
+          "evidence_files": [
+            "thymalin-10mg.html",
+            "thymalin-10mg.txt",
+            "thymalin-label.avif",
+            "Bulk2608100933.pdf",
+            "Bulk2608100933-layout.txt",
+            "coa-native-image-3-Image7.png"
+          ]
+        }
+      ]
+    }
+  }
+}
