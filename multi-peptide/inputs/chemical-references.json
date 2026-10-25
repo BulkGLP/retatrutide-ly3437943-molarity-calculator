@@ -1,0 +1,1616 @@
+{
+  "schema_version": 1,
+  "edition": "2026.10.R3",
+  "compiled_at_utc": "2026-10-22T05:47:30.807964+00:00",
+  "mass_convention": "Use the source-reported approximate average molar mass of the explicitly specified anhydrous parent reference species (g/mol), retaining source rounding. Not monoisotopic mass, ExactMass, ion m/z, salt/hydrate mass, total powder fill, or HPLC-area-adjusted mass.",
+  "allowed_molarity_semantics": "True permits a theoretical reference-species calculation only. It does not establish a real lot concentration, chemical identity, net peptide content, quantitative assay, suitable solvent, stability, or use in humans/animals.",
+  "references": [
+    {
+      "id": "tesamorelin",
+      "name": "Tesamorelin",
+      "slugs": [
+        "tesamorelin"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Reference is the modified 44-residue parent; counterions, hydrate water and excipients are excluded."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 16137828,
+      "cas": "218949-48-5",
+      "formula": "C221H366N72O67S",
+      "molar_mass_g_mol": 5136.0,
+      "source_reported_molecular_weight": "5136",
+      "monoisotopic_mass_da": 5132.7166406,
+      "database_exact_mass_da": 5134.7233503,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/16137828",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tesamorelin/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tesamorelin/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/tesamorelin-properties.json",
+        "sources/chemistry/tesamorelin-synonyms.json",
+        "sources/catalog/tesamorelin.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "sermorelin",
+      "name": "Sermorelin",
+      "slugs": [
+        "sermorelin"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Reference is GHRH(1-29) amide; not an acetate-salt formula."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 16132413,
+      "cas": "86168-78-7",
+      "formula": "C149H246N44O42S",
+      "molar_mass_g_mol": 3357.9,
+      "source_reported_molecular_weight": "3357.9",
+      "monoisotopic_mass_da": 3355.8186992,
+      "database_exact_mass_da": 3356.8220541,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/16132413",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sermorelin/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sermorelin/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/sermorelin-properties.json",
+        "sources/chemistry/sermorelin-synonyms.json",
+        "sources/catalog/sermorelin.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "cjc1295_dac",
+      "name": "CJC-1295 with DAC",
+      "slugs": [
+        "cjc-1295-with-dac-10mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "The DAC conjugation moiety is included; this is not modified GRF(1-29), commonly marketed as CJC-1295 without DAC."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 91971820,
+      "cas": "446262-90-4",
+      "formula": "C165H269N47O46",
+      "molar_mass_g_mol": 3647.2,
+      "source_reported_molecular_weight": "3647.2",
+      "monoisotopic_mass_da": 3645.0154843,
+      "database_exact_mass_da": 3646.0188391,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/91971820",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/CJC-1295/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/CJC-1295/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/cjc-1295-properties.json",
+        "sources/chemistry/cjc-1295-synonyms.json",
+        "sources/catalog/cjc-1295-with-dac-10mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "ghk_cu",
+      "name": "GHK-Cu: explicit neutral 1:1 prezatide-copper reference",
+      "slugs": [
+        "ghk-cu",
+        "ghk-cu-10000mg"
+      ],
+      "cas": "89030-95-5",
+      "formula": "C14H22CuN6O4",
+      "molar_mass_g_mol": 401.91,
+      "source_reported_molecular_weight": "401.91",
+      "pubchem_cid": 10111685,
+      "monoisotopic_mass_da": 401.09985,
+      "database_exact_mass_da": 401.09985,
+      "identity_status": "reference_species_supported_with_explicit_neutral_1_to_1_model",
+      "is_peptide": true,
+      "compound_class": "peptide_copper_complex_reference",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Conditional theoretical model: assume a neutral 1:1 GHK:Cu parent complex C14H22CuN6O4, PubChem CID10111685, 401.91 g/mol, with nominal mass equal to net anhydrous parent-complex mass. This declares a reference convention; the catalog and sold lot do not establish that stoichiometry, protonation, hydration or net complex content.",
+      "convention": "PubChem CID10111685 MolecularWeight 401.91 g/mol, rounded average for the neutral 1:1 parent complex C14H22CuN6O4. GSRS PREZATIDE COPPER / UNII6BJQ43T1I9 independently links CAS89030-95-5 and CID10111685 to equivalent formula C14H22N6O4.Cu and average401.9085. Use source-rounded401.91; do not substitute cation402.92, 2:1 ligand complexes or exact/monoisotopic mass.",
+      "notes": [
+        "Explicit reference model: neutral 1:1 GHK:Cu only. A primary registry linkage supports the named reference; this is not an identification or assay of the catalog lot.",
+        "PubChem name searches also return differently protonated/charged and 2:1 ligand complexes. Their formulas and masses remain alternative candidates and are not averaged or substituted.",
+        "CAS89030-95-5 is linked through the GSRS neutral structure and its explicit PubChemCID10111685 cross-reference. PubChemCID71587328 uses the same CAS synonym for a cationic one-hydrogen-heavier record; that record is not the neutral model.",
+        "Actual conversion from powder/vial label mass requires verified ligand:copper ratio, salt/hydration state and quantitative net parent-complex content. No lot-specific concentration is claimed."
+      ],
+      "candidate_references": [
+        {
+          "name": "Copper tripeptide",
+          "pubchem_cid": 139035031,
+          "cas": null,
+          "formula": "C14H21CuN6O4-",
+          "molar_mass_g_mol": 400.9,
+          "source_reported_molecular_weight": "400.90",
+          "monoisotopic_mass_da": 400.092025,
+          "database_exact_mass_da": 400.092025,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/139035031",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ghk-cu-properties.json",
+            "sources/chemistry/ghk-cu-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        },
+        {
+          "name": "Bisprezatide copper",
+          "pubchem_cid": 9831891,
+          "cas": null,
+          "formula": "C28H46CuN12O8",
+          "molar_mass_g_mol": 742.3,
+          "source_reported_molecular_weight": "742.3",
+          "monoisotopic_mass_da": 741.285754,
+          "database_exact_mass_da": 741.285754,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/9831891",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ghk-cu-properties.json",
+            "sources/chemistry/ghk-cu-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        },
+        {
+          "name": "Prezatide copper",
+          "pubchem_cid": 71587328,
+          "cas": null,
+          "formula": "C14H23CuN6O4+",
+          "molar_mass_g_mol": 402.92,
+          "source_reported_molecular_weight": "402.92",
+          "monoisotopic_mass_da": 402.107675,
+          "database_exact_mass_da": 402.107675,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/71587328",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ghk-cu-properties.json",
+            "sources/chemistry/ghk-cu-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        },
+        {
+          "name": "GHK-Cu",
+          "pubchem_cid": 133697840,
+          "cas": null,
+          "formula": "C28H48CuN12O8",
+          "molar_mass_g_mol": 744.3,
+          "source_reported_molecular_weight": "744.3",
+          "monoisotopic_mass_da": 743.301404,
+          "database_exact_mass_da": 743.301404,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/133697840",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ghk-cu-properties.json",
+            "sources/chemistry/ghk-cu-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        },
+        {
+          "name": "N2-(N-glycyl-L-histidyl)-L-Lysine, copper complex",
+          "pubchem_cid": 165429100,
+          "cas": null,
+          "formula": "C14H22CuN6O4",
+          "molar_mass_g_mol": 401.91,
+          "source_reported_molecular_weight": "401.91",
+          "monoisotopic_mass_da": 401.09985,
+          "database_exact_mass_da": 401.09985,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/165429100",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/GHK-Cu/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ghk-cu-properties.json",
+            "sources/chemistry/ghk-cu-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/10111685",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/10111685/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://gsrs.ncats.nih.gov/api/v1/substances(63d90537-8bc7-4f27-970a-60eab6009eb1)?view=full",
+        "https://gsrs.ncats.nih.gov/ginas/app/substance/6BJQ43T1I9"
+      ],
+      "source_files": [
+        "sources/chemistry/checkpoint-2026-10-24/cid-10111685-properties.json",
+        "sources/chemistry/checkpoint-2026-10-24/cid-10111685-synonyms.json",
+        "sources/chemistry/checkpoint-2026-10-24/ghk-cu-gsrs-full.json",
+        "sources/catalog/ghk-cu.extracted.json",
+        "sources/catalog/ghk-cu-10000mg.extracted.json"
+      ]
+    },
+    {
+      "id": "thymalin",
+      "name": "Thymalin catalog material: stoichiometry withheld for Thymulin/nonathymulin nomenclature conflict",
+      "slugs": [
+        "thymalin-10mg"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "unresolved_catalog_coa_nomenclature_conflict",
+      "is_peptide": true,
+      "compound_class": "peptide_identity_unresolved",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Stoichiometry withheld: the catalog product is named Thymalin, while COA2608100933 names Thymulin. Free nonathymulin is a defined candidate peptide, not proof that the catalog Thymalin preparation is that species. Supplier reconciliation of exact sequence or preparation composition, stereochemistry, termini, zinc/counterion/hydration state and net parent content is required. No CAS, formula, molar mass or molarity is assigned to this catalog product.",
+      "convention": "No selected molecular species or assigned product molar mass. Candidate reference values are retained solely as identity-review provenance.",
+      "notes": [
+        "Catalog Thymalin and COA Thymulin are not treated as interchangeable identities. Thymalin may denote a natural thymic preparation; nonathymulin denotes a defined free peptide candidate.",
+        "The historical 858.9 g/mol nonathymulin candidate is not assigned to this product. No Thymalin matrix rows are included. The COA graph ion m/z is not an average molar mass or a unique structure specification."
+      ],
+      "candidate_references": [
+        {
+          "name": "Nonathymulin (name-search candidate; not assigned to Thymalin)",
+          "pubchem_cid": 3085284,
+          "cas": "63958-90-7",
+          "formula": "C33H54N12O15",
+          "molar_mass_g_mol": 858.9,
+          "source_reported_molecular_weight": "858.9",
+          "monoisotopic_mass_da": 858.38315906,
+          "database_exact_mass_da": 858.38315906,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/3085284",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymalin/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymalin/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/thymalin-properties.json",
+            "sources/chemistry/thymalin-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/3085284",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3085284/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/3085284/synonyms/JSON",
+        "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100933.pdf"
+      ],
+      "source_files": [
+        "sources/chemistry/checkpoint-2026-10-24/cid-3085284-properties.json",
+        "sources/chemistry/checkpoint-2026-10-24/cid-3085284-synonyms.json",
+        "sources/catalog/thymalin-10mg.extracted.json",
+        "sources/coa/Bulk2608100933.pdf",
+        "sources/coa/Bulk2608100933.pdf.txt"
+      ],
+      "reported_identity_source_report": "2608100933"
+    },
+    {
+      "id": "foxo4",
+      "name": "FOXO4 catalog material",
+      "slugs": [
+        "foxo4-10mg"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "unresolved_catalog_species",
+      "is_peptide": true,
+      "compound_class": "peptide_identity_unresolved",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "FOXO4 denotes a protein/gene-associated target and does not identify the supplied peptide sequence, stereochemistry, termini or cell-penetrating conjugate. FOXO4-DRI is a candidate only; catalog identity is not established.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "FOXO4 denotes a protein/gene-associated target and does not identify the supplied peptide sequence, stereochemistry, termini or cell-penetrating conjugate. FOXO4-DRI is a candidate only; catalog identity is not established."
+      ],
+      "candidate_references": [
+        {
+          "name": "FOXO4-DRI (candidate only)",
+          "pubchem_cid": 167312269,
+          "cas": "2460055-10-9",
+          "formula": "C228H388N86O64",
+          "molar_mass_g_mol": 5358.0,
+          "source_reported_molecular_weight": "5358",
+          "monoisotopic_mass_da": 5354.9750124,
+          "database_exact_mass_da": 5356.981722,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/167312269",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/FOXO4-DRI/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/FOXO4-DRI/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/foxo4-dri-properties.json",
+            "sources/chemistry/foxo4-dri-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/167312269",
+        "https://pubmed.ncbi.nlm.nih.gov/28340339/"
+      ],
+      "source_files": [
+        "sources/catalog/foxo4-10mg.extracted.json",
+        "sources/chemistry/foxo4-dri-properties.json",
+        "sources/chemistry/foxo4-dri-synonyms.json",
+        "sources/chemistry/foxo4-primary-pubmed.html",
+        "sources/chemistry/primary-web-evidence.json"
+      ]
+    },
+    {
+      "id": "bremelanotide",
+      "name": "PT-141 / Bremelanotide",
+      "slugs": [
+        "pt-141"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Cyclic parent heptapeptide; not bremelanotide acetate or Melanotan II."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 9941379,
+      "cas": "189691-06-3",
+      "formula": "C50H68N14O10",
+      "molar_mass_g_mol": 1025.2,
+      "source_reported_molecular_weight": "1025.2",
+      "monoisotopic_mass_da": 1024.52428442,
+      "database_exact_mass_da": 1024.52428442,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/9941379",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Bremelanotide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Bremelanotide/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/bremelanotide-properties.json",
+        "sources/chemistry/bremelanotide-synonyms.json",
+        "sources/catalog/pt-141.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "epitalon",
+      "name": "Epitalon",
+      "slugs": [
+        "epitalon-50mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Reference sequence H-Ala-Glu-Asp-Gly-OH (AEDG); PubChem also lists CAS 64082-79-7."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 219042,
+      "cas": "307297-39-8",
+      "formula": "C14H22N4O9",
+      "molar_mass_g_mol": 390.35,
+      "source_reported_molecular_weight": "390.35",
+      "monoisotopic_mass_da": 390.13867829,
+      "database_exact_mass_da": 390.13867829,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/219042",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Epitalon/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Epitalon/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/epitalon-properties.json",
+        "sources/chemistry/epitalon-synonyms.json",
+        "sources/catalog/epitalon-50mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "acadesine",
+      "name": "AICAR / Acadesine nucleoside",
+      "slugs": [
+        "aicar"
+      ],
+      "identity_status": "reference_nucleoside_mapped_with_acronym_ambiguity",
+      "is_peptide": false,
+      "compound_class": "non_peptide_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Non-peptide support material is outside the peptide molarity matrix.",
+      "notes": [
+        "Catalog describes a nucleoside analogue, so the acadesine/AICA-riboside reference is shown. The abbreviation AICAR also names the phosphorylated ribonucleotide ZMP (PubChem CID65110, C9H15N4O8P, 338.21 g/mol). Identity is conditional on the catalog nucleoside description; obtain a specific CAS/structure for the supplied lot."
+      ],
+      "candidate_references": [
+        {
+          "name": "AICAR ribonucleotide / ZMP (not assigned)",
+          "pubchem_cid": 65110,
+          "cas": "3031-94-5",
+          "formula": "C9H15N4O8P",
+          "molar_mass_g_mol": 338.21,
+          "source_reported_molecular_weight": "338.21",
+          "monoisotopic_mass_da": 338.06275045,
+          "database_exact_mass_da": 338.06275045,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/65110",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AICAR/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AICAR/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/aicar-properties.json",
+            "sources/chemistry/aicar-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "pubchem_cid": 17513,
+      "cas": "2627-69-2",
+      "formula": "C9H14N4O5",
+      "molar_mass_g_mol": 258.23,
+      "source_reported_molecular_weight": "258.23",
+      "monoisotopic_mass_da": 258.09641956,
+      "database_exact_mass_da": 258.09641956,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/17513",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acadesine/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/acadesine/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/acadesine-properties.json",
+        "sources/chemistry/acadesine-synonyms.json",
+        "sources/catalog/aicar.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "adamax",
+      "name": "Adamax",
+      "slugs": [
+        "adamax"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "unresolved_catalog_species",
+      "is_peptide": true,
+      "compound_class": "peptide_identity_unresolved",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Catalog describes an N-acetylated Semax analogue with a C-terminal adamantane modification, but provides no exact sequence, linker, attachment chemistry or verified registry identifier. PubChem name lookup returned no record. No mass inferred from Semax.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Catalog describes an N-acetylated Semax analogue with a C-terminal adamantane modification, but provides no exact sequence, linker, attachment chemistry or verified registry identifier. PubChem name lookup returned no record. No mass inferred from Semax."
+      ],
+      "candidate_references": [],
+      "source_urls": [],
+      "source_files": [
+        "sources/catalog/adamax.extracted.json",
+        "sources/chemistry/adamax-properties.json",
+        "sources/chemistry/adamax-synonyms.json"
+      ]
+    },
+    {
+      "id": "cibinetide",
+      "name": "ARA-290 / Cibinetide",
+      "slugs": [
+        "ara-290"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Reference molecule only. The catalog reports a sample purity of 53.90% for the linked lot; HPLC area purity does not supply a valid net-peptide mass correction."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 91810664,
+      "cas": "1208243-50-8",
+      "formula": "C51H84N16O21",
+      "molar_mass_g_mol": 1257.3,
+      "source_reported_molecular_weight": "1257.3",
+      "monoisotopic_mass_da": 1256.59969375,
+      "database_exact_mass_da": 1256.59969375,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/91810664",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Cibinetide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Cibinetide/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/cibinetide-properties.json",
+        "sources/chemistry/cibinetide-synonyms.json",
+        "sources/catalog/ara-290.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "elamipretide",
+      "name": "SS-31 / Elamipretide",
+      "slugs": [
+        "ss-31-1000mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Modified tetrapeptide parent; counterions excluded."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 11764719,
+      "cas": "736992-21-5",
+      "formula": "C32H49N9O5",
+      "molar_mass_g_mol": 639.8,
+      "source_reported_molecular_weight": "639.8",
+      "monoisotopic_mass_da": 639.3856657,
+      "database_exact_mass_da": 639.3856657,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/11764719",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Elamipretide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Elamipretide/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/elamipretide-properties.json",
+        "sources/chemistry/elamipretide-synonyms.json",
+        "sources/catalog/ss-31-1000mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "thymosin_alpha1",
+      "name": "Thymosin alpha-1 / Thymalfasin",
+      "slugs": [
+        "ta-1-10mg",
+        "thymosin-ta-1-1000mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "N-acetylated 28-residue peptide parent. PubChem includes other CAS aliases; the stated identifier is not a claim about supplied salt form."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 16130571,
+      "cas": "62304-98-7",
+      "formula": "C129H215N33O55",
+      "molar_mass_g_mol": 3108.3,
+      "source_reported_molecular_weight": "3108.3",
+      "monoisotopic_mass_da": 3106.5041281,
+      "database_exact_mass_da": 3107.5074829,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/16130571",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymosin%20alpha%201/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymosin%20alpha%201/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/thymosin-alpha-1-properties.json",
+        "sources/chemistry/thymosin-alpha-1-synonyms.json",
+        "sources/catalog/ta-1-10mg.extracted.json",
+        "sources/catalog/thymosin-ta-1-1000mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "ahk_cu",
+      "name": "AHK-Cu",
+      "slugs": [
+        "ahk-cu-10000mg"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "unresolved_catalog_species",
+      "is_peptide": true,
+      "compound_class": "peptide_identity_unresolved",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Catalog identifies Ala-His-Lys copper complex but does not resolve protonation, counterions, ligand:copper ratio or hydration. PubChem name lookup resolves to a hydrochloride species; other deposited AHK-Cu structures have different formulas. No single mass assigned.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Catalog identifies Ala-His-Lys copper complex but does not resolve protonation, counterions, ligand:copper ratio or hydration. PubChem name lookup resolves to a hydrochloride species; other deposited AHK-Cu structures have different formulas. No single mass assigned."
+      ],
+      "candidate_references": [
+        {
+          "name": "AHK-Cu hydrochloride name-search candidate",
+          "pubchem_cid": 168431292,
+          "cas": null,
+          "formula": "C15H24ClCuN6O4-",
+          "molar_mass_g_mol": 451.39,
+          "source_reported_molecular_weight": "451.39",
+          "monoisotopic_mass_da": 450.084353,
+          "database_exact_mass_da": 450.084353,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/168431292",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AHK-Cu/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ahk-cu-properties.json",
+            "sources/chemistry/ahk-cu-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        },
+        {
+          "name": "copper (2S)-6-amino-2-[[(2S)-2-[(2S)-2-aminopropanoyl]azanidyl-3-(1H-imidazol-4-yl)propanoyl]amino]hexanoate",
+          "pubchem_cid": 176418766,
+          "cas": null,
+          "formula": "C15H24CuN6O4",
+          "molar_mass_g_mol": 415.94,
+          "source_reported_molecular_weight": "415.94",
+          "monoisotopic_mass_da": 415.1155,
+          "database_exact_mass_da": 415.1155,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/176418766",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766,178189140/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ahk-cu-alternative-properties.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        },
+        {
+          "name": "CID 178189140",
+          "pubchem_cid": 178189140,
+          "cas": null,
+          "formula": "C15H23CuN6O4-2",
+          "molar_mass_g_mol": 414.93,
+          "source_reported_molecular_weight": "414.93",
+          "monoisotopic_mass_da": 414.107675,
+          "database_exact_mass_da": 414.107675,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/178189140",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766,178189140/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/ahk-cu-alternative-properties.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/168431292",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AHK-Cu/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/AHK-Cu/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/compound/176418766",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/176418766,178189140/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/compound/178189140"
+      ],
+      "source_files": [
+        "sources/catalog/ahk-cu-10000mg.extracted.json",
+        "sources/chemistry/ahk-cu-properties.json",
+        "sources/chemistry/ahk-cu-synonyms.json",
+        "sources/chemistry/ahk-cu-alternative-properties.json"
+      ]
+    },
+    {
+      "id": "selank",
+      "name": "Selank",
+      "slugs": [
+        "selank",
+        "selank-1000mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Reference H-Thr-Lys-Pro-Arg-Pro-Gly-Pro-OH; counterions excluded."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 11765600,
+      "cas": "129954-34-3",
+      "formula": "C33H57N11O9",
+      "molar_mass_g_mol": 751.9,
+      "source_reported_molecular_weight": "751.9",
+      "monoisotopic_mass_da": 751.43407244,
+      "database_exact_mass_da": 751.43407244,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/11765600",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Selank/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Selank/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/selank-properties.json",
+        "sources/chemistry/selank-synonyms.json",
+        "sources/catalog/selank.extracted.json",
+        "sources/catalog/selank-1000mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "semax",
+      "name": "Semax",
+      "slugs": [
+        "semax",
+        "semax-1000mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Reference MEHFPGP heptapeptide; not an N-acetylated derivative."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 9811102,
+      "cas": "80714-61-0",
+      "formula": "C37H51N9O10S",
+      "molar_mass_g_mol": 813.9,
+      "source_reported_molecular_weight": "813.9",
+      "monoisotopic_mass_da": 813.34796003,
+      "database_exact_mass_da": 813.34796003,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/9811102",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Semax/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Semax/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/semax-properties.json",
+        "sources/chemistry/semax-synonyms.json",
+        "sources/catalog/semax.extracted.json",
+        "sources/catalog/semax-1000mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "vip",
+      "name": "VIP (human/porcine, C-terminal amide)",
+      "slugs": [
+        "vip",
+        "vip-1000mg"
+      ],
+      "identity_status": "reference_native_amidated_species_catalog_terminals_unverified",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Explicit reference model: H-HSDAVFTDNYTRLRKQMAVKKYLNSILN-NH2. The catalog identifies 28-residue VIP but does not independently confirm terminal chemistry. The numerical matrix assumes this native amidated reference; verify termini on the lot specification before use.",
+        "PubChem name lookup Aviptadil CID16132300 instead represents the free-acid form C147H237N43O43S, 3326.8 g/mol. That value is not used for the amidated VIP reference.",
+        "CAS37221-79-7 is the VIP identifier in the cited PubMed substance record; it does not prove the exact commercial salt or preparation."
+      ],
+      "candidate_references": [
+        {
+          "name": "VIP/aviptadil free-acid database record (not used)",
+          "pubchem_cid": 16132300,
+          "cas": "40077-57-4",
+          "formula": "C147H237N43O43S",
+          "molar_mass_g_mol": 3326.8,
+          "source_reported_molecular_weight": "3326.8",
+          "monoisotopic_mass_da": 3324.7401145,
+          "database_exact_mass_da": 3325.7434694,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/16132300",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aviptadil/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aviptadil/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/vip-aviptadil-properties.json",
+            "sources/chemistry/vip-aviptadil-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "pubchem_cid": 16140438,
+      "cas": "37221-79-7",
+      "formula": "C147H238N44O42S",
+      "molar_mass_g_mol": 3325.8,
+      "source_reported_molecular_weight": "3325.8",
+      "monoisotopic_mass_da": 3323.756099,
+      "database_exact_mass_da": 3324.7594538,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/16140438",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16140438/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16140438/synonyms/JSON",
+        "https://pubmed.ncbi.nlm.nih.gov/2171816/"
+      ],
+      "source_files": [
+        "sources/chemistry/vip-amidated-properties.json",
+        "sources/chemistry/vip-amidated-synonyms.json",
+        "sources/catalog/vip.extracted.json",
+        "sources/catalog/vip-1000mg.extracted.json",
+        "sources/chemistry/vip-amidated-pubmed.html",
+        "sources/chemistry/primary-literature-search-evidence.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "semaglutide",
+      "name": "Semaglutide",
+      "slugs": [
+        "semaglutide",
+        "glp1s-1000mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Includes lipid side-chain modification; anhydrous parent reference rather than sodium/acetate salt."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 56843331,
+      "cas": "910463-68-2",
+      "formula": "C187H291N45O59",
+      "molar_mass_g_mol": 4114.0,
+      "source_reported_molecular_weight": "4114",
+      "monoisotopic_mass_da": 4111.115377,
+      "database_exact_mass_da": 4112.1187318,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/56843331",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Semaglutide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Semaglutide/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/semaglutide-properties.json",
+        "sources/chemistry/semaglutide-synonyms.json",
+        "sources/catalog/semaglutide.extracted.json",
+        "sources/catalog/glp1s-1000mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "tirzepatide",
+      "name": "Tirzepatide",
+      "slugs": [
+        "tirzepatide",
+        "glp2t-1000mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Includes lipid side-chain modification. PubChem name lookup returns several deposited stereochemical representations with the same formula and reported average mass; CAS and catalog LY3298176 mapping are used."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 166567236,
+      "cas": "2023788-19-2",
+      "formula": "C225H348N48O68",
+      "molar_mass_g_mol": 4813.0,
+      "source_reported_molecular_weight": "4813",
+      "monoisotopic_mass_da": 4810.5248574,
+      "database_exact_mass_da": 4812.5315671,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/166567236",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tirzepatide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tirzepatide/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/tirzepatide-properties.json",
+        "sources/chemistry/tirzepatide-synonyms.json",
+        "sources/catalog/tirzepatide.extracted.json",
+        "sources/catalog/glp2t-1000mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "ll37",
+      "name": "LL-37",
+      "slugs": [
+        "ll-37"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Human 37-residue cathelicidin-derived parent reference; no salt or hydration mass added."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 16198951,
+      "cas": "154947-66-7",
+      "formula": "C205H340N60O53",
+      "molar_mass_g_mol": 4493.0,
+      "source_reported_molecular_weight": "4493",
+      "monoisotopic_mass_da": 4490.5754259,
+      "database_exact_mass_da": 4492.5821356,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/16198951",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/LL-37/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/LL-37/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/ll-37-properties.json",
+        "sources/chemistry/ll-37-synonyms.json",
+        "sources/catalog/ll-37.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "melanotan_ii",
+      "name": "Melanotan II",
+      "slugs": [
+        "melanotan-2"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Cyclic melanocortin analogue distinct from PT-141/bremelanotide."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 92432,
+      "cas": "121062-08-6",
+      "formula": "C50H69N15O9",
+      "molar_mass_g_mol": 1024.2,
+      "source_reported_molecular_weight": "1024.2",
+      "monoisotopic_mass_da": 1023.54026884,
+      "database_exact_mass_da": 1023.54026884,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/92432",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Melanotan%20II/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Melanotan%20II/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/melanotan-ii-properties.json",
+        "sources/chemistry/melanotan-ii-synonyms.json",
+        "sources/catalog/melanotan-2.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "afamelanotide",
+      "name": "Melanotan I / Afamelanotide",
+      "slugs": [
+        "melanotan-1-mt-1"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Acetylated 13-residue alpha-MSH analogue parent reference."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 16197727,
+      "cas": "75921-69-6",
+      "formula": "C78H111N21O19",
+      "molar_mass_g_mol": 1646.8,
+      "source_reported_molecular_weight": "1646.8",
+      "monoisotopic_mass_da": 1645.8365104,
+      "database_exact_mass_da": 1645.8365104,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/16197727",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Afamelanotide/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Afamelanotide/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/afamelanotide-properties.json",
+        "sources/chemistry/afamelanotide-synonyms.json",
+        "sources/catalog/melanotan-1-mt-1.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "kpv",
+      "name": "KPV (Lys-Pro-Val free acid)",
+      "slugs": [
+        "kpv"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "Explicit reference is H-Lys-Pro-Val-OH. Catalog shorthand does not authenticate lot termini or salt form; an amidated KPV derivative would require a different formula."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 125672,
+      "cas": "67727-97-3",
+      "formula": "C16H30N4O4",
+      "molar_mass_g_mol": 342.43,
+      "source_reported_molecular_weight": "342.43",
+      "monoisotopic_mass_da": 342.22670545,
+      "database_exact_mass_da": 342.22670545,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/125672",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Lys-Pro-Val/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Lys-Pro-Val/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/lys-pro-val-properties.json",
+        "sources/chemistry/lys-pro-val-synonyms.json",
+        "sources/catalog/kpv.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "tb500",
+      "name": "Full-length human thymosin beta-4 / timbetasin reference, selected from named COA identity",
+      "slugs": [
+        "tb-500"
+      ],
+      "cas": "77591-33-4",
+      "formula": "C212H350N56O78S",
+      "molar_mass_g_mol": 4963.0,
+      "source_reported_molecular_weight": "4963",
+      "pubchem_cid": 16132341,
+      "monoisotopic_mass_da": 4960.4863169,
+      "database_exact_mass_da": 4962.4930265,
+      "identity_status": "reference_species_supported_from_named_coa_with_explicit_model",
+      "is_peptide": true,
+      "compound_class": "peptide_reference_model",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Conditional theoretical reference model based on current linked COA2605280346 Identity(LC-MS): Thymosin Beta-4: full-length human N-acetylated thymosin beta-4/timbetasin parent, C212H350N56O78S, 4963 g/mol. This is not the Ac-LKKTETQ fragment (889 g/mol). Assume nominal mass equals net anhydrous parent-peptide mass; the commercial TB-500 name alone does not establish this species or every lot/variant.",
+      "convention": "Use PubChem source-rounded approximate average MolecularWeight for the explicitly selected anhydrous parent reference. ExactMass, MonoisotopicMass and spectrum ion m/z are separate quantities and are not substituted. A conditional reference model does not certify lot identity.",
+      "notes": [
+        "The generic catalog TB-500 name remains ambiguous; the current linked report names Thymosin Beta-4 and its annotated multiply charged envelope supports choosing the full-length reference over the 889 g/mol fragment.",
+        "Reference sequence/terminal chemistry are the standard human N-acetylated full-length thymosin beta-4 model. No independent lot sequencing or quantitative net-parent-mass certification is claimed.",
+        "Mass is taken from the primary PubChem reference, not inferred by treating a plotted ion m/z as average molar mass. This model does not identify every commercial material named TB-500."
+      ],
+      "candidate_references": [
+        {
+          "name": "Ac-LKKTETQ-OH / TB-500 fragment (candidate only)",
+          "pubchem_cid": 62707662,
+          "cas": "885340-08-9",
+          "formula": "C38H68N10O14",
+          "molar_mass_g_mol": 889.0,
+          "source_reported_molecular_weight": "889.0",
+          "monoisotopic_mass_da": 888.49164688,
+          "database_exact_mass_da": 888.49164688,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/62707662",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/tb-500-properties.json",
+            "sources/chemistry/tb-500-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        },
+        {
+          "name": "Full-length thymosin beta-4 (candidate only)",
+          "pubchem_cid": 45382195,
+          "cas": null,
+          "formula": "C212H350N56O78S",
+          "molar_mass_g_mol": 4963.0,
+          "source_reported_molecular_weight": "4963",
+          "monoisotopic_mass_da": 4960.4863169,
+          "database_exact_mass_da": 4962.4930265,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/45382195",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymosin%20beta%204/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymosin%20beta%204/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/tb4-properties.json",
+            "sources/chemistry/tb4-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/16132341",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132341/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16132341/synonyms/JSON",
+        "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280346.pdf"
+      ],
+      "source_files": [
+        "sources/chemistry/checkpoint-2026-10-24/cid-16132341-properties.json",
+        "sources/chemistry/checkpoint-2026-10-24/cid-16132341-synonyms.json",
+        "sources/catalog/tb-500.extracted.json",
+        "sources/coa/Bulk2605280346.pdf",
+        "sources/coa/Bulk2605280346.pdf.txt"
+      ],
+      "reported_identity_source_report": "2605280346"
+    },
+    {
+      "id": "mots_c",
+      "name": "MOTS-c",
+      "slugs": [
+        "mots-c-10mg-20mg"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "16-residue parent reference. Mannitol listed in the catalog is excluded; nominal vial fill must not be treated as verified net peptide mass."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 146675088,
+      "cas": "1627580-64-6",
+      "formula": "C101H152N28O22S2",
+      "molar_mass_g_mol": 2174.6,
+      "source_reported_molecular_weight": "2174.6",
+      "monoisotopic_mass_da": 2173.1077409,
+      "database_exact_mass_da": 2174.1110958,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/146675088",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/MOTS-c/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/MOTS-c/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/mots-c-properties.json",
+        "sources/chemistry/mots-c-synonyms.json",
+        "sources/catalog/mots-c-10mg-20mg.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "nad_plus",
+      "name": "NAD+ / Nadide reference",
+      "slugs": [
+        "nad-plus"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": false,
+      "compound_class": "non_peptide_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Non-peptide support material is outside the peptide molarity matrix.",
+      "notes": [
+        "Non-peptide coenzyme. Formula is the PubChem CID5892 reference, not a verified commercial counterion/hydrate. Mannitol is listed in the catalog."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 5892,
+      "cas": "53-84-9",
+      "formula": "C21H27N7O14P2",
+      "molar_mass_g_mol": 663.4,
+      "source_reported_molecular_weight": "663.4",
+      "monoisotopic_mass_da": 663.10912256,
+      "database_exact_mass_da": 663.10912256,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/5892",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5892/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/5892/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/nad-cid-properties.json",
+        "sources/catalog/nad-plus.extracted.json",
+        "sources/chemistry/nad-cid-synonyms.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "bpc157",
+      "name": "BPC-157",
+      "slugs": [
+        "bpc-157-peptide-research-vials"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "15-residue parent peptide reference; no acetate or other counterion mass included."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 9941957,
+      "cas": "137525-51-0",
+      "formula": "C62H98N16O22",
+      "molar_mass_g_mol": 1419.5,
+      "source_reported_molecular_weight": "1419.5",
+      "monoisotopic_mass_da": 1418.70415882,
+      "database_exact_mass_da": 1418.70415882,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/9941957",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/BPC-157/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/BPC-157/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/bpc-157-properties.json",
+        "sources/chemistry/bpc-157-synonyms.json",
+        "sources/catalog/bpc-157-peptide-research-vials.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "retatrutide",
+      "name": "Retatrutide / LY3437943",
+      "slugs": [
+        "retatrutide",
+        "retatrutide-powder"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": true,
+      "compound_class": "peptide",
+      "allowed_molarity": true,
+      "allowed_molarity_reason": "Permitted only for a theoretical reference-species matrix assuming net anhydrous parent-peptide mass and final solution volume; no claim of lot composition or measured concentration.",
+      "notes": [
+        "PubChem name lookup Retatrutide returned no compound record; IUPHAR-deposited PubChem SID507750402 maps retatrutide/LY3437943 to CID171390338, titled Triple G. The linkage is saved.",
+        "This edition uses the verified PubChem rounded average molar mass 4731 g/mol. The previous 4731.33 g/mol convention is not silently carried forward; its additional decimal precision is not supplied by this PubChem property record.",
+        "The difference from 4731.33 g/mol is approximately 0.00698%; theoretical concentrations using 4731 are approximately 0.00698% higher for the same parent mass and volume.",
+        "PubChem ExactMass 4730.4784689 Da and MonoisotopicMass 4728.4717592 Da are separate database values; neither is used as average molar mass.",
+        "Mannitol Free does not prove salt-free, anhydrous, excipient-free or net parent-peptide mass. Reference formula includes the covalent lipid modification."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 171390338,
+      "cas": "2381089-83-2",
+      "formula": "C221H342N46O68",
+      "molar_mass_g_mol": 4731.0,
+      "source_reported_molecular_weight": "4731",
+      "monoisotopic_mass_da": 4728.4717592,
+      "database_exact_mass_da": 4730.4784689,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/171390338",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171390338/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171390338/synonyms/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/substance/507750402",
+        "https://go.drugbank.com/drugs/DB18993"
+      ],
+      "source_files": [
+        "sources/chemistry/retatrutide-cid-properties.json",
+        "sources/chemistry/retatrutide-cid-synonyms.json",
+        "sources/catalog/retatrutide.extracted.json",
+        "sources/catalog/retatrutide-powder.extracted.json",
+        "sources/chemistry/retatrutide-substance.json",
+        "sources/chemistry/primary-web-evidence.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "cyanocobalamin",
+      "name": "Cyanocobalamin (Vitamin B12 option)",
+      "slugs": [
+        "vitamin-b12"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": false,
+      "compound_class": "non_peptide_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Non-peptide support material is outside the peptide molarity matrix.",
+      "notes": [
+        "Cyanocobalamin-specific reference; does not represent methylcobalamin or all Vitamin B12 formulations."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 165339223,
+      "cas": "68-19-9",
+      "formula": "C63H88CoN14O14P",
+      "molar_mass_g_mol": 1355.4,
+      "source_reported_molecular_weight": "1355.4",
+      "monoisotopic_mass_da": 1354.567399,
+      "database_exact_mass_da": 1354.567399,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/165339223",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/68-19-9/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/68-19-9/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/b12-cas-properties.json",
+        "sources/chemistry/b12-cas-synonyms.json",
+        "sources/catalog/vitamin-b12.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "methylcobalamin",
+      "name": "Methylcobalamin (Vitamin B12 option)",
+      "slugs": [
+        "vitamin-b12"
+      ],
+      "identity_status": "reference_species_supported_catalog_name_mapped",
+      "is_peptide": false,
+      "compound_class": "non_peptide_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Non-peptide support material is outside the peptide molarity matrix.",
+      "notes": [
+        "Methylcobalamin-specific reference; product form must be selected explicitly."
+      ],
+      "candidate_references": [],
+      "pubchem_cid": 10898559,
+      "cas": "13422-55-4",
+      "formula": "C63H91CoN13O14P",
+      "molar_mass_g_mol": 1344.4,
+      "source_reported_molecular_weight": "1344.4",
+      "monoisotopic_mass_da": 1343.5878,
+      "database_exact_mass_da": 1343.5878,
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/10898559",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Methylcobalamin/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Methylcobalamin/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/chemistry/methylcobalamin-properties.json",
+        "sources/chemistry/methylcobalamin-synonyms.json",
+        "sources/catalog/vitamin-b12.extracted.json"
+      ],
+      "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+    },
+    {
+      "id": "glow",
+      "name": "GLOW blend",
+      "slugs": [
+        "glow-blend"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "multi_component_formulation_no_single_molar_mass",
+      "is_peptide": true,
+      "compound_class": "peptide_blend",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Mixture of GHK-Cu, BPC-157 and an explicitly named Ac-LKKTETQ TB-500 fragment; no single molecular formula or molar mass exists.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Mixture of GHK-Cu, BPC-157 and an explicitly named Ac-LKKTETQ TB-500 fragment; no single molecular formula or molar mass exists.",
+        "Unresolved identity conflict: live catalog describes TB-500 as Ac-LKKTETQ fragment; supplier-hosted COA Bulk2608100934 labels the component Thymosin Beta-4. Candidate fragment metadata is catalog-derived and must not override this disagreement. No component molarity assigned.",
+        "Supplier-hosted COA Bulk2608100934 says Product GLOW 50mg, whereas the live catalog states nominal 70mg total (50mg GHK-Cu + 10mg BPC-157 + 10mg TB-500). Preserve both claims separately."
+      ],
+      "candidate_references": [
+        {
+          "name": "Ac-LKKTETQ-OH fragment explicitly named in blend catalog",
+          "pubchem_cid": 62707662,
+          "cas": "885340-08-9",
+          "formula": "C38H68N10O14",
+          "molar_mass_g_mol": 889.0,
+          "source_reported_molecular_weight": "889.0",
+          "monoisotopic_mass_da": 888.49164688,
+          "database_exact_mass_da": 888.49164688,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/62707662",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/tb-500-properties.json",
+            "sources/chemistry/tb-500-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/62707662",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/catalog/glow-blend.extracted.json",
+        "sources/chemistry/tb-500-properties.json",
+        "sources/chemistry/tb-500-synonyms.json",
+        "sources/coa/Bulk2608100934.pdf",
+        "sources/coa/Bulk2608100934.pdf.txt"
+      ]
+    },
+    {
+      "id": "klow",
+      "name": "KLOW blend",
+      "slugs": [
+        "klow-peptide"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "multi_component_formulation_no_single_molar_mass",
+      "is_peptide": true,
+      "compound_class": "peptide_blend",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Mixture of GHK-Cu, BPC-157, KPV and an explicitly named Ac-LKKTETQ TB-500 fragment; no single molecular formula or molar mass exists.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Mixture of GHK-Cu, BPC-157, KPV and an explicitly named Ac-LKKTETQ TB-500 fragment; no single molecular formula or molar mass exists.",
+        "Unresolved identity conflict: live catalog describes TB-500 as Ac-LKKTETQ fragment; supplier-hosted COA Bulk2604170178 labels the component Thymosin Beta-4. Candidate fragment metadata is catalog-derived and must not override this disagreement. No component molarity assigned."
+      ],
+      "candidate_references": [
+        {
+          "name": "Ac-LKKTETQ-OH fragment explicitly named in blend catalog",
+          "pubchem_cid": 62707662,
+          "cas": "885340-08-9",
+          "formula": "C38H68N10O14",
+          "molar_mass_g_mol": 889.0,
+          "source_reported_molecular_weight": "889.0",
+          "monoisotopic_mass_da": 888.49164688,
+          "database_exact_mass_da": 888.49164688,
+          "source_urls": [
+            "https://pubchem.ncbi.nlm.nih.gov/compound/62707662",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+            "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/synonyms/JSON"
+          ],
+          "source_files": [
+            "sources/chemistry/tb-500-properties.json",
+            "sources/chemistry/tb-500-synonyms.json"
+          ],
+          "convention": "PubChem reported MolecularWeight: rounded approximate average molar mass, g/mol. MonoisotopicMass and ExactMass are separate fields and are not used for molarity."
+        }
+      ],
+      "source_urls": [
+        "https://pubchem.ncbi.nlm.nih.gov/compound/62707662",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+        "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/TB-500/synonyms/JSON"
+      ],
+      "source_files": [
+        "sources/catalog/klow-peptide.extracted.json",
+        "sources/chemistry/tb-500-properties.json",
+        "sources/chemistry/tb-500-synonyms.json",
+        "sources/coa/Bulk2604170178.pdf",
+        "sources/coa/Bulk2604170178.pdf.txt"
+      ]
+    },
+    {
+      "id": "wolverine",
+      "name": "Wolverine blend",
+      "slugs": [
+        "bpc-157-tb-500-blend"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "multi_component_formulation_no_single_molar_mass",
+      "is_peptide": true,
+      "compound_class": "peptide_blend",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Mixture of BPC-157 and TB-500; catalog does not establish exact TB-500 sequence, component amounts or ratio. No single molecular mass.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Mixture of BPC-157 and TB-500; catalog does not establish exact TB-500 sequence, component amounts or ratio. No single molecular mass."
+      ],
+      "candidate_references": [],
+      "source_urls": [],
+      "source_files": [
+        "sources/catalog/bpc-157-tb-500-blend.extracted.json"
+      ]
+    },
+    {
+      "id": "lipotropic_b",
+      "name": "Lipotropic B",
+      "slugs": [
+        "lipotropic-b"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "multi_component_formulation_no_single_molar_mass",
+      "is_peptide": false,
+      "compound_class": "blend_or_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Multi-component liquid formulation with B12 options; no single molecular formula or molar mass.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Multi-component liquid formulation with B12 options; no single molecular formula or molar mass."
+      ],
+      "candidate_references": [],
+      "source_urls": [],
+      "source_files": [
+        "sources/catalog/lipotropic-b.extracted.json"
+      ]
+    },
+    {
+      "id": "lipotropic_c",
+      "name": "Lipotropic C",
+      "slugs": [
+        "lipotropic-c"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "multi_component_formulation_no_single_molar_mass",
+      "is_peptide": false,
+      "compound_class": "blend_or_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Multi-component liquid formulation with B12/NADH options; no single molecular formula or molar mass.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Multi-component liquid formulation with B12/NADH options; no single molecular formula or molar mass."
+      ],
+      "candidate_references": [],
+      "source_urls": [],
+      "source_files": [
+        "sources/catalog/lipotropic-c.extracted.json"
+      ]
+    },
+    {
+      "id": "shb",
+      "name": "SHB Super Human Blend",
+      "slugs": [
+        "shb"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "multi_component_formulation_no_single_molar_mass",
+      "is_peptide": false,
+      "compound_class": "blend_or_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Mixture of amino acids, L-carnitine and NAC; no single molecular formula or molar mass.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Mixture of amino acids, L-carnitine and NAC; no single molecular formula or molar mass."
+      ],
+      "candidate_references": [],
+      "source_urls": [],
+      "source_files": [
+        "sources/catalog/shb.extracted.json"
+      ]
+    },
+    {
+      "id": "reconstitution_solution",
+      "name": "Reconstitution solution",
+      "slugs": [
+        "reconstitution-solution"
+      ],
+      "cas": null,
+      "formula": null,
+      "molar_mass_g_mol": null,
+      "source_reported_molecular_weight": null,
+      "pubchem_cid": null,
+      "monoisotopic_mass_da": null,
+      "database_exact_mass_da": null,
+      "identity_status": "multi_component_formulation_no_single_molar_mass",
+      "is_peptide": false,
+      "compound_class": "blend_or_support",
+      "allowed_molarity": false,
+      "allowed_molarity_reason": "Bacteriostatic water formulation labeled 0.9% benzyl alcohol; support solution, not a single peptide species.",
+      "convention": "No assigned molecular species or single molar mass.",
+      "notes": [
+        "Bacteriostatic water formulation labeled 0.9% benzyl alcohol; support solution, not a single peptide species."
+      ],
+      "candidate_references": [],
+      "source_urls": [],
+      "source_files": [
+        "sources/catalog/reconstitution-solution.extracted.json"
+      ]
+    }
+  ],
+  "accounting_review_date": "2026-10-25"
+}

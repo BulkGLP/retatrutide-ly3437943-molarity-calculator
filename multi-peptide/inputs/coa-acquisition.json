@@ -1,0 +1,1276 @@
+{
+  "records": [
+    {
+      "product_slug": "adamax",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 010125 \u00b7 Report 2606190267",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190267.pdf",
+        "reportId": "2606190267",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "010125",
+        "reportedResults": {
+          "Reported content": "10.90 mg",
+          "Purity": "99.10%",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190267.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190267.pdf",
+      "content_type": "application/pdf",
+      "sha256": "6f2ecaf5e2916c22e73d297cc19166f5e07b501d96c94b165c4ea119d2192d1e",
+      "bytes": 287143,
+      "source_file": "sources/coa/Bulk2606190267.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:43.629154+00:00",
+      "extracted_text_file": "sources/coa/Bulk2606190267.pdf.txt",
+      "extracted_text_chars": 1480
+    },
+    {
+      "product_slug": "ara-290",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 90133 \u00b7 Report 2604170157",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170157.png",
+        "reportId": "2604170157",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "90133",
+        "reportedResults": {
+          "Reported content": "12.66 mg",
+          "Purity": "53.90%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170157.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170157.png",
+      "content_type": "image/png",
+      "sha256": "6e0e8d788473cef3d5939a1196c9fbf52d6dda4f0ead79a7331024075334cb91",
+      "bytes": 111019,
+      "source_file": "sources/coa/Bulk2604170157.png",
+      "retrieved_at_utc": "2026-10-22T05:42:43.626156+00:00"
+    },
+    {
+      "product_slug": "bpc-157-peptide-research-vials",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 96494 \u00b7 Report 2604170161",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170161.png",
+        "reportId": "2604170161",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "96494",
+        "reportedResults": {
+          "Reported content": "10.99 mg",
+          "Purity": "98.07%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170161.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170161.png",
+      "content_type": "image/png",
+      "sha256": "5b405b2d980a4b3a9f1e0f10419eba5e85063bf6a6138964472334cf5c4e4459",
+      "bytes": 111194,
+      "source_file": "sources/coa/Bulk2604170161.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.277287+00:00"
+    },
+    {
+      "product_slug": "epitalon-50mg",
+      "archive_record": {
+        "label": "50mg \u00b7 Lot 2965 \u00b7 Report 2608100935",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100935.pdf",
+        "reportId": "2608100935",
+        "status": "current",
+        "sizeLabel": "50mg",
+        "lot": "2965",
+        "reportedResults": {
+          "Reported content": "55.54 mg",
+          "Purity": "99.61%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100935.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100935.pdf",
+      "content_type": "application/pdf",
+      "sha256": "7e3feead694b7b6de0bb5764a7e065bfd07c7f6bc42ab0fdbc12d96284f62cfe",
+      "bytes": 230004,
+      "source_file": "sources/coa/Bulk2608100935.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:43.639154+00:00",
+      "extracted_text_file": "sources/coa/Bulk2608100935.pdf.txt",
+      "extracted_text_chars": 1256
+    },
+    {
+      "product_slug": "glow-blend",
+      "archive_record": {
+        "label": "70mg total \u00b7 Lot 64163 \u00b7 Report 2608100934",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100934.pdf",
+        "reportId": "2608100934",
+        "status": "current",
+        "sizeLabel": "70mg total",
+        "lot": "64163",
+        "reportedResults": {
+          "Reported content": "GHK-Cu-49.13 mg, BPC-157-7.38 mg, Thymosin Beta-4 - 10.91 mg",
+          "Purity": "99.09%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100934.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100934.pdf",
+      "content_type": "application/pdf",
+      "sha256": "4d5348f4e90b54f0f5c9f79a2839446ca25e9d1f2cbcf4b7c02cd15205c46944",
+      "bytes": 279596,
+      "source_file": "sources/coa/Bulk2608100934.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.179729+00:00",
+      "extracted_text_file": "sources/coa/Bulk2608100934.pdf.txt",
+      "extracted_text_chars": 1377
+    },
+    {
+      "product_slug": "klow-peptide",
+      "archive_record": {
+        "label": "80mg \u00b7 Lot 03210 \u00b7 Report 2601130180",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130180.jpg",
+        "reportId": "2601130180",
+        "status": "historical",
+        "sizeLabel": "80mg",
+        "lot": "03210",
+        "reportedResults": {
+          "Reported content": "N/A",
+          "Purity": "99%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130180.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130180.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "55de1adf1d371ecf6c2ba0c47116324a8e031dbf8c7959f30501c7f7ee993f12",
+      "bytes": 130217,
+      "source_file": "sources/coa/Bulk2601130180.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.394536+00:00"
+    },
+    {
+      "product_slug": "klow-peptide",
+      "archive_record": {
+        "label": "80mg \u00b7 Lot 03210 \u00b7 Report 2604170178",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170178.pdf",
+        "reportId": "2604170178",
+        "status": "current",
+        "sizeLabel": "80mg",
+        "lot": "03210",
+        "reportedResults": {
+          "Reported content": "GHK - 51.35 mg, KPV - 11.88 mg, BPC - 11.15 mg, TB500 - 9.95 mg",
+          "Purity": "99.80%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170178.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170178.pdf",
+      "content_type": "application/pdf",
+      "sha256": "e13787f711c440f4a56ed1eaaaf4effca576cce5699aae91a85e6ce0346f9a83",
+      "bytes": 426229,
+      "source_file": "sources/coa/Bulk2604170178.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.407043+00:00",
+      "extracted_text_file": "sources/coa/Bulk2604170178.pdf.txt",
+      "extracted_text_chars": 1631
+    },
+    {
+      "product_slug": "kpv",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 2719 \u00b7 Report 2604170163",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170163.png",
+        "reportId": "2604170163",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "2719",
+        "reportedResults": {
+          "Reported content": "12.18 mg",
+          "Purity": "99.18%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170163.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170163.png",
+      "content_type": "image/png",
+      "sha256": "1ce9321b6016dfb32465b9b709b468ba4df92aa1b57bdf43286960ebf0a41d1a",
+      "bytes": 108046,
+      "source_file": "sources/coa/Bulk2604170163.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.176730+00:00"
+    },
+    {
+      "product_slug": "lipotropic-b",
+      "archive_record": {
+        "label": "10ml \u00b7 Lot 08253 \u00b7 Report 2605280331",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280331.pdf",
+        "reportId": "2605280331",
+        "status": "current",
+        "sizeLabel": "10ml",
+        "lot": "08253",
+        "reportedResults": {
+          "Reported content": "10ml",
+          "Purity": "N/A",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280331.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280331.pdf",
+      "content_type": "application/pdf",
+      "sha256": "b75de581b6426c9f79929fe7f59cc92d145bcc79c15eec8037e43ee4baf1b35f",
+      "bytes": 323072,
+      "source_file": "sources/coa/Bulk2605280331.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.077812+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280331.pdf.txt",
+      "extracted_text_chars": 1803
+    },
+    {
+      "product_slug": "lipotropic-c",
+      "archive_record": {
+        "label": "N/A \u00b7 Lot 08335 \u00b7 Report 2605280340",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280340.pdf",
+        "reportId": "2605280340",
+        "status": "current",
+        "sizeLabel": "N/A",
+        "lot": "08335",
+        "reportedResults": {
+          "Reported content": "10ml",
+          "Purity": "N/A",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280340.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280340.pdf",
+      "content_type": "application/pdf",
+      "sha256": "cd55ebf862575cae344ffa669d505acb6383ac90fa62707c5ee6d4532704b60d",
+      "bytes": 326313,
+      "source_file": "sources/coa/Bulk2605280340.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:43.693197+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280340.pdf.txt",
+      "extracted_text_chars": 1774
+    },
+    {
+      "product_slug": "ll-37",
+      "archive_record": {
+        "label": "5mg \u00b7 Lot 2331 \u00b7 Report 2604170167",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170167.png",
+        "reportId": "2604170167",
+        "status": "current",
+        "sizeLabel": "5mg",
+        "lot": "2331",
+        "reportedResults": {
+          "Reported content": "5.24 mg",
+          "Purity": "96.00%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170167.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170167.png",
+      "content_type": "image/png",
+      "sha256": "ff3c570be35486fda6189c377cd61e55a5fecb02e0f96cd42b5b34bc7b74f22e",
+      "bytes": 110083,
+      "source_file": "sources/coa/Bulk2604170167.png",
+      "retrieved_at_utc": "2026-10-22T05:42:43.703229+00:00"
+    },
+    {
+      "product_slug": "melanotan-1-mt-1",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 7433 \u00b7 Report 2604170171-1",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170171-1.png",
+        "reportId": "2604170171-1",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "7433",
+        "reportedResults": {
+          "Reported content": "11.86 mg",
+          "Purity": "99.65%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170171-1.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170171-1.png",
+      "content_type": "image/png",
+      "sha256": "4d4feff4b8f68026c61462bfb7722b1663d400dcb9f083e239b495f6b482c6cb",
+      "bytes": 102262,
+      "source_file": "sources/coa/Bulk2604170171-1.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.092329+00:00"
+    },
+    {
+      "product_slug": "melanotan-2",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 4389 \u00b7 Report 2604170174",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170174.jpg",
+        "reportId": "2604170174",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "4389",
+        "reportedResults": {
+          "Reported content": "11.62 mg",
+          "Purity": "99.78%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170174.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170174.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "3471f59fd0857a61b2868e0a6611abc16dc12e61d8ff3d921d92bcd9f31f03da",
+      "bytes": 88021,
+      "source_file": "sources/coa/Bulk2604170174.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:43.780907+00:00"
+    },
+    {
+      "product_slug": "mots-c-10mg-20mg",
+      "archive_record": {
+        "label": "50mg \u00b7 Lot 5105 \u00b7 Report 2604170159",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170159.png",
+        "reportId": "2604170159",
+        "status": "historical",
+        "sizeLabel": "50mg",
+        "lot": "5105",
+        "reportedResults": {
+          "Reported content": "48.17 mg",
+          "Purity": "99.68%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170159.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170159.png",
+      "content_type": "image/png",
+      "sha256": "34467acdd5b06f939139e800b12e5a959a822f6917927eb8dddd82b4bfe7057f",
+      "bytes": 113680,
+      "source_file": "sources/coa/Bulk2604170159.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.241770+00:00"
+    },
+    {
+      "product_slug": "mots-c-10mg-20mg",
+      "archive_record": {
+        "label": "20mg \u00b7 Lot 5105 \u00b7 Report 2605210281",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210281.pdf",
+        "reportId": "2605210281",
+        "status": "current",
+        "sizeLabel": "20mg",
+        "lot": "5105",
+        "reportedResults": {
+          "Reported content": "21.48 mg",
+          "Purity": "99.41%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210281.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210281.pdf",
+      "content_type": "application/pdf",
+      "sha256": "f7b9df1f2771331722e2bd965b28c55d9330975bf355e3be18cfd2f794ebbe31",
+      "bytes": 311706,
+      "source_file": "sources/coa/Bulk2605210281.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.258775+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605210281.pdf.txt",
+      "extracted_text_chars": 1912
+    },
+    {
+      "product_slug": "nad-plus",
+      "archive_record": {
+        "label": "500mg \u00b7 Lot 08530 \u00b7 Report 2604170153",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170153.png",
+        "reportId": "2604170153",
+        "status": "current",
+        "sizeLabel": "500mg",
+        "lot": "08530",
+        "reportedResults": {
+          "Reported content": "471.61 mg",
+          "Purity": "99.92%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170153.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170153.png",
+      "content_type": "image/png",
+      "sha256": "fda63b5a2aa0521445292d589188ed125d90ece04795614914a458ae44149429",
+      "bytes": 109408,
+      "source_file": "sources/coa/Bulk2604170153.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.281288+00:00"
+    },
+    {
+      "product_slug": "pt-141",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 1419 \u00b7 Report 2608100932",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100932.pdf",
+        "reportId": "2608100932",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "1419",
+        "reportedResults": {
+          "Reported content": "9.97 mg",
+          "Purity": "99.71%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100932.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100932.pdf",
+      "content_type": "application/pdf",
+      "sha256": "4b15475a8c9652d696436244340d91025a92c614faad19432c92ec3ce2aaea54",
+      "bytes": 251731,
+      "source_file": "sources/coa/Bulk2608100932.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:43.634154+00:00",
+      "extracted_text_file": "sources/coa/Bulk2608100932.pdf.txt",
+      "extracted_text_chars": 1250
+    },
+    {
+      "product_slug": "reconstitution-solution",
+      "archive_record": {
+        "label": "Reconstitution Solution 10ml, 0.929% \u00b7 Lot 10972 \u00b7 Report 2606190258",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190258.pdf",
+        "reportId": "2606190258",
+        "status": "current",
+        "sizeLabel": "Reconstitution Solution 10ml, 0.929%",
+        "lot": "10972",
+        "reportedResults": {
+          "Reported content": "0.929%",
+          "Purity": "99.25%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190258.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190258.pdf",
+      "content_type": "application/pdf",
+      "sha256": "ba06f2a9ee983ebc60a89314cee9476490ceab2869744d8096ef5f3f770829d9",
+      "bytes": 288564,
+      "source_file": "sources/coa/Bulk2606190258.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.279293+00:00",
+      "extracted_text_file": "sources/coa/Bulk2606190258.pdf.txt",
+      "extracted_text_chars": 1763
+    },
+    {
+      "product_slug": "reconstitution-solution",
+      "archive_record": {
+        "label": "N/A \u00b7 Lot N/A \u00b7 Report H98MGV7M2T1Q",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/BulkH98MGV7M2T1Q.png",
+        "reportId": "H98MGV7M2T1Q",
+        "status": "historical",
+        "sizeLabel": "N/A",
+        "lot": "N/A",
+        "reportedResults": {
+          "Reported content": "10mL",
+          "Purity": "N/A",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/BulkH98MGV7M2T1Q.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/BulkH98MGV7M2T1Q.png",
+      "content_type": "image/png",
+      "sha256": "8708fcc48cd1cb00e6d28216b5c0cb2ca18a660f599efd8b14971de3a41defdc",
+      "bytes": 472330,
+      "source_file": "sources/coa/BulkH98MGV7M2T1Q.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.309981+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "10 mg \u00b7 Lot Blue Cap \u00b7 Report 2509300035",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2509300035.pdf",
+        "reportId": "2509300035",
+        "status": "historical",
+        "sizeLabel": "10 mg",
+        "lot": "Blue Cap",
+        "reportedResults": {
+          "Reported content": "10.18 mg",
+          "Purity": "99.951%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2509300035.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2509300035.pdf",
+      "content_type": "application/pdf",
+      "sha256": "778eb70e9db5c79a62c45b9a889221853741575ee9940b335d76ba1548e78b62",
+      "bytes": 450603,
+      "source_file": "sources/coa/Bulk2509300035.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.519204+00:00",
+      "extracted_text_file": "sources/coa/Bulk2509300035.pdf.txt",
+      "extracted_text_chars": 1258
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "20mg \u00b7 Lot 062502 \u00b7 Report 2601130169",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130169.jpg",
+        "reportId": "2601130169",
+        "status": "historical",
+        "sizeLabel": "20mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "21.42 mg",
+          "Purity": "99.762%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130169.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130169.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "73613d4594c1b9d4f53027ec5eee214b3627210990a1c2400939a9b553f59a76",
+      "bytes": 135129,
+      "source_file": "sources/coa/Bulk2601130169.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.595215+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "20mg \u00b7 Lot 062502 \u00b7 Report 2601130170",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130170.jpg",
+        "reportId": "2601130170",
+        "status": "historical",
+        "sizeLabel": "20mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "N/A",
+          "Purity": "N/A",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130170.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130170.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "8a9df01840da57575a2135194005ae7ac21db5d2524296de1a1492a820f2d1d3",
+      "bytes": 130347,
+      "source_file": "sources/coa/Bulk2601130170.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.606723+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 062502 \u00b7 Report 2601130171",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130171.jpg",
+        "reportId": "2601130171",
+        "status": "historical",
+        "sizeLabel": "10mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "10.96 mg",
+          "Purity": "99.53%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130171.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130171.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "9479ce4f20cfdaf44521d8b33376197f3ac03b98c367dc1c9a2fef3c8c122af1",
+      "bytes": 134070,
+      "source_file": "sources/coa/Bulk2601130171.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.538204+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 062502 \u00b7 Report 2601130172",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130172.jpg",
+        "reportId": "2601130172",
+        "status": "historical",
+        "sizeLabel": "10mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "N/A",
+          "Purity": "N/A",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130172.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130172.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "aeda0f3675ac82630120b7a17227c14d7ca8b74cc7c0f51e79619837f2b8e761",
+      "bytes": 129931,
+      "source_file": "sources/coa/Bulk2601130172.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.626722+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "30mg \u00b7 Lot 062502 \u00b7 Report 2601130175",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130175.jpg",
+        "reportId": "2601130175",
+        "status": "historical",
+        "sizeLabel": "30mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "34.77 mg",
+          "Purity": "99.641%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130175.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130175.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "bf40a823262b1b659e92d9f5fadab78aa7516d3ca95d70b0f88c33265078e166",
+      "bytes": 134397,
+      "source_file": "sources/coa/Bulk2601130175.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.559210+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "30mg \u00b7 Lot 062502 \u00b7 Report 2601130176",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130176.jpg",
+        "reportId": "2601130176",
+        "status": "historical",
+        "sizeLabel": "30mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "N/A",
+          "Purity": "N/A",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130176.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130176.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "6c5d4f47885f162090f9d612b27256cd6837ae6a0802edfc8bc4d413f3f7bba7",
+      "bytes": 130380,
+      "source_file": "sources/coa/Bulk2601130176.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.717868+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "15mg \u00b7 Lot 062502 \u00b7 Report 2601130177",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130177.jpg",
+        "reportId": "2601130177",
+        "status": "historical",
+        "sizeLabel": "15mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "16.01 mg",
+          "Purity": "99.89%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130177.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130177.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "65849448a2febcce69bd65e4bb2487a2c988172786694228f55929d8db1d1d00",
+      "bytes": 133551,
+      "source_file": "sources/coa/Bulk2601130177.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.562211+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "15mg \u00b7 Lot 062502 \u00b7 Report 2601130178",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130178.jpg",
+        "reportId": "2601130178",
+        "status": "historical",
+        "sizeLabel": "15mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "N/A",
+          "Purity": "N/A",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130178.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130178.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "01289e43e77b9abed355e707e57edf1cb8319f98db363b28dc31540bfe73ebb3",
+      "bytes": 130010,
+      "source_file": "sources/coa/Bulk2601130178.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.613722+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "15mg \u00b7 Lot 062503 \u00b7 Report 2604170169",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png",
+        "reportId": "2604170169",
+        "status": "current",
+        "sizeLabel": "15mg",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "14.91 mg",
+          "Purity": "99.81%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170169.png",
+      "content_type": "image/png",
+      "sha256": "9197a5b4d199b1bd6300c629adab86f62d2131a0868a124dec8fa8c737cfb1e7",
+      "bytes": 109852,
+      "source_file": "sources/coa/Bulk2604170169.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.458555+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "30mg \u00b7 Lot 062503 \u00b7 Report 2604170176",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png",
+        "reportId": "2604170176",
+        "status": "current",
+        "sizeLabel": "30mg",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "29.84 mg",
+          "Purity": "99.98%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170176.png",
+      "content_type": "image/png",
+      "sha256": "a267a212ea1bc7fc797ba755484a68dfbee1bc5019aeca9e3c61f13bc9dad355",
+      "bytes": 109594,
+      "source_file": "sources/coa/Bulk2604170176.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.473064+00:00"
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "12mg \u00b7 Lot 062503 \u00b7 Report 2605210278",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf",
+        "reportId": "2605210278",
+        "status": "current",
+        "sizeLabel": "12mg",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "13.75 mg",
+          "Purity": "99.50%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210278.pdf",
+      "content_type": "application/pdf",
+      "sha256": "b2ed7a73e9a52c21c5ba33218c459fa70c189caeadb863c4dfaf9a89051bc424",
+      "bytes": 282576,
+      "source_file": "sources/coa/Bulk2605210278.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.434553+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605210278.pdf.txt",
+      "extracted_text_chars": 1409
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "20mg \u00b7 Lot 062503 \u00b7 Report 2605210279",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf",
+        "reportId": "2605210279",
+        "status": "current",
+        "sizeLabel": "20mg",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "22.69 mg",
+          "Purity": "99.81%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210279.pdf",
+      "content_type": "application/pdf",
+      "sha256": "9a2f1138175a251db1869a8c7b2a2b4823ea8a4388f857e577411f127a79460a",
+      "bytes": 299721,
+      "source_file": "sources/coa/Bulk2605210279.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.615722+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605210279.pdf.txt",
+      "extracted_text_chars": 1919
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 062503 \u00b7 Report 2605280328",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280328.pdf",
+        "reportId": "2605280328",
+        "status": "historical",
+        "sizeLabel": "10mg",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "12.05 mg",
+          "Purity": "99.76%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280328.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280328.pdf",
+      "content_type": "application/pdf",
+      "sha256": "a3c85a8019f027641dbbd8ee1ca7c5905525b242b6754756284823903aa3f22e",
+      "bytes": 285792,
+      "source_file": "sources/coa/Bulk2605280328.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.509188+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280328.pdf.txt",
+      "extracted_text_chars": 1410
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 062503 \u00b7 Report 2606190261",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf",
+        "reportId": "2606190261",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "11.20 mg",
+          "Purity": "99.87%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2606190261.pdf",
+      "content_type": "application/pdf",
+      "sha256": "f4a6d642cf42af4b5169d00f48800121fa8b41e466a5153a2b856a181a1fc2b6",
+      "bytes": 310299,
+      "source_file": "sources/coa/Bulk2606190261.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.395536+00:00",
+      "extracted_text_file": "sources/coa/Bulk2606190261.pdf.txt",
+      "extracted_text_chars": 1769
+    },
+    {
+      "product_slug": "retatrutide",
+      "archive_record": {
+        "label": "50mg \u00b7 Lot 062504 \u00b7 Report 2608100929",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf",
+        "reportId": "2608100929",
+        "status": "current",
+        "sizeLabel": "50mg",
+        "lot": "062504",
+        "reportedResults": {
+          "Reported content": "54.13 mg",
+          "Purity": "99.87%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100929.pdf",
+      "content_type": "application/pdf",
+      "sha256": "8d3dd8a05b2d899ec94b0c11630e6ad540757229a93a323fb7cc76b53869d424",
+      "bytes": 276491,
+      "source_file": "sources/coa/Bulk2608100929.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.485574+00:00",
+      "extracted_text_file": "sources/coa/Bulk2608100929.pdf.txt",
+      "extracted_text_chars": 1764
+    },
+    {
+      "product_slug": "retatrutide-powder",
+      "archive_record": {
+        "label": "N/A \u00b7 Lot 062503 \u00b7 Report 2604170180-1",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-1.pdf",
+        "reportId": "2604170180-1",
+        "status": "current",
+        "sizeLabel": "N/A",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "7.46 mg",
+          "Purity": "99.96%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-1.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-1.pdf",
+      "content_type": "application/pdf",
+      "sha256": "36ca1ad7bae15933703b8f06c0e88857d9088fefb4e7dcc530974d92d06f65c5",
+      "bytes": 307716,
+      "source_file": "sources/coa/Bulk2604170180-1.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.368007+00:00",
+      "extracted_text_file": "sources/coa/Bulk2604170180-1.pdf.txt",
+      "extracted_text_chars": 1477
+    },
+    {
+      "product_slug": "retatrutide-powder",
+      "archive_record": {
+        "label": "N/A \u00b7 Lot 062503 \u00b7 Report 2604170180-2",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-2.pdf",
+        "reportId": "2604170180-2",
+        "status": "current",
+        "sizeLabel": "N/A",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "7.46 mg",
+          "Purity": "99.96%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-2.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180-2.pdf",
+      "content_type": "application/pdf",
+      "sha256": "36ca1ad7bae15933703b8f06c0e88857d9088fefb4e7dcc530974d92d06f65c5",
+      "bytes": 307716,
+      "source_file": "sources/coa/Bulk2604170180-2.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.344492+00:00",
+      "extracted_text_file": "sources/coa/Bulk2604170180-2.pdf.txt",
+      "extracted_text_chars": 1477
+    },
+    {
+      "product_slug": "retatrutide-powder",
+      "archive_record": {
+        "label": "N/A \u00b7 Lot 062503 \u00b7 Report 2604170180",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180.png",
+        "reportId": "2604170180",
+        "status": "current",
+        "sizeLabel": "N/A",
+        "lot": "062503",
+        "reportedResults": {
+          "Reported content": "7.46 mg",
+          "Purity": "99.96%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170180.png",
+      "content_type": "image/png",
+      "sha256": "10b1215039029b2c5ba8ec879c10f353db57e66ddaf4ab5183a4ed49508357f5",
+      "bytes": 85923,
+      "source_file": "sources/coa/Bulk2604170180.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.309981+00:00"
+    },
+    {
+      "product_slug": "selank",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 03815 \u00b7 Report 2604170173",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170173.png",
+        "reportId": "2604170173",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "03815",
+        "reportedResults": {
+          "Reported content": "11.47 mg",
+          "Purity": "99.75%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170173.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170173.png",
+      "content_type": "image/png",
+      "sha256": "3a26d72e0f6aeee31a627871d6e71bfee5ad7fbf576112cb341c67bde1487652",
+      "bytes": 111022,
+      "source_file": "sources/coa/Bulk2604170173.png",
+      "retrieved_at_utc": "2026-10-22T05:42:44.190245+00:00"
+    },
+    {
+      "product_slug": "semaglutide",
+      "archive_record": {
+        "label": "20mg \u00b7 Lot 062502 \u00b7 Report 2605280343",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280343.pdf",
+        "reportId": "2605280343",
+        "status": "current",
+        "sizeLabel": "20mg",
+        "lot": "062502",
+        "reportedResults": {
+          "Reported content": "23.60 mg",
+          "Purity": "99.87%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280343.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280343.pdf",
+      "content_type": "application/pdf",
+      "sha256": "bbb834d36af146633efaa2cc7ebc425e1e6e3e5020bacadfdb1058185c09e737",
+      "bytes": 309263,
+      "source_file": "sources/coa/Bulk2605280343.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.092329+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280343.pdf.txt",
+      "extracted_text_chars": 1859
+    },
+    {
+      "product_slug": "semax",
+      "archive_record": {
+        "label": "10 MG \u00b7 Lot 04625 \u00b7 Report 2604170175",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170175.jpg",
+        "reportId": "2604170175",
+        "status": "current",
+        "sizeLabel": "10 MG",
+        "lot": "04625",
+        "reportedResults": {
+          "Reported content": "12.42 mg",
+          "Purity": "99.83%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170175.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170175.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "a3248934b8dbd79a9700c85c542b945fd5159160f7221891fca94a5780ff7d39",
+      "bytes": 241759,
+      "source_file": "sources/coa/Bulk2604170175.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.202750+00:00"
+    },
+    {
+      "product_slug": "shb",
+      "archive_record": {
+        "label": "N/A \u00b7 Lot 08335 \u00b7 Report 2605280337",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280337.pdf",
+        "reportId": "2605280337",
+        "status": "current",
+        "sizeLabel": "N/A",
+        "lot": "08335",
+        "reportedResults": {
+          "Reported content": "10ml",
+          "Purity": "N/A",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Negative"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280337.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280337.pdf",
+      "content_type": "application/pdf",
+      "sha256": "88dcb0289f270fe5d91f2629bc89e74129ecee49ef345518351799d6ebe3e08d",
+      "bytes": 349282,
+      "source_file": "sources/coa/Bulk2605280337.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.103839+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280337.pdf.txt",
+      "extracted_text_chars": 1773
+    },
+    {
+      "product_slug": "ta-1-10mg",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 4924 \u00b7 Report 2604170155",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170155.png",
+        "reportId": "2604170155",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "4924",
+        "reportedResults": {
+          "Reported content": "10.03 mg",
+          "Purity": "99.42%",
+          "Endotoxin result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170155.png",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2604170155.png",
+      "content_type": "image/png",
+      "sha256": "e6c65adac09a2631b5ba80bb3cae5a7b390a287d379f80d39c6511adc9b167de",
+      "bytes": 113633,
+      "source_file": "sources/coa/Bulk2604170155.png",
+      "retrieved_at_utc": "2026-10-22T05:42:43.630155+00:00"
+    },
+    {
+      "product_slug": "tb-500",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 25494 \u00b7 Report 2605280346",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280346.pdf",
+        "reportId": "2605280346",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "25494",
+        "reportedResults": {
+          "Reported content": "11.05 mg",
+          "Purity": "99.44%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280346.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280346.pdf",
+      "content_type": "application/pdf",
+      "sha256": "a806e60fbb4ed8ba1e2185fc89a16167131d86bd0f53d9a0115b682a357535b1",
+      "bytes": 319052,
+      "source_file": "sources/coa/Bulk2605280346.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.190245+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280346.pdf.txt",
+      "extracted_text_chars": 1862
+    },
+    {
+      "product_slug": "thymalin-10mg",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 4063 \u00b7 Report 2608100933",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100933.pdf",
+        "reportId": "2608100933",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "4063",
+        "reportedResults": {
+          "Reported content": "9.53 mg",
+          "Purity": "99.55%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100933.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2608100933.pdf",
+      "content_type": "application/pdf",
+      "sha256": "099f0bdbe4eb287469646dab3b12c3490be708d57dd7529c91b10d84d369ee82",
+      "bytes": 244038,
+      "source_file": "sources/coa/Bulk2608100933.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:43.637155+00:00",
+      "extracted_text_file": "sources/coa/Bulk2608100933.pdf.txt",
+      "extracted_text_chars": 1254
+    },
+    {
+      "product_slug": "tirzepatide",
+      "archive_record": {
+        "label": "40mg \u00b7 Lot 385105 \u00b7 Report 2601130173",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130173.jpg",
+        "reportId": "2601130173",
+        "status": "historical",
+        "sizeLabel": "40mg",
+        "lot": "385105",
+        "reportedResults": {
+          "Reported content": "40.78 mg",
+          "Purity": "99.412%"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130173.jpg",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2601130173.jpg",
+      "content_type": "image/jpeg",
+      "sha256": "a4fa5b0f2cd885e0cf23ebb88df8d02de134eaf4a36edf8ba58db984ba63533a",
+      "bytes": 134643,
+      "source_file": "sources/coa/Bulk2601130173.jpg",
+      "retrieved_at_utc": "2026-10-22T05:42:44.092329+00:00"
+    },
+    {
+      "product_slug": "tirzepatide",
+      "archive_record": {
+        "label": "40mg \u00b7 Lot 385106 \u00b7 Report 2605210276",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210276.pdf",
+        "reportId": "2605210276",
+        "status": "current",
+        "sizeLabel": "40mg",
+        "lot": "385106",
+        "reportedResults": {
+          "Reported content": "43.60 mg",
+          "Purity": "99.84%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210276.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605210276.pdf",
+      "content_type": "application/pdf",
+      "sha256": "c0d1c1c67a3e18999d74903feeb9b8c04471c4325f75ce90f7680e8b8bcabc02",
+      "bytes": 302491,
+      "source_file": "sources/coa/Bulk2605210276.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.091330+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605210276.pdf.txt",
+      "extracted_text_chars": 1919
+    },
+    {
+      "product_slug": "vip",
+      "archive_record": {
+        "label": "10mg \u00b7 Lot 2425 \u00b7 Report 2605280325",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280325.pdf",
+        "reportId": "2605280325",
+        "status": "current",
+        "sizeLabel": "10mg",
+        "lot": "2425",
+        "reportedResults": {
+          "Reported content": "9.28 mg",
+          "Purity": "99.55%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280325.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280325.pdf",
+      "content_type": "application/pdf",
+      "sha256": "1d9fcf9a49d8eaec070c52630118a77df990bb23c2a3d0123f4053ec647d14da",
+      "bytes": 300017,
+      "source_file": "sources/coa/Bulk2605280325.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:43.852356+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280325.pdf.txt",
+      "extracted_text_chars": 1844
+    },
+    {
+      "product_slug": "vitamin-b12",
+      "archive_record": {
+        "label": "N/A \u00b7 Lot Blue Cap \u00b7 Report 2605280334",
+        "url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280334.pdf",
+        "reportId": "2605280334",
+        "status": "current",
+        "sizeLabel": "N/A",
+        "lot": "Blue Cap",
+        "reportedResults": {
+          "Reported content": "9.92 mg",
+          "Purity": "99.33%",
+          "Endotoxin result": "Pass",
+          "Microbial result": "Pass"
+        },
+        "formulation": null
+      },
+      "source_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280334.pdf",
+      "http_status": 200,
+      "final_url": "https://bulkglp.com/wp-content/uploads/bglp-coas/Bulk2605280334.pdf",
+      "content_type": "application/pdf",
+      "sha256": "ced85f94581cf99f887fb9b611c63e6cf888277ca6673d8e037c0fde71bd17aa",
+      "bytes": 312063,
+      "source_file": "sources/coa/Bulk2605280334.pdf",
+      "retrieved_at_utc": "2026-10-22T05:42:44.211753+00:00",
+      "extracted_text_file": "sources/coa/Bulk2605280334.pdf.txt",
+      "extracted_text_chars": 1859
+    }
+  ],
+  "errors": []
+}
