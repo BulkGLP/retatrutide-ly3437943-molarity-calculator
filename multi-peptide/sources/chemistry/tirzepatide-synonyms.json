@@ -1,0 +1,60 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tirzepatide/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:55Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 166567236,
+          "Synonym": [
+            "Tirzepatide",
+            "2023788-19-2",
+            "Mounjaro (TN)",
+            "Zepbound (TN)",
+            "Tirzepatide free base?",
+            "Tirzepatide (JAN/USAN)",
+            "SCHEMBL29871912",
+            "WLZ4518",
+            "BP-43671",
+            "D11360"
+          ]
+        },
+        {
+          "CID": 168009818,
+          "Synonym": [
+            "Tirzepatide",
+            "2023788-19-2",
+            "DA-78491",
+            "SY356777"
+          ]
+        },
+        {
+          "CID": 163285897,
+          "Synonym": [
+            "Tirzepatide",
+            "2023788-19-2",
+            "orb1679856",
+            "CHEBI:194186",
+            "TP1111"
+          ]
+        },
+        {
+          "CID": 166639051,
+          "Synonym": [
+            "Tirzepatide",
+            "2023788-19-2",
+            "EX-A6945"
+          ]
+        },
+        {
+          "CID": 172915556,
+          "Synonym": [
+            "Tirzepatide",
+            "2023788-19-2",
+            "AT40456"
+          ]
+        }
+      ]
+    }
+  }
+}

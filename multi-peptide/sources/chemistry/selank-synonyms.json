@@ -1,0 +1,43 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Selank/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:53Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 11765600,
+          "Synonym": [
+            "Selank",
+            "129954-34-3",
+            "Selanc",
+            "Thr-Lys-Pro-Arg-Pro-Gly-Pro",
+            "TS9JR8EP1G",
+            "L-Proline, L-threonyl-L-lysyl-L-prolyl-L-arginyl-L-prolylglycyl-",
+            "Threonyl-lysyl-prolyl-arginyl-prolyl-glycyl-proline",
+            "DTXSID701029276",
+            "L-Proline, 1-(N-(1-(N2-(1-(N2-L-threonyl-L-lysyl)-L-prolyl)-L-arginyl)-L-prolyl)glycyl)-",
+            "RefChem:56002",
+            "DTXCID601514541",
+            "TP-7",
+            "L-threonyl-L-lysyl-L-prolyl-L-arginyl-L-prolylglycyl-L-Proline",
+            "TP 7",
+            "UNII-TS9JR8EP1G",
+            "TP-7 (diacetate)",
+            "(2S)-1-[2-[[(2S)-1-[(2S)-2-[[(2S)-1-[(2S)-6-amino-2-[[(2S,3R)-2-amino-3-hydroxybutanoyl]amino]hexanoyl]pyrrolidine-2-carbonyl]amino]-5-(diaminomethylideneamino)pentanoyl]pyrrolidine-2-carbonyl]amino]acetyl]pyrrolidine-2-carboxylic acid",
+            "Threonyl-lysyl-prolyl-arginyl-prolyl-glycyl-proline [WHO-DD]",
+            "orb1705593",
+            "SCHEMBL29364463",
+            "SCHEMBL31437195",
+            "GLXC-15287",
+            "AKOS040744609",
+            "DA-77782",
+            "HY-105042",
+            "CS-0024768",
+            "H57605",
+            "T20515"
+          ]
+        }
+      ]
+    }
+  }
+}

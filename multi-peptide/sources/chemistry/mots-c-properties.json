@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/MOTS-c/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:57Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 146675088,
+          "MolecularFormula": "C101H152N28O22S2",
+          "MolecularWeight": "2174.6",
+          "ExactMass": "2174.1110958",
+          "MonoisotopicMass": "2173.1077409",
+          "Title": "Mots-c"
+        }
+      ]
+    }
+  }
+}

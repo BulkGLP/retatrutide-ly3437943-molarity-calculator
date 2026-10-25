@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Tesamorelin/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:48Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 16137828,
+          "MolecularFormula": "C221H366N72O67S",
+          "MolecularWeight": "5136",
+          "ExactMass": "5134.7233503",
+          "MonoisotopicMass": "5132.7166406",
+          "Title": "Tesamorelin"
+        }
+      ]
+    }
+  }
+}

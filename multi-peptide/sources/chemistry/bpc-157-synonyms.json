@@ -1,0 +1,52 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/BPC-157/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:58Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 9941957,
+          "Synonym": [
+            "137525-51-0",
+            "Bpc-157",
+            "Bpc 157",
+            "Bepecin",
+            "Bpc 15",
+            "L-Valine, glycyl-L-alpha-glutamyl-L-prolyl-L-prolyl-L-prolylglycyl-L-lysyl-L-prolyl-L-alanyl-L-alpha-aspartyl-L-alpha-aspartyl-L-alanylglycyl-L-leucyl-",
+            "pl-10",
+            "8ED8NXK95P",
+            "PLD-116",
+            "PL-14736",
+            "RefChem:121176",
+            "(4S)-4-((2-aminoacetyl)amino)-5-((2S)-2-((2S)-2-((2S)-2-((2-(((2S)-6-amino-1-((2S)-2-(((2S)-1-(((2S)-3-carboxy-1-(((2S)-3-carboxy-1-(((2S)-1-((2-(((2S)-1-(((1S)-1-carboxy-2-methylpropyl)amino)-4-methyl-1-oxopentan-2-yl)amino)-2-oxoethyl)amino)-1-oxopropan-2-yl)amino)-1-oxopropan-2-yl)amino)-1-oxopropan-2-yl)amino)-1-oxopropan-2-yl)carbamoyl)pyrrolidin-1-yl)-1-oxohexan-2-yl)amino)-2-oxoethyl)carbamoyl)pyrrolidine-1-carbonyl)pyrrolidine-1-carbonyl)pyrrolidin-1-yl)-5-oxopentanoic acid",
+            "MFCD06407962",
+            "Bpc157",
+            "Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val",
+            "Booly protection compound 15",
+            "(2S,5S,11S,14S,17S)-14-(Carboxymethyl)-17-((S)-2-((S)-1-(glycyl-L-glutamyl-L-prolyl-L-prolyl-L-prolylglycyl-L-lysyl)pyrrolidine-2-carboxamido)propanamido)-5-isobutyl-2-isopropyl-11-methyl-4,7,10,13,16-pentaoxo-3,6,9,12,15-pentaazanonadecanedioic acid",
+            "C62H98N16O22",
+            "BPC-157 free base",
+            "BPC 157 trifluoroacetate",
+            "UNII-8ED8NXK95P",
+            "H-GEPPPGKPADDAGLV-OH",
+            "Gastric Juice Peptide Fragment",
+            "BPC 157 trifluoroacetate salt",
+            "CHEMBL4297358",
+            "SCHEMBL29406057",
+            "DTXSID301365509",
+            "EX-A4283",
+            "MFA52551",
+            "AKOS032945961",
+            "DB11882",
+            "BP-50443",
+            "BS-14984",
+            "D84081",
+            "Q27270252",
+            "L-Valine, glycyl-L-I+/--glutamyl-L-prolyl-L-prolyl-L-prolylglycyl-L-lysyl-L-prolyl-L-alanyl-L-I+/--aspartyl-L-I+/--aspartyl-L-alanylglycyl-L-leucyl-",
+            "L-Valine,(2S,5S,11S,14S,17S)-14-(carboxymethyl)-17-((S)-2-((S)-1-(glycyl-L-glutamyl-L-prolyl-L-prolyl-L-prolylglycyl-L-lysyl)pyrrolidine-2-carboxamido)propanamido)-5-isobutyl-2-isopropyl-11-methyl-4,7,10,13,16-pentaoxo-3,6,9,12,15-pentaazanonadecanedioic"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Lys-Pro-Val/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:56Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 125672,
+          "Synonym": [
+            "67727-97-3",
+            "Lys-pro-val",
+            "L-Lysyl-L-prolyl-L-valine",
+            "Msh (11-13)",
+            "RefChem:159939",
+            "alpha-Msh (11-13)",
+            "L-Valine, N-(1-L-lysyl-L-prolyl)-",
+            "a-MSH (11-13) (free acid)",
+            "Lysyl-prolyl-valine",
+            "(S)-2-((S)-1-((S)-2,6-Diaminohexanoyl)pyrrolidine-2-carboxamido)-3-methylbutanoic acid",
+            "ACTH-(11-13)",
+            "alpha-MSH (11-13) (free acid)",
+            "alpha-MSH(11-13)",
+            "H-Lys-Pro-Val-OH AcOH",
+            "(2S)-2-[[(2S)-1-[(2S)-2,6-diaminohexanoyl]pyrrolidine-2-carbonyl]amino]-3-methylbutanoic acid",
+            "N-[Hydroxy(1-lysylpyrrolidin-2-yl)methylidene]valine",
+            "H-LYS-PRO-VAL-OH ACETATE SALT",
+            "7V6LGD8S5R",
+            "alpha-Melanotropin(11-13)",
+            "alpha-MSH(11-13)[pig]",
+            "alpha-MSH(11-13)[human]",
+            "L-Valine, L-lysyl-L-prolyl-",
+            "orb1985597",
+            "SCHEMBL29350414",
+            "DTXSID80987067",
+            "CHEBI:160254",
+            "KPV Peptide (ACTH 11-13)",
+            "alpha-Melanotropin(11-13)[pig]",
+            "alpha-Melanotropin(11-13)[human]",
+            "EX-A17551",
+            "AKOS040753155",
+            "|A-MSH (11-13)",
+            "AT52601",
+            "AC-38403",
+            "FM109220",
+            "HY-129724",
+            "alpha-Msh (11-13) (free acid) acetate salt",
+            "T33515",
+            "N-{Hydroxy[(2S)-1-L-lysylpyrrolidin-2-yl]methylidene}-L-valine"
+          ]
+        }
+      ]
+    }
+  }
+}

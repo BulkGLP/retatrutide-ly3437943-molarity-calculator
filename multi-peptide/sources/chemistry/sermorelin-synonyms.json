@@ -1,0 +1,50 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Sermorelin/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:48Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 16132413,
+          "Synonym": [
+            "SERMORELIN",
+            "Sermorelina",
+            "86168-78-7",
+            "Sermoreline",
+            "Sermorelinum",
+            "DTXSID70903978",
+            "89243S03TE",
+            "TYR-ALA-ASP-ALA-ILE-PHE-THR-ASN-SER-TYR-ARG-LYS-VAL-LEU-GLY-GLN-LEU-SER-ALA-ARG-LYS-LEU-LEU-GLN-ASP-ILE-MET-SER-ARG-NH2",
+            "CHEBI:9118",
+            "Groliberin",
+            "hGHRH(1-29)NH2",
+            "RefChem:182524",
+            "GHRH(1-29)NH2",
+            "H01AC04",
+            "V04CD03",
+            "GRF(1-29)NH2",
+            "DTXCID301331916",
+            "Somatotropin-Releasing-Hormone(1-29)Amide",
+            "Growth Hormone-Releasing Factor(1-29)Amide",
+            "Sermoreline [French]",
+            "Sermorelinum [Latin]",
+            "Sermorelina [Spanish]",
+            "Sermorelin [INN:BAN]",
+            "SCHEMBL34139",
+            "UNII-89243S03TE",
+            "EX-A5534",
+            "BDBM50004966",
+            "AC-8930",
+            "AT52447",
+            "L-tyrosyl-L-alanyl-L-alpha-aspartyl-L-alanyl-L-isoleucyl-L-phenylalanyl-L-threonyl-L-asparaginyl-L-seryl-L-tyrosyl-L-arginyl-L-lysyl-L-valyl-L-leucylglycyl-L-glutaminyl-L-leucyl-L-seryl-L-alanyl-L-arginyl-L-lysyl-L-leucyl-L-leucyl-L-glutaminyl-L-alpha-aspartyl-L-isoleucyl-L-methionyl-L-seryl-L-argininamide",
+            "Somatoliberin (human pancreatic islet), 29-L-argininamide-30-de-L-glutamine-31-de-L-glutamine-32-deglycine-33-de-L-glutamic acid-34-de-L-serine-35-de-L-asparagine-36-de-L-glutamine-37-de-L-glutamic acid-38-de-L-arginine-39-deglycine-40-de-L-alanine-41-de-L-arginine-42-de-L-alanine-43-de-L-argininyl-44-de-L-leucinamide",
+            "Tyr-Ala-Asp-Ala-Ile-Phe-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg(GRF(1-29)-NH2)",
+            "Tyr-Ala-Asp-Ala-Ile-Phe-Thr-D-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg(D-Asn8,(1-29)-NH2)",
+            "Tyr-Ala-D-Asp-Ala-Ile-Phe-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg(D-Asp3,(1-29)-NH2)",
+            "Tyr-D-Ala-Asp-Ala-Ile-Phe-Thr-Asn-Ser-Tyr-Arg-Lys-Val-Leu-Gly-Gln-Leu-Ser-Ala-Arg-Lys-Leu-Leu-Gln-Asp-Ile-Met-Ser-Arg(D-Ala2(1-29)-NH2)"
+          ]
+        }
+      ]
+    }
+  }
+}

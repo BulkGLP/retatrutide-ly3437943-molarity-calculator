@@ -1,0 +1,69 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Bremelanotide/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:51Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 9941379,
+          "Synonym": [
+            "Bremelanotide",
+            "189691-06-3",
+            "Bremelanotida",
+            "6Y24O4F92S",
+            "PT-141 FREE BASE",
+            "PT 141",
+            "(3S,6S,9R,12S,15S,23S)-15-[[(2S)-2-acetamidohexanoyl]amino]-9-benzyl-6-[3-(diaminomethylideneamino)propyl]-12-(1H-imidazol-5-ylmethyl)-3-(1H-indol-3-ylmethyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexazacyclotricosane-23-carboxylic acid",
+            "DTXSID40893711",
+            "L-Lysine, N-acetyl-L-norleucyl-L-alpha-aspartyl-L-histidyl-D-phenylalanyl-L-arginyl-L-tryptophyl-, (2->7)-lactam",
+            "N-Acetyl-L-2-aminohexanoyl-L-alpha-aspartyl-L-histidyl-D-phenylalanyl-L-arginyl-L-tryptophyl-L-lysine-(2->7)-lactam",
+            "Bremelanotidum",
+            "(3S,6S,9R,12S,15S,23S)-15-(((2S)-2-acetamidohexanoyl)amino)-9-benzyl-6-(3-(diaminomethylideneamino)propyl)-12-(1H-imidazol-5-ylmethyl)-3-(1H-indol-3-ylmethyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexazacyclotricosane-23-carboxylic acid",
+            "RefChem:58355",
+            "DTXCID701323799",
+            "PT-141",
+            "Bremelanotide [USAN:INN]",
+            "UNII-6Y24O4F92S",
+            "PT141",
+            "Vyleesi (TN)",
+            "(3S,6S,9R,12S,15S,23S)-12-((1H-imidazol-5-yl)methyl)-3-((1H-indol-3-yl)methyl)-15-((S)-2-acetamidohexanamido)-9-benzyl-6-(3-guanidinopropyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexaazacyclotricosane-23-carboxylic acid",
+            "PT-141 (Bremelanotide)",
+            "Bremelanotide?",
+            "Bremelanotide PT 141",
+            "Bremelanotide, PT-141",
+            "N-Acetyl-L-norleucyl-L-alpha-aspartyl-L-histidyl-D-phenylalanyl-L-arginyl-L-tryptophyl-L-lysine (2-7)-lactam",
+            "BREMELANOTIDE [MI]",
+            "BREMELANOTIDE [INN]",
+            "Bremelanotide (USAN/INN)",
+            "BREMELANOTIDE [WHO-DD]",
+            "orb1987357",
+            "CHEMBL2070241",
+            "SCHEMBL13574795",
+            "SCHEMBL20337333",
+            "SCHEMBL29405727",
+            "SCHEMBL29575745",
+            "GTPL10408",
+            "CHEBI:177849",
+            "BDBM50389769",
+            "AKOS005145807",
+            "AT41880",
+            "DB11653",
+            "HS-2024",
+            "NCGC00522467-02",
+            "DA-61875",
+            "FB159119",
+            "HY-18678",
+            "CS-0013839",
+            "D06569",
+            "Q415353",
+            "BRD-K06328344-015-01-7",
+            "(3S,6S,9R,12S,15S,23S)-12-((1H-imidazol-4-yl)methyl)-3-((1H-indol-3-yl)methyl)-15-((S)-2-acetamidohexanamido)-9-benzyl-6-(3-guanidinopropyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexaazacyclotricosane-23-carboxylic acid",
+            "(3S,6S,9R,12S,15S,23S)-15-[(N-Acetyl-L-norleucyl)amino]-9-benzyl-6-[3-(carbamimidoylamino)propyl]-12-[(1H-imidazol-5-yl)methyl]-3-[(1H-indol-3-yl)methyl]-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexaazacyclotricosane-23-carboxylic acid",
+            "L-LYSINE, N-ACETYL-L-NORLEUCYL-L-.ALPHA.-ASPARTYL-L-HISTIDYL-D-PHENYLALANYL-L-ARGINYL-L-TRYPTOPHYL-, (2->7)-LACTAM",
+            "N-ACETYL-L-2-AMINOHEXANOYL-L-.ALPHA.-ASPARTYL-L-HISTIDYL-D-PHENYLALANYL-L-ARGINYL-L-TRYPTOPHYL-L-LYSINE-(2->7)-LACTAM"
+          ]
+        }
+      ]
+    }
+  }
+}

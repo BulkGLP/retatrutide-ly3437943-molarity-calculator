@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymalin/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:49Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 3085284,
+          "MolecularFormula": "C33H54N12O15",
+          "MolecularWeight": "858.9",
+          "ExactMass": "858.38315906",
+          "MonoisotopicMass": "858.38315906",
+          "Title": "Nonathymulin"
+        }
+      ]
+    }
+  }
+}

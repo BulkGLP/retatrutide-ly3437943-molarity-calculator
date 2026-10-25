@@ -1,0 +1,55 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Epitalon/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:50Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 219042,
+          "Synonym": [
+            "Epitalon",
+            "307297-39-8",
+            "Epithalon",
+            "Epithalone",
+            "Ala-Glu-Asp-Gly",
+            "AE-0 peptide",
+            "O65P17785G",
+            "Glycine, L-alanyl-L-alpha-glutamyl-L-alpha-aspartyl-",
+            "alanyl-glutamyl-aspartyl-glycine",
+            "DTXSID80952957",
+            "RefChem:921052",
+            "DTXCID801381023",
+            "(S)-4-((S)-2-aminopropanamido)-5-(((S)-3-carboxy-1-((carboxymethyl)amino)-1-oxopropan-2-yl)amino)-5-oxopentanoic acid",
+            "(4S)-4-[[(2S)-2-aminopropanoyl]amino]-5-[[(2S)-3-carboxy-1-(carboxymethylamino)-1-oxopropan-2-yl]amino]-5-oxopentanoic acid",
+            "64082-79-7",
+            "Epithalamin",
+            "L-Alanyl-L-glutamyl-L-aspartyl-glycine",
+            "Epithalamine",
+            "Epithalon?",
+            "UNII-O65P17785G",
+            "C14H22N4O9",
+            "MFCD04034655",
+            "orb1679634",
+            "SCHEMBL5685928",
+            "CHEBI:230091",
+            "GLXC-25920",
+            "HMA29739",
+            "HY-P1149",
+            "EX-A13753",
+            "TP1456",
+            "AC-33517",
+            "DA-63233",
+            "CS-0028299",
+            "G63737",
+            "Glycine, L-alanyl-L-?-glutamyl-L-?-aspartyl-",
+            "Glycine, L-alanyl-L-|A-glutamyl-L-|A-aspartyl-",
+            "L-alanyl-L-alpha-glutamyl-L-alpha-aspartylglycine",
+            "Q27285389",
+            "GLYCINE, L-ALANYL-L-.ALPHA.-GLUTAMYL-L-.ALPHA.-ASPARTYL-",
+            "(4S)-4-[[(2S)-2-aminopropanoyl]amino]-5-[[(1S)-1-(carboxymethyl)-2-(carboxymethylamino)-2-oxo-ethyl]amino]-5-oxo-pentanoic acid"
+          ]
+        }
+      ]
+    }
+  }
+}

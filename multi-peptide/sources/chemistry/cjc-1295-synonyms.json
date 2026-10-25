@@ -1,0 +1,26 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/CJC-1295/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:48Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 91971820,
+          "Synonym": [
+            "CJC 1295",
+            "CJC-1295",
+            "62RC32V9N7",
+            "DTXSID501027567",
+            "CJC1295",
+            "RefChem:918751",
+            "DTXCID701513160",
+            "GRF 1-29 (CJC1295)",
+            "446262-90-4",
+            "UNII-62RC32V9N7",
+            "L-Lysinamide,L-Tyrosyl-D-alanyl-L-|A-aspartyl-L-alanyl-L-isoleucyl-L-phenylalanyl-L-threonyl-L-glutaminyl-L-seryl-L-tyrosyl-L-arginyl-L-lysyl-L-valyl-L-leucyl-L-alanyl-L-glutaminyl-L-leucyl-L-seryl-L-alanyl-L-arginyl-L-lysyl-L-leucyl-L-leucyl-L-glutaminyl-"
+          ]
+        }
+      ]
+    }
+  }
+}

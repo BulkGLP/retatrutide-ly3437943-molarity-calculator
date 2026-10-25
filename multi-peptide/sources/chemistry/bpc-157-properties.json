@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/BPC-157/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:57Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 9941957,
+          "MolecularFormula": "C62H98N16O22",
+          "MolecularWeight": "1419.5",
+          "ExactMass": "1418.70415882",
+          "MonoisotopicMass": "1418.70415882",
+          "Title": "Bpc-157"
+        }
+      ]
+    }
+  }
+}

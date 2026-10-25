@@ -1,0 +1,60 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Afamelanotide/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:57Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 16197727,
+          "Synonym": [
+            "Afamelanotide",
+            "Melanotan",
+            "4-Norleucyl-7-phenylalanine-alpha-msh",
+            "DTXSID40226843",
+            "NDPMSH",
+            "(Nle(4),D-Phe(7))alpha-MSH",
+            "RefChem:57383",
+            "D02BB02",
+            "DTXCID70149334",
+            "(4S)-4-(((2S)-2-(((2S)-2-(((2S)-2-(((2S)-2-acetamido-3-hydroxypropanoyl)amino)-3-(4-hydroxyphenyl)propanoyl)amino)-3-hydroxypropanoyl)amino)hexanoyl)amino)-5-(((2S)-1-(((2R)-1-(((2S)-1-(((2S)-1-((2-(((2S)-6-amino-1-((2S)-2-(((2S)-1-amino-3-methyl-1-oxobutan-2-yl)carbamoyl)pyrrolidin-1-yl)-1-oxohexan-2-yl)amino)-2-oxoethyl)amino)-3-(1H-indol-3-yl)-1-oxopropan-2-yl)amino)-5-carbamimidamido-1-oxopentan-2-yl)amino)-1-oxo-3-phenylpropan-2-yl)amino)-3-(1H-imidazol-4-yl)-1-oxopropan-2-yl)amino)-5-oxopentanoic acid",
+            "4-Nle-7-Phe-alpha-MSH",
+            "75921-69-6",
+            "Ac-Ser-Tyr-Ser-Nle-Glu-His-D-Phe-Arg-Trp-Gly-Lys-Pro-Val-NH2",
+            "afamelanotida",
+            "afamelanotidum",
+            "alpha-MSH, Nle(4)-Phe(7)-",
+            "alpha-MSH, norleucyl(4)-D-phenylalanyl(7)-",
+            "CHEBI:136034",
+            "CUV 1647",
+            "CUV-1647",
+            "CUV1647",
+            "Melanotan I",
+            "Melanotan-1",
+            "MSH, 4-Nle-7-Phe-alpha-",
+            "Msh, 4-norleucyl-7-phenylalanine-alpha-",
+            "MT-1 (NleFMSH)",
+            "NDP-alpha-MSH",
+            "Ndp-msh",
+            "QW68W3J66U",
+            "alpha-NDP-MSH",
+            "[Nle4,dPhe7]alpha-MSH",
+            "Afamelanotide?",
+            "Scenesse (TN)",
+            "Afamelanotide (USAN/INN)",
+            "GTPL1324",
+            "SCHEMBL28803668",
+            "BDBM50017181",
+            "AKOS040763896",
+            "DB04931",
+            "NCGC00167334-01",
+            "DA-50255",
+            "M7530",
+            "D10511",
+            "Q410794",
+            "[Nle4, D-Phe7]-alpha-Melanocyte Stimulating Hormone"
+          ]
+        }
+      ]
+    }
+  }
+}

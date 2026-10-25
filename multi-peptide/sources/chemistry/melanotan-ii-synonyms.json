@@ -1,0 +1,63 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Melanotan%20II/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:41:56Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 92432,
+          "Synonym": [
+            "Melanotan II",
+            "121062-08-6",
+            "Melanotan-II",
+            "UPF5CJ93X7",
+            "DTXSID90153135",
+            "L-Lysinamide, N-acetyl-L-norleucyl-L-alpha-aspartyl-L-histidyl-D-phenylalanyl-L-arginyl-L-tryptophyl-, cyclic (2-7)-peptide",
+            "RefChem:925444",
+            "DTXCID3075626",
+            "MT-II",
+            "Melanotan (MT)-II",
+            "Melatonan",
+            "CHEMBL430239",
+            "(3S,6S,9R,12S,15S,23S)-15-[[(2S)-2-acetamidohexanoyl]amino]-9-benzyl-6-[3-(diaminomethylideneamino)propyl]-12-(1H-imidazol-5-ylmethyl)-3-(1H-indol-3-ylmethyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexazacyclotricosane-23-carboxamide",
+            "Melanotan II acetate salt",
+            "C50H69N15O9",
+            "Ac-Nle-Cyclo[Asp-His-D-Phe-Arg-Trp-Lys]-NH2",
+            "(3S,6S,9R,12S,15S,23S)-12-((1H-imidazol-5-yl)methyl)-3-((1H-indol-3-yl)methyl)-15-((S)-2-acetamidohexanamido)-9-benzyl-6-(3-guanidinopropyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexaazacyclotricosane-23-carboxamide",
+            "MTII",
+            "MelanotanII",
+            "Melanotan II?",
+            "UNII-UPF5CJ93X7",
+            "MELANOTAN II [WHO-DD]",
+            "ebi_340792",
+            "GTPL1323",
+            "orb1296657",
+            "SCHEMBL1047531",
+            "SCHEMBL29473785",
+            "CHEBI:195326",
+            "EX-A7394",
+            "HY-P0267",
+            "BDBM50027084",
+            "BDBM50184359",
+            "MFCD06795842",
+            "AKOS015994654",
+            "HS-2017",
+            "NCGC00167281-01",
+            "DA-55328",
+            "FA109114",
+            "M1650",
+            "F93947",
+            "Q423855",
+            "Acetyl-(Nle4,Asp5,D-Phe7,Lys10)-cyclo-alpha-MSH (4-10) amide",
+            "(3S,6S,9R,12S,15S,23S)-12-((1H-imidazol-5-yl)methyl)-3-((1H-indol-3-yl)methyl)-15-((S)-2-acetamidohexanamido)-9-benzyl-6-(3-((diaminomethylene)amino)propyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexaazacyclotricosane-23-carboxamide",
+            "(3S,6S,9R,12S,15S,23S)-15-((S)-2-acetylamino-hexanoylamino)-9-benzyl-6-(3-guanidino-propyl)-12-(3H-imidazol-4-ylmethyl)-3-(1H-indol-3-ylmethyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18hexaaza-cyclotricosane-23-carboxylic acid amide",
+            "(3S,6S,9R,12S,15S,23S)-15-[(N-Acetyl-L-norleucyl)amino]-9-benzyl-6-{3-[(diaminomethylidene)amino]propyl}-12-[(1H-imidazol-5-yl)methyl]-3-[(1H-indol-3-yl)methyl]-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexaazacyclotricosane-23-carboxamide",
+            "(3S,6S,9R,12S,15S,23S)-15-[[(2S)-2-acetamidohexanoyl]amino]-9-benzyl-6-(3-guanidinopropyl)-12-(1H-imidazol-5-ylmethyl)-3-(1H-indol-3-ylmethyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexazacyclotricosane-23-carboxamide",
+            "(3S,6S,9R,12S,15S,23S)-9-benzyl-6-{3-[(diaminomethylidene)amino]propyl}-15-[(2S)-2-acetamidohexanamido]-12-(1H-imidazol-5-ylmethyl)-3-(1H-indol-3-ylmethyl)-2,5,8,11,14,17-hexaoxo-1,4,7,10,13,18-hexaazacyclotricosane-23-carboxamide",
+            "L-LYSINAMIDE, N-ACETYL-L-NORLEUCYL-L-.ALPHA.-ASPARTYL-L-HISTIDYL-D-PHENYLALANYL-L-ARGINYL-L-TRYPTOPHYL-, CYCLIC (2->7)-PEPTIDE"
+          ]
+        }
+      ]
+    }
+  }
+}

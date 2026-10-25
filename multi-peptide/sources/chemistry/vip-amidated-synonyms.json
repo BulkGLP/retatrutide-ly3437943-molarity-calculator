@@ -1,0 +1,21 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16140438/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:44:07Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 16140438,
+          "Synonym": [
+            "VIP (Human, Porcine)",
+            "PVA-4110-V",
+            "EX-A7439",
+            "TP1016",
+            "NCGC00167135-01",
+            "His-Ser-Asp-Ala-Val-Phe-Thr-Asp-Asn-Tyr-Thr-Arg-Leu-Arg- Lys-Gln-Met-Ala-Val-Lys-Lys-Tyr-Leu-Asn-Ser-Ile-Leu-Asn-NH2"
+          ]
+        }
+      ]
+    }
+  }
+}

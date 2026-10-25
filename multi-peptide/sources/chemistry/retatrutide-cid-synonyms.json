@@ -1,0 +1,20 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/171390338/synonyms/JSON",
+  "retrieved_utc": "2026-10-22T05:42:52Z",
+  "response": {
+    "InformationList": {
+      "Information": [
+        {
+          "CID": 171390338,
+          "Synonym": [
+            "Triple G",
+            "orb1981169",
+            "EX-A7826E",
+            "GTPL13769",
+            "T76279"
+          ]
+        }
+      ]
+    }
+  }
+}

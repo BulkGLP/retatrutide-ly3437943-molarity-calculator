@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/16140438/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:44:07Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 16140438,
+          "MolecularFormula": "C147H238N44O42S",
+          "MolecularWeight": "3325.8",
+          "ExactMass": "3324.7594538",
+          "MonoisotopicMass": "3323.7560990",
+          "Title": "VIP (Human, Porcine)"
+        }
+      ]
+    }
+  }
+}

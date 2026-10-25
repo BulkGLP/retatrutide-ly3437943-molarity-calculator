@@ -1,0 +1,7 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/NAD%2B/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:57Z",
+  "response": {
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+}

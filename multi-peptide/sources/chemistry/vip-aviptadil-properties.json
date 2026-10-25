@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/aviptadil/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:42:56Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 16132300,
+          "MolecularFormula": "C147H237N43O43S",
+          "MolecularWeight": "3326.8",
+          "ExactMass": "3325.7434694",
+          "MonoisotopicMass": "3324.7401145",
+          "Title": "Aviptadil"
+        }
+      ]
+    }
+  }
+}

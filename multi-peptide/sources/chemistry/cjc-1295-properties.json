@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/CJC-1295/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:48Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 91971820,
+          "MolecularFormula": "C165H269N47O46",
+          "MolecularWeight": "3647.2",
+          "ExactMass": "3646.0188391",
+          "MonoisotopicMass": "3645.0154843",
+          "Title": "Cjc 1295"
+        }
+      ]
+    }
+  }
+}

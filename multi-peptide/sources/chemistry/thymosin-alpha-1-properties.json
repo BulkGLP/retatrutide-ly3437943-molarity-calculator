@@ -1,0 +1,18 @@
+{
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/Thymosin%20alpha%201/property/MolecularFormula,MolecularWeight,ExactMass,MonoisotopicMass,Title/JSON",
+  "retrieved_utc": "2026-10-22T05:41:52Z",
+  "response": {
+    "PropertyTable": {
+      "Properties": [
+        {
+          "CID": 16130571,
+          "MolecularFormula": "C129H215N33O55",
+          "MolecularWeight": "3108.3",
+          "ExactMass": "3107.5074829",
+          "MonoisotopicMass": "3106.5041281",
+          "Title": "Thymalfasin"
+        }
+      ]
+    }
+  }
+}
