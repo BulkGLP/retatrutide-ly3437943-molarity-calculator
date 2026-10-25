@@ -1,0 +1,33 @@
+{
+  "url": "https://bulkglp.com/product/tirzepatide/",
+  "final_url": "https://bulkglp.com/product/tirzepatide/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-10-22T05:42:33.323584+00:00",
+  "sha256": "1076723b13c76ffb98564cf26a877209a6d31eb6c885c04db4472f809dfac388",
+  "bytes": 67071,
+  "file": "sources/catalog/tirzepatide.html",
+  "headers": {
+    "Date": "Thu, 22 Oct 2026 05:42:33 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a4e62de6dda224e9-DFW",
+    "CF-Cache-Status": "EXPIRED",
+    "Cache-Control": "s-maxage=30, stale-while-revalidate=31535970",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "content-security-policy": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; script-src 'self' 'unsafe-inline' https://js.basistheory.com https://www.googletagmanager.com https://www.googleadservices.com https://www.google.com https://www.clarity.ms https://*.clarity.ms; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://*.clarity.ms https://c.bing.com; font-src 'self' data:; connect-src 'self' https://js.basistheory.com https://api.basistheory.com https://api.us.basistheory.com https://api.eu.basistheory.com https://api.test.basistheory.com https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://ad.doubleclick.net https://www.clarity.ms https://*.clarity.ms https://c.bing.com; frame-src 'self' https://js.basistheory.com https://3ds.basistheory.com https://www.googletagmanager.com; worker-src 'self' blob:; form-action 'self'",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "no-referrer",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-nextjs-cache": "STALE",
+    "x-nextjs-prerender": "1",
+    "x-nextjs-stale-time": "300",
+    "x-turbo-charged-by": "LiteSpeed",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=GW1ZHJe%2Bs%2Bgdmq6T3ayp%2FvkIEObB0Dxn35viRnszPUSVX9urfWP6yeYmOx4gzjuRbabMJd5P69XapNS%2Bp%2BbtDJJvMMIaE9VSFxasYZIqjiBE7cHYiqFX3iYL1Om4\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+  }
+}

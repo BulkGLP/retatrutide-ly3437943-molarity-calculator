@@ -1,0 +1,33 @@
+{
+  "url": "https://bulkglp.com/product/tesamorelin/",
+  "final_url": "https://bulkglp.com/product/tesamorelin/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-10-22T05:42:32.464637+00:00",
+  "sha256": "10a38ec27cc37ce59c55d1413b4b059369ca530902dd48569303e4924e309f63",
+  "bytes": 65961,
+  "file": "sources/catalog/tesamorelin.html",
+  "headers": {
+    "Date": "Thu, 22 Oct 2026 05:42:32 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a4e62de1dee1578f-DFW",
+    "CF-Cache-Status": "REVALIDATED",
+    "Cache-Control": "s-maxage=30, stale-while-revalidate=31535970",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "content-security-policy": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; script-src 'self' 'unsafe-inline' https://js.basistheory.com https://www.googletagmanager.com https://www.googleadservices.com https://www.google.com https://www.clarity.ms https://*.clarity.ms; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://*.clarity.ms https://c.bing.com; font-src 'self' data:; connect-src 'self' https://js.basistheory.com https://api.basistheory.com https://api.us.basistheory.com https://api.eu.basistheory.com https://api.test.basistheory.com https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://ad.doubleclick.net https://www.clarity.ms https://*.clarity.ms https://c.bing.com; frame-src 'self' https://js.basistheory.com https://3ds.basistheory.com https://www.googletagmanager.com; worker-src 'self' blob:; form-action 'self'",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "no-referrer",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-nextjs-cache": "STALE",
+    "x-nextjs-prerender": "1",
+    "x-nextjs-stale-time": "300",
+    "x-turbo-charged-by": "LiteSpeed",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=Whfzxiuk1hP7%2Bk4waKN32MkcC0W4XsrXFKodRfReaMn2TJnPRWhTwNerOghEsbnEcp7yXHmUgaHHC9q4Pmuomtr8xh%2FM%2BhCsOscLz1a44U0nSR8uEpU%2FceNdTBFf\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+    "alt-svc": "h3=\":443\"; ma=86400"
+  }
+}

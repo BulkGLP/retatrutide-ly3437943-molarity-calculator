@@ -1,0 +1,33 @@
+{
+  "url": "https://bulkglp.com/product/ta-1-10mg/",
+  "final_url": "https://bulkglp.com/product/ta-1-10mg/",
+  "http_status": 200,
+  "retrieved_at_utc": "2026-10-22T05:42:32.897011+00:00",
+  "sha256": "05b30168236e459746c4d3f204072149b303c568a82505bff50ec295655ef7a5",
+  "bytes": 66869,
+  "file": "sources/catalog/ta-1-10mg.html",
+  "headers": {
+    "Date": "Thu, 22 Oct 2026 05:42:32 GMT",
+    "Content-Type": "text/html; charset=utf-8",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "CF-Ray": "a4e62de439335e98-DFW",
+    "CF-Cache-Status": "EXPIRED",
+    "Cache-Control": "s-maxage=30, stale-while-revalidate=31535970",
+    "Server": "cloudflare",
+    "Strict-Transport-Security": "max-age=31536000",
+    "Vary": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch, Accept-Encoding",
+    "alt-svc": "h3=\":443\"; ma=86400",
+    "content-security-policy": "default-src 'self'; base-uri 'self'; object-src 'none'; frame-ancestors 'none'; script-src 'self' 'unsafe-inline' https://js.basistheory.com https://www.googletagmanager.com https://www.googleadservices.com https://www.google.com https://www.clarity.ms https://*.clarity.ms; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://*.clarity.ms https://c.bing.com; font-src 'self' data:; connect-src 'self' https://js.basistheory.com https://api.basistheory.com https://api.us.basistheory.com https://api.eu.basistheory.com https://api.test.basistheory.com https://www.google-analytics.com https://region1.google-analytics.com https://www.googletagmanager.com https://www.googleadservices.com https://googleads.g.doubleclick.net https://pagead2.googlesyndication.com https://www.google.com https://ad.doubleclick.net https://www.clarity.ms https://*.clarity.ms https://c.bing.com; frame-src 'self' https://js.basistheory.com https://3ds.basistheory.com https://www.googletagmanager.com; worker-src 'self' blob:; form-action 'self'",
+    "permissions-policy": "camera=(), microphone=(), geolocation=()",
+    "referrer-policy": "no-referrer",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "DENY",
+    "x-nextjs-cache": "STALE",
+    "x-nextjs-prerender": "1",
+    "x-nextjs-stale-time": "300",
+    "x-turbo-charged-by": "LiteSpeed",
+    "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=aQFbmhZ%2BRFcSz5tP9wjWBRUF6WFIcChz59LEAFx8iC19xZUE8EkmNWcqLzLCqAgPhQhJ4CmnI7HbjHO1SJ%2FsRB8h3mgxtsyhyxWP99tHTkn8Xn4Hgnx9hcnQzIE9\"}]}",
+    "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}"
+  }
+}
