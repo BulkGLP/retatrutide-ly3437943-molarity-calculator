@@ -2,7 +2,7 @@
 
 **44 catalog products accounted for. Publication readiness and mathematical completeness are separate.**
 
-Saved verifier: exit 0; 6827 checks; publication_ready=true; full_catalog_molarity_complete=false; http_fresh=true.
+Saved verifier: exit 0; 6938 checks; publication_ready=true; full_catalog_molarity_complete=false; http_fresh=true.
 
 Publication readiness means all accounting, integrity, arithmetic, COA, link and disclosure checks passed. It is not proof of independent laboratory authentication, chemical identification of every product, deployment or Google indexing.
 

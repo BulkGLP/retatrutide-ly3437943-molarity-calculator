@@ -1,5 +1,6 @@
 """Release contract: accounted-for withheld identities may publish; broken evidence may not."""
 import csv
+import hashlib
 import json
 import shutil
 import tempfile
@@ -29,6 +30,37 @@ class ReleaseGateTests(unittest.TestCase):
         result = verifier.verify(BASE, online=False)
         self.assertEqual(result.get('conditional_reference_product_slugs'), ['ghk-cu', 'ghk-cu-10000mg', 'tb-500'])
         self.assertEqual(result.get('nomenclature_conflict_product_slugs'), ['thymalin-10mg'])
+
+    def test_packaging_guard_rejects_renamed_reformatted_private_derived_text(self):
+        detector = getattr(verifier, 'forbidden_derivative_files', None)
+        self.assertTrue(callable(detector), 'A content-based public packaging guard is required')
+        root = self.copy_release()
+        path = root/'renamed-public-looking-notes.txt'
+        path.write_text('  Private\n DERIVED\t sample ALPHA  ', encoding='utf-8')
+        other = root/'different-export.json'
+        other.write_text('{"accession":"PRIVATE-FIXTURE-314","new_summary":"transformed"}', encoding='utf-8')
+        reference = root/'renamed-manifest-fragment.json'
+        reference.write_text('{"file":"BulkPRIVATE-FIXTURE-314.pdf.txt"}', encoding='utf-8')
+        # The normalized literal is independently hand-derived; byte hash cannot
+        # catch the reformatted text. Neither fixture contains a real report ID.
+        hits = detector([path, other, reference],
+            forbidden_bytes_sha256={hashlib.sha256(b'Private derived sample ALPHA').hexdigest()},
+            forbidden_text_sha256={hashlib.sha256(b'privatederivedsamplealpha').hexdigest()},
+            forbidden_identities={'PRIVATE-FIXTURE-314'})
+        self.assertEqual({r['path'] for r in hits}, {str(path), str(other), str(reference)})
+
+    def test_public_profile_rejects_orphan_coa_after_manifest_is_rehashed(self):
+        root = self.copy_release()
+        (root/'PUBLIC-PROVENANCE-PROFILE.json').write_text('{"public_sources_only":true}', encoding='utf-8')
+        path = root/'sources/coa/unreferenced-renamed-transcript.txt'
+        path.write_text('Synthetic unpublished report transcription. Not a public source.', encoding='utf-8')
+        manifest_path = root/'multi_peptide_source_manifest.json'
+        manifest = json.loads(manifest_path.read_text(encoding='utf-8'))
+        manifest['files'].append({'file':path.relative_to(root).as_posix(),'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),'bytes':path.stat().st_size})
+        manifest_path.write_text(json.dumps(manifest), encoding='utf-8')
+        result = verifier.verify(root, online=False)
+        self.assertTrue(any('not authorized by public COA provenance: sources/coa/unreferenced-renamed-transcript.txt' in error for error in result['errors']))
+        self.assertFalse(result['publication_ready'])
 
     def test_four_withheld_products_have_no_assigned_mass_or_matrix(self):
         inventory = json.loads((BASE/'catalog-coa-inventory.json').read_text(encoding='utf-8'))

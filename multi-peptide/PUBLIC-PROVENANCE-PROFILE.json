@@ -107,5 +107,8 @@
     }
   ],
   "scientific_scope": "Source transcriptions and explicitly declared reference conventions, not independent laboratory authentication.",
-  "deployment": "Additive /multi-peptide/ on existing GitHub Pages; preserve legacy root calculator and its 4731.33 convention."
+  "deployment": "Additive /multi-peptide/ on existing GitHub Pages; preserve legacy root calculator and its 4731.33 convention.",
+  "local_only_derived_artifacts_distributed": false,
+  "public_analytical_provenance_closure_enforced": true,
+  "packaging_guard_scope": "Local-only originals, extracted/reformatted transcripts, rendered derivatives and report identities are excluded using local provenance fingerprints; no private identities are distributed in this profile."
 }

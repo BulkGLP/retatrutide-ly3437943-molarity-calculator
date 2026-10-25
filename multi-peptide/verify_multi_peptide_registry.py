@@ -10,6 +10,7 @@ import hashlib
 import json
 import re
 import sys
+import unicodedata
 from datetime import datetime, timezone
 from decimal import Decimal
 from html.parser import HTMLParser
@@ -25,6 +26,28 @@ def csv_rows(root,name):
     with (root/name).open(encoding='utf-8',newline='') as stream:return list(csv.DictReader(stream))
 def sha(path):return hashlib.sha256(path.read_bytes()).hexdigest()
 def norm(value):return re.sub(r'\s+','',str(value)).casefold()
+
+def forbidden_derivative_files(paths, *, forbidden_bytes_sha256, forbidden_text_sha256, forbidden_identities):
+    """Content-based packaging check; callers retain private fingerprints locally.
+
+    Detect renamed bytes, reformatted transcripts and retained report identities
+    in any supplied artifact. No real private identity is embedded in this code.
+    """
+    findings=[]
+    for path in paths:
+        path=Path(path);data=path.read_bytes();reasons=[]
+        if hashlib.sha256(data).hexdigest() in forbidden_bytes_sha256:reasons.append('excluded source bytes')
+        text=data.decode('utf-8',errors='ignore')
+        if path.suffix.lower()=='.pdf':
+            try:
+                from pypdf import PdfReader
+                text+='\n'+'\n'.join(page.extract_text() or '' for page in PdfReader(path).pages)
+            except Exception:pass
+        normalized=re.sub(r'\s+','',unicodedata.normalize('NFKC',text)).casefold()
+        if hashlib.sha256(normalized.encode('utf-8')).hexdigest() in forbidden_text_sha256:reasons.append('excluded transcript content')
+        if any(identity in text for identity in forbidden_identities):reasons.append('excluded report identity or filename reference')
+        if reasons:findings.append({'path':str(path),'reasons':reasons})
+    return findings
 
 class Html(HTMLParser):
     def __init__(self):super().__init__();self.links=[];self.text=[];self.robots=[]
@@ -236,6 +259,32 @@ def verify(root,online=True):
     acquired=read(root,'inputs/coa-acquisition.json')['records'];locked={r['source_url']:r for r in acquired}
     coa_input=read(root,'inputs/coa-records.json');coa_input=coa_input if isinstance(coa_input,list) else coa_input['records']
     coa={r['source_url']:r for r in coa_input};coacsv=csv_rows(root,'multi_peptide_reported_coa_results.csv')
+    profile_path=root/'PUBLIC-PROVENANCE-PROFILE.json'
+    if profile_path.is_file() and read(root,'PUBLIC-PROVENANCE-PROFILE.json').get('public_sources_only'):
+        authorized={r['source_file'] for r in coa_input}
+        def evidence_files(value):
+            if isinstance(value,dict):
+                for key,item in value.items():
+                    if key.endswith('file') and isinstance(item,str) and item.startswith('sources/'):authorized.add(item)
+                    evidence_files(item)
+            elif isinstance(value,list):
+                for item in value:evidence_files(item)
+        evidence_files(coa_input)
+        for r in coa_input:
+            source=r['source_file']
+            authorized.update(source+suffix for suffix in ('.txt','.render.png','.meta.json'))
+            if source.endswith('.pdf'):authorized.add('sources/coa/pdf-renders/'+Path(source).name+'.png')
+        visual_name='sources/coa-image-transcriptions/visual-transcriptions.json'
+        if (root/visual_name).is_file():
+            visual=read(root,visual_name)
+            images={Path(r['source_file']).name:r for r in coa_input if Path(r['source_file']).suffix.lower() in ('.png','.jpg','.jpeg')}
+            check(len(visual)==len(images) and {r['file'] for r in visual}==set(images) and all(str(r['report'])==images[r['file']]['report_id'] for r in visual if r['file'] in images),'Raster visual transcription manifest maps outside approved public COA records')
+            authorized.update((visual_name,'sources/coa-image-transcriptions/build_image_records.py'))
+        for path in (root/'sources').rglob('*'):
+            relative=path.relative_to(root).as_posix()
+            if path.is_file() and relative.split('/')[1].startswith('coa'):
+                check(relative in authorized,'Analytical source not authorized by public COA provenance: '+relative)
+        check(not inv['local_coa_assets'].get('additional_records'),'Public-only profile retains local-only supplemental report records')
     check(len(coa)==49 and set(coa)==set(locked),'Published COA source set mismatch')
     check(len(coacsv)==49 and {r['source_url'] for r in coacsv}==set(coa),'COA CSV missing or duplicate sources')
     check(inv['coa_records']==coa_input,'Inventory COA records differ from reviewed transcription')
