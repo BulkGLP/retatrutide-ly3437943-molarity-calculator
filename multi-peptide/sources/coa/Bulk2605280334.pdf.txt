@@ -1,0 +1,15 @@
+Certificate of AnalysisFreedomDiagnosticsTesting.comAdmin@FreedomDiagnostics.net
+Client: BulkGLPAccession #: 2605280334 Search Code: Bulk2605280334 Received: 05/28/2026 Reported: 05/30/2026Lot: Blue Cap
+Sample Summary
+Product:Vitamin B12 10ml Purity: 99.33%
+Identity:Confirmed Net Content:9.92 mgAppearance:Red Liquid
+Fentanyl Screen: Negative
+Analytical Results
+Test ResultIdentity (LC-MS) Cyanocobalamin (B12)Purity (HPLC-UV) 99.33%Net Content 9.92 mg
+Method: Endotoxin testing performed using Limulus Amebocyte Lysate assay in accordance with USP <85> under validated laboratory conditions.Endotoxin Replicate 1: Pass Assay Sensitivity: ≤0.05 EU/mLEndotoxin Replicate 2: Pass Assay Sensitivity: ≤0.05 EU/mL
+Method: Microbial detection performed using validated polymerase chain reaction (PCR)-based assay targeting common microbial contaminants.
+Microbial Analysis (PCR)No Detectable Microbial DNAPass
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).
+Chromatogram
+Mass Confirmation
+                                          FreedomDiagnosticsTesting.com                                                 Admin@FreedomDiagnostics.net                              Principal Chemist Proudly Owned and Operated in the USA                              The peptide purity analysis reported here was conducted using LCMS/MS under standard laboratory conditions. This analysis is intended for informational purposes only and is specific to the sample(s) provided. The peptides tested are intended for research use only and are not approved for human or veterinary use, diagnostic, therapeutic, or clinical applications. Results should be interpreted by qualified professionals within the scope of the intended research. The accuracy and reliability of the test may be influenced by sample integrity, handling, and other experimental variables.

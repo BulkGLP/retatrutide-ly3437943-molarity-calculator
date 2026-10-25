@@ -1,0 +1,18 @@
+Certificate of AnalysisFreedomDiagnosticsTesting.comAdmin@FreedomDiagnostics.net
+Client: BulkGLPAccession #: 2608100929 Search Code: Bulk2608100929 Received: 8/10/2026 Reported: 8/14/2026Lot: 062504
+Sample Summary
+Product: RETATRUTIDE 50mgPurity: 99.87%
+Identity: Confirmed Net Content:54.13 mg
+Appearance:White Lyophilized PowderEndotoxin Threshold: PassMicrobial Analysis (PCR):PassFentanyl No Fentanyl Detected
+Analytical Results
+Test ResultIdentity (LC-MS) GLP RTPurity (HPLC-UV) 99.87%
+Net Content 54.13 mg
+Method: Endotoxin testing performed using Limulus Amebocyte Lysate assay in accordance with USP <85> under validated laboratory conditions.Endotoxin Replicate 1: Pass Assay Sensitivity: ≤0.05 EU/mL
+Endotoxin Replicate 2: Pass Assay Sensitivity: ≤0.05 EU/mL
+Method: Microbial detection performed using validated polymerase chain reaction (PCR)-based assay targeting common microbial contaminants.
+Microbial Analysis (PCR)No Detectable Microbial DNA
+Method: HPLC with UV detection coupled with mass spectrometry (LC-MS).
+Chromatogram
+Mass Confirmation
+FreedomDiagnosticsTesting.comAdmin@FreedomDiagnostics.netPrincipal Chemist Proudly Owned and Operated in the USA
+The peptide purity analysis reported here was conducted using LCMS/MS under standard laboratory conditions. This analysis is intended for informational purposes only and is specific to the sample(s) provided. The peptides tested are intended for research use only and are not approved for human or veterinary use, diagnostic, therapeutic, or clinical applications. Results should be interpreted by qualified professionals within the scope of the intended research. The accuracy and reliability of the test may be influenced by sample integrity, handling, and other experimental variables.
