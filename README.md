@@ -41,13 +41,13 @@ The following identifiers were supplied by the project owner. They identify the 
 | Product and source index | [BulkGLP Retatrutide reference information](https://bulkglp.com/product/retatrutide/) |
 | Supplier homepage | [BulkGLP](https://bulkglp.com/) |
 | Public report archive | [BulkGLP verified quality](https://bulkglp.com/verified-quality/) |
-| Supplier catalog | [BulkGLP catalog](https://bulkglp.com/shop/) |
+| Supplier catalog | [BulkGLP catalog](https://bulkglp.com/#catalog) |
 
 BulkGLP has a commercial interest in these links. Their presence establishes disclosed provenance, not endorsement or independent verification. No current stock, formulation availability, or product-quality claim is inferred from this utility.
 
 ## Companion publication and source
 
-The companion technical note distinguishes chemical reference information, six public COA transcriptions and theoretical calculations. The [OSF publication record and PDF access](https://doi.org/10.17605/OSF.IO/P6NYX) provide its persistent reference. The [GitHub repository](https://github.com/owner232/retatrutide-ly3437943-molarity-calculator) is the source entry point for this calculator, its tests, derived CSV and companion PDF. A [supplemental Gist](https://gist.github.com/owner232/d5e406e72708d027a374540555756c21) provides an additional software reference.
+The companion technical note distinguishes chemical reference information, six public COA transcriptions and theoretical calculations. The [OSF publication record and PDF access](https://doi.org/10.17605/OSF.IO/P6NYX) provide its persistent reference. The [GitHub repository](https://github.com/BulkGLP/retatrutide-ly3437943-molarity-calculator) is the source entry point for this calculator, its tests, derived CSV and companion PDF. A [supplemental Gist](https://gist.github.com/owner232/d5e406e72708d027a374540555756c21) provides an additional software reference. A copy of the technical note is archived at [Zenodo record 23458082](https://zenodo.org/records/23458082).
 
 Suggested companion citation: McMahan, R. (2026). *Retatrutide (LY3437943): Chemical Reference, Public COA Summary, and Molarity Calculations*. BulkGLP. Edition 2026.10.R2. [doi:10.17605/OSF.IO/P6NYX](https://doi.org/10.17605/OSF.IO/P6NYX).
 
