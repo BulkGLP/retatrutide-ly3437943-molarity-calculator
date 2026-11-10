@@ -78,7 +78,7 @@ source distribution, run `python -B -m unittest discover -v`.
 ## Source, attribution, and licenses
 
 This packaging release preserves the module, tests, and CSV from
-[upstream commit c2003d9](https://github.com/owner232/retatrutide-ly3437943-molarity-calculator/commit/c2003d972feaa378c58bf0571d01cf92f2923873).
+[upstream commit c2003d9](https://github.com/BulkGLP/retatrutide-ly3437943-molarity-calculator/commit/c2003d972feaa378c58bf0571d01cf92f2923873).
 Packaging configuration and this software-focused README are new.
 
 Prepared for [BulkGLP](https://bulkglp.com/) with AI assistance. BulkGLP is the commercial publisher;
